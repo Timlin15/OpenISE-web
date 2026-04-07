@@ -1,5 +1,5 @@
-baseURL: openise.workers.dev
-languageCode: en-us
+baseURL: openise.pages.dev
+languageCode: zh-cn
 title: OpenISE
 module:
   imports:

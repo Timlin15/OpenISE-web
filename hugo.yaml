@@ -1,0 +1,6 @@
+baseURL: openise.workers.dev
+languageCode: en-us
+title: OpenISE
+module:
+  imports:
+    - path: github.com/imfing/hextra

@@ -1,5 +1,6 @@
 {{- $node := .node -}}
 {{- $depth := .depth | default 0 -}}
+{{- $path := .path | default "" -}}
 {{- $names := slice -}}
 {{- range $name, $_ := $node -}}
   {{- $names = $names | append $name -}}
@@ -7,21 +8,58 @@
 {{- range sort $names -}}
   {{- $name := . -}}
   {{- $entry := index $node $name -}}
-  {{- $padding := mul $depth 24 -}}
+  {{- $padding := mul $depth 18 -}}
   {{- if eq $entry._type "folder" -}}
-    <tr>
-      <td style="padding-left: {{ $padding }}px;">📁 {{ $name }}</td>
-      <td></td>
-      <td></td>
-    </tr>
-    {{- partial "filetree-render.html" (dict "node" $entry._children "depth" (add $depth 1)) -}}
+    <details class="course-filetree-folder" {{ if lt $depth 1 }}open{{ end }}>
+      <summary class="course-filetree-summary" style="--depth: {{ $depth }};">
+        <div class="course-filetree-name" style="padding-left: {{ $padding }}px;">
+          <span class="course-filetree-icon" aria-hidden="true">{{ partial "filetree-icon.html" (dict "kind" "folder" "name" $name) }}</span>
+          <span class="course-filetree-name-text">
+            <strong>{{ $name }}</strong>
+            <span>文件夹</span>
+          </span>
+        </div>
+        <div class="course-filetree-meta">文件夹</div>
+        <div class="course-filetree-meta">-</div>
+        <div class="course-filetree-actions">
+          <span class="course-filetree-action course-filetree-chevron" aria-hidden="true">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+              <path d="m9 6 6 6-6 6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </span>
+        </div>
+      </summary>
+      <div class="course-filetree-children">
+        {{- partial "filetree-render.html" (dict "node" $entry._children "depth" (add $depth 1) "path" (printf "%s/%s" $path $name)) -}}
+      </div>
+    </details>
   {{- else if eq $entry._type "file" -}}
-    <tr>
-      <td style="padding-left: {{ $padding }}px;">
-        📄 <a href="{{ $entry.url }}" download>{{ $entry.name }}</a>
-      </td>
-      <td>{{ $entry.sizeHuman }}</td>
-      <td>{{ $entry.mtime }}</td>
-    </tr>
+    <div class="course-filetree-row" style="--depth: {{ $depth }};">
+      <div class="course-filetree-name" style="padding-left: {{ $padding }}px;">
+        <span class="course-filetree-icon" aria-hidden="true">{{ partial "filetree-icon.html" (dict "kind" "file" "name" $entry.name) }}</span>
+        <span class="course-filetree-name-text">
+          <a href="{{ $entry.url }}" target="_blank" rel="noreferrer">{{ $entry.name }}</a>
+          <span>{{ path.Ext $entry.name | strings.TrimPrefix "." | upper }}</span>
+        </span>
+      </div>
+      <div class="course-filetree-meta">{{ $entry.sizeHuman }}</div>
+      <div class="course-filetree-meta">{{ $entry.mtime }}</div>
+      <div class="course-filetree-actions">
+        <a class="course-filetree-action" href="{{ $entry.url }}" target="_blank" rel="noreferrer" aria-label="打开 {{ $entry.name }}">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none">
+            <path d="M14 5h5v5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M10 14 19 5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+        <a class="course-filetree-action" href="{{ $entry.url }}" download aria-label="下载 {{ $entry.name }}">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none">
+            <path d="M12 4v10" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+            <path d="m8 10 4 4 4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M5 19h14" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+          </svg>
+        </a>
+      </div>
+    </div>
   {{- end -}}
 {{- end -}}

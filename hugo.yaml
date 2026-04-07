@@ -1,4 +1,4 @@
-baseURL: openise.pages.dev
+baseURL: "https://openise.pages.dev/"
 languageCode: zh-cn
 title: OpenISE
 module:

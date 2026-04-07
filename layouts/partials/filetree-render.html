@@ -1,0 +1,27 @@
+{{- $node := .node -}}
+{{- $depth := .depth | default 0 -}}
+{{- $names := slice -}}
+{{- range $name, $_ := $node -}}
+  {{- $names = $names | append $name -}}
+{{- end -}}
+{{- range sort $names -}}
+  {{- $name := . -}}
+  {{- $entry := index $node $name -}}
+  {{- $padding := mul $depth 24 -}}
+  {{- if eq $entry._type "folder" -}}
+    <tr>
+      <td style="padding-left: {{ $padding }}px;">📁 {{ $name }}</td>
+      <td></td>
+      <td></td>
+    </tr>
+    {{- partial "filetree-render.html" (dict "node" $entry._children "depth" (add $depth 1)) -}}
+  {{- else if eq $entry._type "file" -}}
+    <tr>
+      <td style="padding-left: {{ $padding }}px;">
+        📄 <a href="{{ $entry.url }}" download>{{ $entry.name }}</a>
+      </td>
+      <td>{{ $entry.sizeHuman }}</td>
+      <td>{{ $entry.mtime }}</td>
+    </tr>
+  {{- end -}}
+{{- end -}}

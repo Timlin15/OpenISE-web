@@ -7,13 +7,13 @@ module:
 
 menu:
   main:
-    - name: Documentation
-      pageRef: /docs
+    - name: 课程
+      pageRef: /doc
       weight: 1
-    - name: Blog
-      pageRef: /blog
-      weight: 2
-    - name: About
+   # - name: Blog
+   #   pageRef: /blog
+   #   weight: 2
+    - name: 关于
       pageRef: /about
       weight: 3
     - name: Search
@@ -22,6 +22,6 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/Timlin15/openise"
+      url: "https://github.com/changyicheng1234/sysu-ise-course-materials"
       params:
         icon: github

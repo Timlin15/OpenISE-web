@@ -1,0 +1,21 @@
+{{- $path := .Get "path" -}}
+{{- $node := index site.Data.files $path -}}
+
+<table>
+  <thead>
+    <tr>
+      <th>文件名</th>
+      <th>大小</th>
+      <th>日期</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{- if $node -}}
+      {{- partial "filetree-render.html" (dict "node" $node "depth" 0) -}}
+    {{- else -}}
+      <tr>
+        <td colspan="3">暂无文件</td>
+      </tr>
+    {{- end -}}
+  </tbody>
+</table>

@@ -793,6 +793,22 @@
                           "mtime": "2026/04/07",
                           "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/00-大一上/军理/pan/军理/军理/军理/军理题库各种版/军理900题题库.docx"
                         },
+                        "军理A1上.jpg": {
+                          "_type": "file",
+                          "name": "军理A1上.jpg",
+                          "size": 1768508,
+                          "sizeHuman": "1.7 MB",
+                          "mtime": "2019/11/20",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/00-大一上/军理/pan/军理/军理/军理/军理题库各种版/军理A1上.jpg"
+                        },
+                        "军理A2下.jpg": {
+                          "_type": "file",
+                          "name": "军理A2下.jpg",
+                          "size": 1797597,
+                          "sizeHuman": "1.7 MB",
+                          "mtime": "2019/11/20",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/00-大一上/军理/pan/军理/军理/军理/军理题库各种版/军理A2下.jpg"
+                        },
                         "军理试题（最新版）.docx": {
                           "_type": "file",
                           "name": "军理试题（最新版）.docx",
@@ -988,6 +1004,14 @@
                       "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/00-大一上/军理/pan/军理/军理/军理/第二部分是非题.docx"
                     }
                   }
+                },
+                "~$军理要点导航.doc": {
+                  "_type": "file",
+                  "name": "~$军理要点导航.doc",
+                  "size": 162,
+                  "sizeHuman": "162 B",
+                  "mtime": "2020/12/30",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/00-大一上/军理/pan/军理/军理/~$军理要点导航.doc"
                 },
                 "军事理论考试复习资料.doc": {
                   "_type": "file",
@@ -2925,6 +2949,14 @@
                   "mtime": "2026/04/07",
                   "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/01-大一下/人工智能编程语言/2024秋季学期/实验与大作业-林楗棋/第四次作业/readExcel.m"
                 },
+                "sonar.xls": {
+                  "_type": "file",
+                  "name": "sonar.xls",
+                  "size": 251392,
+                  "sizeHuman": "245.5 KB",
+                  "mtime": "2025/06/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/01-大一下/人工智能编程语言/2024秋季学期/实验与大作业-林楗棋/第四次作业/sonar.xls"
+                },
                 "林楗棋-24363050-第四次作业.pdf": {
                   "_type": "file",
                   "name": "林楗棋-24363050-第四次作业.pdf",
@@ -2944,6 +2976,22 @@
                     "population_data": {
                       "_type": "folder",
                       "_children": {
+                        "Figure_mean_matlab.png": {
+                          "_type": "file",
+                          "name": "Figure_mean_matlab.png",
+                          "size": 58933,
+                          "sizeHuman": "57.6 KB",
+                          "mtime": "2025/06/07",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/01-大一下/人工智能编程语言/2024秋季学期/实验与大作业-林楗棋/课程设计/Matlab实现/population_data/Figure_mean_matlab.png"
+                        },
+                        "Figure_min_matlab.png": {
+                          "_type": "file",
+                          "name": "Figure_min_matlab.png",
+                          "size": 49546,
+                          "sizeHuman": "48.4 KB",
+                          "mtime": "2025/06/07",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/01-大一下/人工智能编程语言/2024秋季学期/实验与大作业-林楗棋/课程设计/Matlab实现/population_data/Figure_min_matlab.png"
+                        },
                         "g0.json": {
                           "_type": "file",
                           "name": "g0.json",
@@ -3042,6 +3090,22 @@
                     "population_data": {
                       "_type": "folder",
                       "_children": {
+                        "Figure_mean.png": {
+                          "_type": "file",
+                          "name": "Figure_mean.png",
+                          "size": 63178,
+                          "sizeHuman": "61.7 KB",
+                          "mtime": "2025/06/07",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/01-大一下/人工智能编程语言/2024秋季学期/实验与大作业-林楗棋/课程设计/Python实现/population_data/Figure_mean.png"
+                        },
+                        "Figure_min.png": {
+                          "_type": "file",
+                          "name": "Figure_min.png",
+                          "size": 43140,
+                          "sizeHuman": "42.1 KB",
+                          "mtime": "2025/06/07",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/01-大一下/人工智能编程语言/2024秋季学期/实验与大作业-林楗棋/课程设计/Python实现/population_data/Figure_min.png"
+                        },
                         "g0.json": {
                           "_type": "file",
                           "name": "g0.json",
@@ -6197,6 +6261,22 @@
               "sizeHuman": "116.8 KB",
               "mtime": "2026/04/07",
               "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/微机原理/2025秋季学期/小测/微机原理课堂小测 二 （2025周二班）（答案版）.pdf"
+            },
+            "微机重点1.jpg": {
+              "_type": "file",
+              "name": "微机重点1.jpg",
+              "size": 509117,
+              "sizeHuman": "497.2 KB",
+              "mtime": "2026/01/01",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/微机原理/2025秋季学期/小测/微机重点1.jpg"
+            },
+            "微机重点2.jpg": {
+              "_type": "file",
+              "name": "微机重点2.jpg",
+              "size": 225527,
+              "sizeHuman": "220.2 KB",
+              "mtime": "2026/01/01",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/微机原理/2025秋季学期/小测/微机重点2.jpg"
             }
           }
         },
@@ -6530,6 +6610,14 @@
                   "sizeHuman": "46.0 KB",
                   "mtime": "2026/04/07",
                   "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/1-实验一(python入门)/assignment1.ipynb"
+                },
+                "diabetes.csv": {
+                  "_type": "file",
+                  "name": "diabetes.csv",
+                  "size": 23866,
+                  "sizeHuman": "23.3 KB",
+                  "mtime": "2025/09/04",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/1-实验一(python入门)/diabetes.csv"
                 }
               }
             },
@@ -6543,6 +6631,38 @@
                   "sizeHuman": "140.8 KB",
                   "mtime": "2026/04/07",
                   "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/assignment2.ipynb"
+                },
+                "test.csv": {
+                  "_type": "file",
+                  "name": "test.csv",
+                  "size": 993,
+                  "sizeHuman": "993 B",
+                  "mtime": "2025/09/21",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/test.csv"
+                },
+                "test2.csv": {
+                  "_type": "file",
+                  "name": "test2.csv",
+                  "size": 1950,
+                  "sizeHuman": "1.9 KB",
+                  "mtime": "2025/09/21",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/test2.csv"
+                },
+                "train.csv": {
+                  "_type": "file",
+                  "name": "train.csv",
+                  "size": 3970,
+                  "sizeHuman": "3.9 KB",
+                  "mtime": "2025/09/21",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/train.csv"
+                },
+                "train2.csv": {
+                  "_type": "file",
+                  "name": "train2.csv",
+                  "size": 7781,
+                  "sizeHuman": "7.6 KB",
+                  "mtime": "2025/09/21",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/train2.csv"
                 }
               }
             },
@@ -6556,6 +6676,46 @@
                   "sizeHuman": "232.3 KB",
                   "mtime": "2026/04/07",
                   "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/assignment3.ipynb"
+                },
+                "flower_test.csv": {
+                  "_type": "file",
+                  "name": "flower_test.csv",
+                  "size": 460,
+                  "sizeHuman": "460 B",
+                  "mtime": "2025/10/12",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/flower_test.csv"
+                },
+                "flower_train.csv": {
+                  "_type": "file",
+                  "name": "flower_train.csv",
+                  "size": 1773,
+                  "sizeHuman": "1.7 KB",
+                  "mtime": "2025/10/12",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/flower_train.csv"
+                },
+                "introduction.csv": {
+                  "_type": "file",
+                  "name": "introduction.csv",
+                  "size": 148,
+                  "sizeHuman": "148 B",
+                  "mtime": "2025/10/12",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/introduction.csv"
+                },
+                "test_titanic.csv": {
+                  "_type": "file",
+                  "name": "test_titanic.csv",
+                  "size": 7195,
+                  "sizeHuman": "7.0 KB",
+                  "mtime": "2025/10/12",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/test_titanic.csv"
+                },
+                "train_titanic.csv": {
+                  "_type": "file",
+                  "name": "train_titanic.csv",
+                  "size": 24276,
+                  "sizeHuman": "23.7 KB",
+                  "mtime": "2025/10/12",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/train_titanic.csv"
                 },
                 "实验报告.pdf": {
                   "_type": "file",
@@ -6578,6 +6738,22 @@
                   "mtime": "2026/04/07",
                   "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/4-实验四(神经网络)/assignment4.ipynb"
                 },
+                "wine_test.csv": {
+                  "_type": "file",
+                  "name": "wine_test.csv",
+                  "size": 42683,
+                  "sizeHuman": "41.7 KB",
+                  "mtime": "2025/11/02",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/4-实验四(神经网络)/wine_test.csv"
+                },
+                "wine_train.csv": {
+                  "_type": "file",
+                  "name": "wine_train.csv",
+                  "size": 163969,
+                  "sizeHuman": "160.1 KB",
+                  "mtime": "2025/11/02",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/4-实验四(神经网络)/wine_train.csv"
+                },
                 "实验报告.pdf": {
                   "_type": "file",
                   "name": "实验报告.pdf",
@@ -6591,6 +6767,22 @@
             "5-实验五(支持向量机)": {
               "_type": "folder",
               "_children": {
+                "Raisin_test.csv": {
+                  "_type": "file",
+                  "name": "Raisin_test.csv",
+                  "size": 15554,
+                  "sizeHuman": "15.2 KB",
+                  "mtime": "2025/11/16",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/Raisin_test.csv"
+                },
+                "Raisin_train.csv": {
+                  "_type": "file",
+                  "name": "Raisin_train.csv",
+                  "size": 62388,
+                  "sizeHuman": "60.9 KB",
+                  "mtime": "2025/11/16",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/Raisin_train.csv"
+                },
                 "assignment5.ipynb": {
                   "_type": "file",
                   "name": "assignment5.ipynb",
@@ -6598,6 +6790,22 @@
                   "sizeHuman": "148.9 KB",
                   "mtime": "2026/04/07",
                   "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/assignment5.ipynb"
+                },
+                "dataset1.csv": {
+                  "_type": "file",
+                  "name": "dataset1.csv",
+                  "size": 1125,
+                  "sizeHuman": "1.1 KB",
+                  "mtime": "2025/11/16",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/dataset1.csv"
+                },
+                "dataset2.csv": {
+                  "_type": "file",
+                  "name": "dataset2.csv",
+                  "size": 1106,
+                  "sizeHuman": "1.1 KB",
+                  "mtime": "2025/11/16",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/dataset2.csv"
                 },
                 "实验报告.pdf": {
                   "_type": "file",
@@ -6619,6 +6827,22 @@
                   "sizeHuman": "23.8 KB",
                   "mtime": "2026/04/07",
                   "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/6-实验六(决策树）/assignment6.ipynb"
+                },
+                "test_titanic.csv": {
+                  "_type": "file",
+                  "name": "test_titanic.csv",
+                  "size": 2255,
+                  "sizeHuman": "2.2 KB",
+                  "mtime": "2025/12/07",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/6-实验六(决策树）/test_titanic.csv"
+                },
+                "train_titanic.csv": {
+                  "_type": "file",
+                  "name": "train_titanic.csv",
+                  "size": 11132,
+                  "sizeHuman": "10.9 KB",
+                  "mtime": "2025/12/07",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/机器学习/2025年秋季学期/课程实验-林楗棋/6-实验六(决策树）/train_titanic.csv"
                 },
                 "实验报告.pdf": {
                   "_type": "file",
@@ -6833,6 +7057,14 @@
           "sizeHuman": "14.1 KB",
           "mtime": "2026/04/07",
           "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/马克思主义基本原理/真题/25-0112.docx"
+        },
+        "ae1659f214731c26039745d15ffa92e4.jpg": {
+          "_type": "file",
+          "name": "ae1659f214731c26039745d15ffa92e4.jpg",
+          "size": 431090,
+          "sizeHuman": "421.0 KB",
+          "mtime": "2025/12/21",
+          "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/马克思主义基本原理/真题/ae1659f214731c26039745d15ffa92e4.jpg"
         }
       }
     },
@@ -7599,6 +7831,38 @@
                     "images": {
                       "_type": "folder",
                       "_children": {
+                        "example.png": {
+                          "_type": "file",
+                          "name": "example.png",
+                          "size": 168438,
+                          "sizeHuman": "164.5 KB",
+                          "mtime": "2025/11/19",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/高级程序设计及实验（C++）/2025秋季学期/实验与大作业-林楗棋/lab6/cpp_lab4/images/example.png"
+                        },
+                        "example1.jpg": {
+                          "_type": "file",
+                          "name": "example1.jpg",
+                          "size": 114386,
+                          "sizeHuman": "111.7 KB",
+                          "mtime": "2025/11/19",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/高级程序设计及实验（C++）/2025秋季学期/实验与大作业-林楗棋/lab6/cpp_lab4/images/example1.jpg"
+                        },
+                        "readme1.jpg": {
+                          "_type": "file",
+                          "name": "readme1.jpg",
+                          "size": 42998,
+                          "sizeHuman": "42.0 KB",
+                          "mtime": "2025/11/19",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/高级程序设计及实验（C++）/2025秋季学期/实验与大作业-林楗棋/lab6/cpp_lab4/images/readme1.jpg"
+                        },
+                        "readme2.jpg": {
+                          "_type": "file",
+                          "name": "readme2.jpg",
+                          "size": 89388,
+                          "sizeHuman": "87.3 KB",
+                          "mtime": "2025/11/19",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/高级程序设计及实验（C++）/2025秋季学期/实验与大作业-林楗棋/lab6/cpp_lab4/images/readme2.jpg"
+                        },
                         "readme3.JPG": {
                           "_type": "file",
                           "name": "readme3.JPG",
@@ -7633,6 +7897,14 @@
                       "mtime": "2026/04/07",
                       "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/高级程序设计及实验（C++）/2025秋季学期/实验与大作业-林楗棋/lab6/cpp_lab4/icon - 副本.pngZone.Identifier"
                     },
+                    "icon.png": {
+                      "_type": "file",
+                      "name": "icon.png",
+                      "size": 234785,
+                      "sizeHuman": "229.3 KB",
+                      "mtime": "2025/11/17",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/高级程序设计及实验（C++）/2025秋季学期/实验与大作业-林楗棋/lab6/cpp_lab4/icon.png"
+                    },
                     "icon.pngZone.Identifier": {
                       "_type": "file",
                       "name": "icon.pngZone.Identifier",
@@ -7641,6 +7913,14 @@
                       "mtime": "2026/04/07",
                       "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/高级程序设计及实验（C++）/2025秋季学期/实验与大作业-林楗棋/lab6/cpp_lab4/icon.pngZone.Identifier"
                     },
+                    "icons.png": {
+                      "_type": "file",
+                      "name": "icons.png",
+                      "size": 63963,
+                      "sizeHuman": "62.5 KB",
+                      "mtime": "2025/11/19",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/高级程序设计及实验（C++）/2025秋季学期/实验与大作业-林楗棋/lab6/cpp_lab4/icons.png"
+                    },
                     "main.aux": {
                       "_type": "file",
                       "name": "main.aux",
@@ -7648,6 +7928,14 @@
                       "sizeHuman": "2.9 KB",
                       "mtime": "2026/04/07",
                       "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/高级程序设计及实验（C++）/2025秋季学期/实验与大作业-林楗棋/lab6/cpp_lab4/main.aux"
+                    },
+                    "main.log": {
+                      "_type": "file",
+                      "name": "main.log",
+                      "size": 61563,
+                      "sizeHuman": "60.1 KB",
+                      "mtime": "2025/11/19",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/高级程序设计及实验（C++）/2025秋季学期/实验与大作业-林楗棋/lab6/cpp_lab4/main.log"
                     },
                     "main.out": {
                       "_type": "file",
@@ -7696,6 +7984,14 @@
                       "sizeHuman": "501 B",
                       "mtime": "2026/04/07",
                       "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/高级程序设计及实验（C++）/2025秋季学期/实验与大作业-林楗棋/lab6/cpp_lab4/myref.bib"
+                    },
+                    "result.png": {
+                      "_type": "file",
+                      "name": "result.png",
+                      "size": 78114,
+                      "sizeHuman": "76.3 KB",
+                      "mtime": "2025/11/19",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/高级程序设计及实验（C++）/2025秋季学期/实验与大作业-林楗棋/lab6/cpp_lab4/result.png"
                     }
                   }
                 },
@@ -7902,6 +8198,10 @@
                             "CompilerIdC": {
                               "_type": "folder",
                               "_children": {
+                                "tmp": {
+                                  "_type": "folder",
+                                  "_children": {}
+                                },
                                 "CMakeCCompilerId.c": {
                                   "_type": "file",
                                   "name": "CMakeCCompilerId.c",
@@ -7923,6 +8223,10 @@
                             "CompilerIdCXX": {
                               "_type": "folder",
                               "_children": {
+                                "tmp": {
+                                  "_type": "folder",
+                                  "_children": {}
+                                },
                                 "CMakeCXXCompilerId.cpp": {
                                   "_type": "file",
                                   "name": "CMakeCXXCompilerId.cpp",
@@ -7982,6 +8286,14 @@
                               "url": "https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/智能科学与技术/10-大二上/高级程序设计及实验（C++）/2025秋季学期/实验与大作业-林楗棋/大作业/build/CMakeFiles/3.31.10/CMakeSystem.cmake"
                             }
                           }
+                        },
+                        "CMakeScratch": {
+                          "_type": "folder",
+                          "_children": {}
+                        },
+                        "pkgRedirects": {
+                          "_type": "folder",
+                          "_children": {}
                         },
                         "run_tests.dir": {
                           "_type": "folder",

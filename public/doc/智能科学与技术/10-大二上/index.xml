@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenISE – 大二上</title>
-    <link>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/</link>
+    <link>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/</link>
     <description>Recent content in 大二上 on OpenISE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	  <atom:link href="https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,14 +16,14 @@
     
     <item>
       <title>C&#43;&#43;程序设计</title>
-      <link>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%AE%9E%E9%AA%8C%EF%BC%88C&#43;&#43;%EF%BC%89/</link>
+      <link>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%AE%9E%E9%AA%8C%EF%BC%88C&#43;&#43;%EF%BC%89/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%AE%9E%E9%AA%8C%EF%BC%88C&#43;&#43;%EF%BC%89/</guid>
+      <guid>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%AE%9E%E9%AA%8C%EF%BC%88C&#43;&#43;%EF%BC%89/</guid>
       <description>
         
         
-        &lt;h1&gt;C++程序设计&lt;/h1&gt;&lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%a4%8d%e4%b9%a0%e7%ad%96%e7%95%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;课程信息&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;课程信息&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e8%af%be%e7%a8%8b%e4%bf%a1%e6%81%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;授课老师&lt;/strong&gt;：冯国栋，谭光&lt;/li&gt;
@@ -3067,6 +3067,36 @@
     &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 4;&#34;&gt;
       &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 72px;&#34;&gt;
         &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;rect x=&#34;4.75&#34; y=&#34;5.25&#34; width=&#34;14.5&#34; height=&#34;13.5&#34; rx=&#34;2&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34;/&gt;
+    &lt;circle cx=&#34;9&#34; cy=&#34;10&#34; r=&#34;1.5&#34; fill=&#34;currentColor&#34;/&gt;
+    &lt;path d=&#34;m7 16 3.2-3.2a1 1 0 0 1 1.4 0L13 14l1.7-1.7a1 1 0 0 1 1.41.01L18 14.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/icon.png&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;icon.png&lt;/a&gt;
+          &lt;span&gt;PNG&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;229.3 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/11/17&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/icon.png&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 icon.png&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/icon.png&#34; download aria-label=&#34;下载 icon.png&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 4;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 72px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
     &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
     &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
   &lt;/svg&gt;&lt;/span&gt;
@@ -3086,6 +3116,36 @@
           &lt;/svg&gt;
         &lt;/a&gt;
         &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/icon.png%ef%80%baZone.Identifier&#34; download aria-label=&#34;下载 icon.pngZone.Identifier&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 4;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 72px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;rect x=&#34;4.75&#34; y=&#34;5.25&#34; width=&#34;14.5&#34; height=&#34;13.5&#34; rx=&#34;2&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34;/&gt;
+    &lt;circle cx=&#34;9&#34; cy=&#34;10&#34; r=&#34;1.5&#34; fill=&#34;currentColor&#34;/&gt;
+    &lt;path d=&#34;m7 16 3.2-3.2a1 1 0 0 1 1.4 0L13 14l1.7-1.7a1 1 0 0 1 1.41.01L18 14.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/icons.png&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;icons.png&lt;/a&gt;
+          &lt;span&gt;PNG&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;62.5 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/11/19&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/icons.png&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 icons.png&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/icons.png&#34; download aria-label=&#34;下载 icons.png&#34;&gt;
           &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
             &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
             &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
@@ -3115,6 +3175,126 @@
         &lt;/div&gt;
       &lt;/summary&gt;
       &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 5;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 90px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;rect x=&#34;4.75&#34; y=&#34;5.25&#34; width=&#34;14.5&#34; height=&#34;13.5&#34; rx=&#34;2&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34;/&gt;
+    &lt;circle cx=&#34;9&#34; cy=&#34;10&#34; r=&#34;1.5&#34; fill=&#34;currentColor&#34;/&gt;
+    &lt;path d=&#34;m7 16 3.2-3.2a1 1 0 0 1 1.4 0L13 14l1.7-1.7a1 1 0 0 1 1.41.01L18 14.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/images/example.png&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;example.png&lt;/a&gt;
+          &lt;span&gt;PNG&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;164.5 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/11/19&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/images/example.png&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 example.png&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/images/example.png&#34; download aria-label=&#34;下载 example.png&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 5;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 90px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;rect x=&#34;4.75&#34; y=&#34;5.25&#34; width=&#34;14.5&#34; height=&#34;13.5&#34; rx=&#34;2&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34;/&gt;
+    &lt;circle cx=&#34;9&#34; cy=&#34;10&#34; r=&#34;1.5&#34; fill=&#34;currentColor&#34;/&gt;
+    &lt;path d=&#34;m7 16 3.2-3.2a1 1 0 0 1 1.4 0L13 14l1.7-1.7a1 1 0 0 1 1.41.01L18 14.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/images/example1.jpg&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;example1.jpg&lt;/a&gt;
+          &lt;span&gt;JPG&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;111.7 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/11/19&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/images/example1.jpg&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 example1.jpg&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/images/example1.jpg&#34; download aria-label=&#34;下载 example1.jpg&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 5;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 90px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;rect x=&#34;4.75&#34; y=&#34;5.25&#34; width=&#34;14.5&#34; height=&#34;13.5&#34; rx=&#34;2&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34;/&gt;
+    &lt;circle cx=&#34;9&#34; cy=&#34;10&#34; r=&#34;1.5&#34; fill=&#34;currentColor&#34;/&gt;
+    &lt;path d=&#34;m7 16 3.2-3.2a1 1 0 0 1 1.4 0L13 14l1.7-1.7a1 1 0 0 1 1.41.01L18 14.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/images/readme1.jpg&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;readme1.jpg&lt;/a&gt;
+          &lt;span&gt;JPG&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;42.0 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/11/19&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/images/readme1.jpg&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 readme1.jpg&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/images/readme1.jpg&#34; download aria-label=&#34;下载 readme1.jpg&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 5;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 90px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;rect x=&#34;4.75&#34; y=&#34;5.25&#34; width=&#34;14.5&#34; height=&#34;13.5&#34; rx=&#34;2&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34;/&gt;
+    &lt;circle cx=&#34;9&#34; cy=&#34;10&#34; r=&#34;1.5&#34; fill=&#34;currentColor&#34;/&gt;
+    &lt;path d=&#34;m7 16 3.2-3.2a1 1 0 0 1 1.4 0L13 14l1.7-1.7a1 1 0 0 1 1.41.01L18 14.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/images/readme2.jpg&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;readme2.jpg&lt;/a&gt;
+          &lt;span&gt;JPG&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;87.3 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/11/19&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/images/readme2.jpg&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 readme2.jpg&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/images/readme2.jpg&#34; download aria-label=&#34;下载 readme2.jpg&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 5;&#34;&gt;
       &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 90px;&#34;&gt;
         &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
     &lt;rect x=&#34;4.75&#34; y=&#34;5.25&#34; width=&#34;14.5&#34; height=&#34;13.5&#34; rx=&#34;2&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34;/&gt;
@@ -3196,6 +3376,35 @@
           &lt;/svg&gt;
         &lt;/a&gt;
         &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/main.aux&#34; download aria-label=&#34;下载 main.aux&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 4;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 72px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/main.log&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;main.log&lt;/a&gt;
+          &lt;span&gt;LOG&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;60.1 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/11/19&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/main.log&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 main.log&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/main.log&#34; download aria-label=&#34;下载 main.log&#34;&gt;
           &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
             &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
             &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
@@ -3371,6 +3580,36 @@
           &lt;/svg&gt;
         &lt;/a&gt;
         &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/myref.bib&#34; download aria-label=&#34;下载 myref.bib&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 4;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 72px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;rect x=&#34;4.75&#34; y=&#34;5.25&#34; width=&#34;14.5&#34; height=&#34;13.5&#34; rx=&#34;2&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34;/&gt;
+    &lt;circle cx=&#34;9&#34; cy=&#34;10&#34; r=&#34;1.5&#34; fill=&#34;currentColor&#34;/&gt;
+    &lt;path d=&#34;m7 16 3.2-3.2a1 1 0 0 1 1.4 0L13 14l1.7-1.7a1 1 0 0 1 1.41.01L18 14.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/result.png&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;result.png&lt;/a&gt;
+          &lt;span&gt;PNG&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;76.3 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/11/19&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/result.png&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 result.png&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%ab%98%e7%ba%a7%e7%a8%8b%e5%ba%8f%e8%ae%be%e8%ae%a1%e5%8f%8a%e5%ae%9e%e9%aa%8c%ef%bc%88C&amp;#43;&amp;#43;%ef%bc%89/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%ae%9e%e9%aa%8c%e4%b8%8e%e5%a4%a7%e4%bd%9c%e4%b8%9a-%e6%9e%97%e6%a5%97%e6%a3%8b/lab6/cpp_lab4/result.png&#34; download aria-label=&#34;下载 result.png&#34;&gt;
           &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
             &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
             &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
@@ -4419,7 +4658,29 @@
           &lt;/svg&gt;
         &lt;/a&gt;
       &lt;/div&gt;
-    &lt;/div&gt;&lt;/div&gt;
+    &lt;/div&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+      &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 7;&#34;&gt;
+        &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 126px;&#34;&gt;
+          &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M3.5 7.5A2.5 2.5 0 0 1 6 5h3.3c.5 0 1 .2 1.4.55l1.3 1.3c.19.19.44.3.7.3H18a2.5 2.5 0 0 1 2.5 2.5v6.82A2.5 2.5 0 0 1 18 19H6a2.5 2.5 0 0 1-2.5-2.5V7.5Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+          &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+            &lt;strong&gt;tmp&lt;/strong&gt;
+            &lt;span&gt;文件夹&lt;/span&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;course-filetree-meta&#34;&gt;文件夹&lt;/div&gt;
+        &lt;div class=&#34;course-filetree-meta&#34;&gt;-&lt;/div&gt;
+        &lt;div class=&#34;course-filetree-actions&#34;&gt;
+          &lt;span class=&#34;course-filetree-action course-filetree-chevron&#34; aria-hidden=&#34;true&#34;&gt;
+            &lt;svg width=&#34;16&#34; height=&#34;16&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+              &lt;path d=&#34;m9 6 6 6-6 6&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;/svg&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/summary&gt;
+      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;/div&gt;
+    &lt;/details&gt;&lt;/div&gt;
     &lt;/details&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 6;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 108px;&#34;&gt;
@@ -4498,7 +4759,29 @@
           &lt;/svg&gt;
         &lt;/a&gt;
       &lt;/div&gt;
-    &lt;/div&gt;&lt;/div&gt;
+    &lt;/div&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+      &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 7;&#34;&gt;
+        &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 126px;&#34;&gt;
+          &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M3.5 7.5A2.5 2.5 0 0 1 6 5h3.3c.5 0 1 .2 1.4.55l1.3 1.3c.19.19.44.3.7.3H18a2.5 2.5 0 0 1 2.5 2.5v6.82A2.5 2.5 0 0 1 18 19H6a2.5 2.5 0 0 1-2.5-2.5V7.5Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+          &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+            &lt;strong&gt;tmp&lt;/strong&gt;
+            &lt;span&gt;文件夹&lt;/span&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;course-filetree-meta&#34;&gt;文件夹&lt;/div&gt;
+        &lt;div class=&#34;course-filetree-meta&#34;&gt;-&lt;/div&gt;
+        &lt;div class=&#34;course-filetree-actions&#34;&gt;
+          &lt;span class=&#34;course-filetree-action course-filetree-chevron&#34; aria-hidden=&#34;true&#34;&gt;
+            &lt;svg width=&#34;16&#34; height=&#34;16&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+              &lt;path d=&#34;m9 6 6 6-6 6&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;/svg&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/summary&gt;
+      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;/div&gt;
+    &lt;/details&gt;&lt;/div&gt;
     &lt;/details&gt;&lt;/div&gt;
     &lt;/details&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 5;&#34;&gt;
       &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 90px;&#34;&gt;
@@ -4587,7 +4870,29 @@
           &lt;/svg&gt;
         &lt;/a&gt;
       &lt;/div&gt;
-    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 5;&#34;&gt;
+    &lt;/div&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+      &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 5;&#34;&gt;
+        &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 90px;&#34;&gt;
+          &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M3.5 7.5A2.5 2.5 0 0 1 6 5h3.3c.5 0 1 .2 1.4.55l1.3 1.3c.19.19.44.3.7.3H18a2.5 2.5 0 0 1 2.5 2.5v6.82A2.5 2.5 0 0 1 18 19H6a2.5 2.5 0 0 1-2.5-2.5V7.5Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+          &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+            &lt;strong&gt;CMakeScratch&lt;/strong&gt;
+            &lt;span&gt;文件夹&lt;/span&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;course-filetree-meta&#34;&gt;文件夹&lt;/div&gt;
+        &lt;div class=&#34;course-filetree-meta&#34;&gt;-&lt;/div&gt;
+        &lt;div class=&#34;course-filetree-actions&#34;&gt;
+          &lt;span class=&#34;course-filetree-action course-filetree-chevron&#34; aria-hidden=&#34;true&#34;&gt;
+            &lt;svg width=&#34;16&#34; height=&#34;16&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+              &lt;path d=&#34;m9 6 6 6-6 6&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;/svg&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/summary&gt;
+      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;/div&gt;
+    &lt;/details&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 5;&#34;&gt;
       &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 90px;&#34;&gt;
         &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
     &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
@@ -4645,7 +4950,29 @@
           &lt;/svg&gt;
         &lt;/a&gt;
       &lt;/div&gt;
-    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 5;&#34;&gt;
+    &lt;/div&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+      &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 5;&#34;&gt;
+        &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 90px;&#34;&gt;
+          &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M3.5 7.5A2.5 2.5 0 0 1 6 5h3.3c.5 0 1 .2 1.4.55l1.3 1.3c.19.19.44.3.7.3H18a2.5 2.5 0 0 1 2.5 2.5v6.82A2.5 2.5 0 0 1 18 19H6a2.5 2.5 0 0 1-2.5-2.5V7.5Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+          &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+            &lt;strong&gt;pkgRedirects&lt;/strong&gt;
+            &lt;span&gt;文件夹&lt;/span&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;course-filetree-meta&#34;&gt;文件夹&lt;/div&gt;
+        &lt;div class=&#34;course-filetree-meta&#34;&gt;-&lt;/div&gt;
+        &lt;div class=&#34;course-filetree-actions&#34;&gt;
+          &lt;span class=&#34;course-filetree-action course-filetree-chevron&#34; aria-hidden=&#34;true&#34;&gt;
+            &lt;svg width=&#34;16&#34; height=&#34;16&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+              &lt;path d=&#34;m9 6 6 6-6 6&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;/svg&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/summary&gt;
+      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;/div&gt;
+    &lt;/details&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 5;&#34;&gt;
       &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 90px;&#34;&gt;
         &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
     &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
@@ -6539,14 +6866,14 @@
     
     <item>
       <title>人工智能基础与进阶实训</title>
-      <link>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%B8%8E%E8%BF%9B%E9%98%B6%E5%AE%9E%E8%AE%AD/</link>
+      <link>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%B8%8E%E8%BF%9B%E9%98%B6%E5%AE%9E%E8%AE%AD/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%B8%8E%E8%BF%9B%E9%98%B6%E5%AE%9E%E8%AE%AD/</guid>
+      <guid>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E4%B8%8E%E8%BF%9B%E9%98%B6%E5%AE%9E%E8%AE%AD/</guid>
       <description>
         
         
-        &lt;h1&gt;人工智能基础与进阶实训&lt;/h1&gt;&lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%a4%8d%e4%b9%a0%e7%ad%96%e7%95%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;课程信息&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;课程信息&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e8%af%be%e7%a8%8b%e4%bf%a1%e6%81%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;学分&lt;/strong&gt;：4学分（重要）&lt;/li&gt;
@@ -6842,14 +7169,14 @@
     
     <item>
       <title>传感器原理与应用</title>
-      <link>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1%E5%AE%9E%E9%AA%8C/</link>
+      <link>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1%E5%AE%9E%E9%AA%8C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1%E5%AE%9E%E9%AA%8C/</guid>
+      <guid>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1%E5%AE%9E%E9%AA%8C/</guid>
       <description>
         
         
-        &lt;h1&gt;传感器原理与应用&lt;/h1&gt;&lt;h2&gt;课程信息&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;课程信息&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;课程信息&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;课程信息&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e8%af%be%e7%a8%8b%e4%bf%a1%e6%81%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;授课教师&lt;/strong&gt;：魏亮亮&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;学分&lt;/strong&gt;：1学分&lt;/li&gt;
@@ -7399,14 +7726,14 @@
     
     <item>
       <title>信号与系统</title>
-      <link>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/</link>
+      <link>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/</guid>
+      <guid>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/</guid>
       <description>
         
         
-        &lt;h1&gt;信号与系统&lt;/h1&gt;&lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%a4%8d%e4%b9%a0%e7%ad%96%e7%95%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;课程信息&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;课程信息&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e8%af%be%e7%a8%8b%e4%bf%a1%e6%81%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;学分&lt;/strong&gt;：2学分&lt;/li&gt;
@@ -7719,14 +8046,14 @@
     
     <item>
       <title>工程数学</title>
-      <link>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E5%B7%A5%E7%A8%8B%E6%95%B0%E5%AD%A6/</link>
+      <link>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E5%B7%A5%E7%A8%8B%E6%95%B0%E5%AD%A6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E5%B7%A5%E7%A8%8B%E6%95%B0%E5%AD%A6/</guid>
+      <guid>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E5%B7%A5%E7%A8%8B%E6%95%B0%E5%AD%A6/</guid>
       <description>
         
         
-        &lt;h1&gt;工程数学&lt;/h1&gt;&lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%a4%8d%e4%b9%a0%e7%ad%96%e7%95%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;课程信息&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;课程信息&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e8%af%be%e7%a8%8b%e4%bf%a1%e6%81%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;授课教师&lt;/strong&gt;：刘万泉，熊永阳&lt;/li&gt;
@@ -8201,14 +8528,14 @@
     
     <item>
       <title>微机原理</title>
-      <link>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86/</link>
+      <link>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86/</guid>
+      <guid>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86/</guid>
       <description>
         
         
-        &lt;h1&gt;微机原理&lt;/h1&gt;&lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%a4%8d%e4%b9%a0%e7%ad%96%e7%95%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;课程信息&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;课程信息&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e8%af%be%e7%a8%8b%e4%bf%a1%e6%81%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;授课老师&lt;/strong&gt;：何涛&lt;/li&gt;
@@ -10579,6 +10906,66 @@
           &lt;/svg&gt;
         &lt;/a&gt;
       &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 2;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 36px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;rect x=&#34;4.75&#34; y=&#34;5.25&#34; width=&#34;14.5&#34; height=&#34;13.5&#34; rx=&#34;2&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34;/&gt;
+    &lt;circle cx=&#34;9&#34; cy=&#34;10&#34; r=&#34;1.5&#34; fill=&#34;currentColor&#34;/&gt;
+    &lt;path d=&#34;m7 16 3.2-3.2a1 1 0 0 1 1.4 0L13 14l1.7-1.7a1 1 0 0 1 1.41.01L18 14.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e5%be%ae%e6%9c%ba%e5%8e%9f%e7%90%86/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%b0%8f%e6%b5%8b/%e5%be%ae%e6%9c%ba%e9%87%8d%e7%82%b91.jpg&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;微机重点1.jpg&lt;/a&gt;
+          &lt;span&gt;JPG&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;497.2 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2026/01/01&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e5%be%ae%e6%9c%ba%e5%8e%9f%e7%90%86/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%b0%8f%e6%b5%8b/%e5%be%ae%e6%9c%ba%e9%87%8d%e7%82%b91.jpg&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 微机重点1.jpg&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e5%be%ae%e6%9c%ba%e5%8e%9f%e7%90%86/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%b0%8f%e6%b5%8b/%e5%be%ae%e6%9c%ba%e9%87%8d%e7%82%b91.jpg&#34; download aria-label=&#34;下载 微机重点1.jpg&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 2;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 36px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;rect x=&#34;4.75&#34; y=&#34;5.25&#34; width=&#34;14.5&#34; height=&#34;13.5&#34; rx=&#34;2&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34;/&gt;
+    &lt;circle cx=&#34;9&#34; cy=&#34;10&#34; r=&#34;1.5&#34; fill=&#34;currentColor&#34;/&gt;
+    &lt;path d=&#34;m7 16 3.2-3.2a1 1 0 0 1 1.4 0L13 14l1.7-1.7a1 1 0 0 1 1.41.01L18 14.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e5%be%ae%e6%9c%ba%e5%8e%9f%e7%90%86/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%b0%8f%e6%b5%8b/%e5%be%ae%e6%9c%ba%e9%87%8d%e7%82%b92.jpg&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;微机重点2.jpg&lt;/a&gt;
+          &lt;span&gt;JPG&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;220.2 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2026/01/01&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e5%be%ae%e6%9c%ba%e5%8e%9f%e7%90%86/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%b0%8f%e6%b5%8b/%e5%be%ae%e6%9c%ba%e9%87%8d%e7%82%b92.jpg&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 微机重点2.jpg&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e5%be%ae%e6%9c%ba%e5%8e%9f%e7%90%86/2025%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e5%b0%8f%e6%b5%8b/%e5%be%ae%e6%9c%ba%e9%87%8d%e7%82%b92.jpg&#34; download aria-label=&#34;下载 微机重点2.jpg&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
     &lt;/div&gt;&lt;/div&gt;
     &lt;/details&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 1;&#34;&gt;
       &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 18px;&#34;&gt;
@@ -10621,14 +11008,14 @@
     
     <item>
       <title>数字逻辑</title>
-      <link>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1/</link>
+      <link>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1/</guid>
+      <guid>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1/</guid>
       <description>
         
         
-        &lt;h1&gt;数字逻辑&lt;/h1&gt;&lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%a4%8d%e4%b9%a0%e7%ad%96%e7%95%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;课程信息&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;课程信息&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e8%af%be%e7%a8%8b%e4%bf%a1%e6%81%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;学分&lt;/strong&gt;：2学分&lt;/li&gt;
@@ -11405,14 +11792,14 @@
     
     <item>
       <title>数据结构与算法</title>
-      <link>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</link>
+      <link>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</guid>
+      <guid>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</guid>
       <description>
         
         
-        &lt;h1&gt;数据结构与算法&lt;/h1&gt;&lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%a4%8d%e4%b9%a0%e7%ad%96%e7%95%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;课程信息&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;课程信息&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e8%af%be%e7%a8%8b%e4%bf%a1%e6%81%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;学分&lt;/strong&gt;：4学分（最重要，复习时间最长）&lt;/li&gt;
@@ -11736,14 +12123,14 @@
     
     <item>
       <title>机器学习</title>
-      <link>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+      <link>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
+      <guid>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
       <description>
         
         
-        &lt;h1&gt;机器学习&lt;/h1&gt;&lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%a4%8d%e4%b9%a0%e7%ad%96%e7%95%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;课程信息&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;课程信息&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e8%af%be%e7%a8%8b%e4%bf%a1%e6%81%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;学分&lt;/strong&gt;：3学分（重要，学分多占比大）&lt;/li&gt;
@@ -12641,6 +13028,35 @@
           &lt;/svg&gt;
         &lt;/a&gt;
       &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/1-%e5%ae%9e%e9%aa%8c%e4%b8%80%28python%e5%85%a5%e9%97%a8%29/diabetes.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;diabetes.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;23.3 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/09/04&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/1-%e5%ae%9e%e9%aa%8c%e4%b8%80%28python%e5%85%a5%e9%97%a8%29/diabetes.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 diabetes.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/1-%e5%ae%9e%e9%aa%8c%e4%b8%80%28python%e5%85%a5%e9%97%a8%29/diabetes.csv&#34; download aria-label=&#34;下载 diabetes.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
     &lt;/div&gt;&lt;/div&gt;
     &lt;/details&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 2;&#34;&gt;
@@ -12692,6 +13108,122 @@
           &lt;/svg&gt;
         &lt;/a&gt;
       &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/2-%e5%ae%9e%e9%aa%8c%e4%ba%8c%28%e7%ba%bf%e6%80%a7%e5%9b%9e%e5%bd%92%29/test.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;test.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;993 B&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/09/21&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/2-%e5%ae%9e%e9%aa%8c%e4%ba%8c%28%e7%ba%bf%e6%80%a7%e5%9b%9e%e5%bd%92%29/test.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 test.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/2-%e5%ae%9e%e9%aa%8c%e4%ba%8c%28%e7%ba%bf%e6%80%a7%e5%9b%9e%e5%bd%92%29/test.csv&#34; download aria-label=&#34;下载 test.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/2-%e5%ae%9e%e9%aa%8c%e4%ba%8c%28%e7%ba%bf%e6%80%a7%e5%9b%9e%e5%bd%92%29/test2.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;test2.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;1.9 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/09/21&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/2-%e5%ae%9e%e9%aa%8c%e4%ba%8c%28%e7%ba%bf%e6%80%a7%e5%9b%9e%e5%bd%92%29/test2.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 test2.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/2-%e5%ae%9e%e9%aa%8c%e4%ba%8c%28%e7%ba%bf%e6%80%a7%e5%9b%9e%e5%bd%92%29/test2.csv&#34; download aria-label=&#34;下载 test2.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/2-%e5%ae%9e%e9%aa%8c%e4%ba%8c%28%e7%ba%bf%e6%80%a7%e5%9b%9e%e5%bd%92%29/train.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;train.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;3.9 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/09/21&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/2-%e5%ae%9e%e9%aa%8c%e4%ba%8c%28%e7%ba%bf%e6%80%a7%e5%9b%9e%e5%bd%92%29/train.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 train.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/2-%e5%ae%9e%e9%aa%8c%e4%ba%8c%28%e7%ba%bf%e6%80%a7%e5%9b%9e%e5%bd%92%29/train.csv&#34; download aria-label=&#34;下载 train.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/2-%e5%ae%9e%e9%aa%8c%e4%ba%8c%28%e7%ba%bf%e6%80%a7%e5%9b%9e%e5%bd%92%29/train2.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;train2.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;7.6 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/09/21&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/2-%e5%ae%9e%e9%aa%8c%e4%ba%8c%28%e7%ba%bf%e6%80%a7%e5%9b%9e%e5%bd%92%29/train2.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 train2.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/2-%e5%ae%9e%e9%aa%8c%e4%ba%8c%28%e7%ba%bf%e6%80%a7%e5%9b%9e%e5%bd%92%29/train2.csv&#34; download aria-label=&#34;下载 train2.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
     &lt;/div&gt;&lt;/div&gt;
     &lt;/details&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 2;&#34;&gt;
@@ -12736,6 +13268,151 @@
           &lt;/svg&gt;
         &lt;/a&gt;
         &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/3-%e5%ae%9e%e9%aa%8c%e4%b8%89%28%e9%80%bb%e8%be%91%e5%9b%9e%e5%bd%92%29/assignment3.ipynb&#34; download aria-label=&#34;下载 assignment3.ipynb&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/3-%e5%ae%9e%e9%aa%8c%e4%b8%89%28%e9%80%bb%e8%be%91%e5%9b%9e%e5%bd%92%29/flower_test.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;flower_test.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;460 B&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/10/12&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/3-%e5%ae%9e%e9%aa%8c%e4%b8%89%28%e9%80%bb%e8%be%91%e5%9b%9e%e5%bd%92%29/flower_test.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 flower_test.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/3-%e5%ae%9e%e9%aa%8c%e4%b8%89%28%e9%80%bb%e8%be%91%e5%9b%9e%e5%bd%92%29/flower_test.csv&#34; download aria-label=&#34;下载 flower_test.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/3-%e5%ae%9e%e9%aa%8c%e4%b8%89%28%e9%80%bb%e8%be%91%e5%9b%9e%e5%bd%92%29/flower_train.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;flower_train.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;1.7 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/10/12&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/3-%e5%ae%9e%e9%aa%8c%e4%b8%89%28%e9%80%bb%e8%be%91%e5%9b%9e%e5%bd%92%29/flower_train.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 flower_train.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/3-%e5%ae%9e%e9%aa%8c%e4%b8%89%28%e9%80%bb%e8%be%91%e5%9b%9e%e5%bd%92%29/flower_train.csv&#34; download aria-label=&#34;下载 flower_train.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/3-%e5%ae%9e%e9%aa%8c%e4%b8%89%28%e9%80%bb%e8%be%91%e5%9b%9e%e5%bd%92%29/introduction.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;introduction.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;148 B&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/10/12&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/3-%e5%ae%9e%e9%aa%8c%e4%b8%89%28%e9%80%bb%e8%be%91%e5%9b%9e%e5%bd%92%29/introduction.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 introduction.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/3-%e5%ae%9e%e9%aa%8c%e4%b8%89%28%e9%80%bb%e8%be%91%e5%9b%9e%e5%bd%92%29/introduction.csv&#34; download aria-label=&#34;下载 introduction.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/3-%e5%ae%9e%e9%aa%8c%e4%b8%89%28%e9%80%bb%e8%be%91%e5%9b%9e%e5%bd%92%29/test_titanic.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;test_titanic.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;7.0 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/10/12&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/3-%e5%ae%9e%e9%aa%8c%e4%b8%89%28%e9%80%bb%e8%be%91%e5%9b%9e%e5%bd%92%29/test_titanic.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 test_titanic.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/3-%e5%ae%9e%e9%aa%8c%e4%b8%89%28%e9%80%bb%e8%be%91%e5%9b%9e%e5%bd%92%29/test_titanic.csv&#34; download aria-label=&#34;下载 test_titanic.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/3-%e5%ae%9e%e9%aa%8c%e4%b8%89%28%e9%80%bb%e8%be%91%e5%9b%9e%e5%bd%92%29/train_titanic.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;train_titanic.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;23.7 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/10/12&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/3-%e5%ae%9e%e9%aa%8c%e4%b8%89%28%e9%80%bb%e8%be%91%e5%9b%9e%e5%bd%92%29/train_titanic.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 train_titanic.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/3-%e5%ae%9e%e9%aa%8c%e4%b8%89%28%e9%80%bb%e8%be%91%e5%9b%9e%e5%bd%92%29/train_titanic.csv&#34; download aria-label=&#34;下载 train_titanic.csv&#34;&gt;
           &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
             &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
             &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
@@ -12829,6 +13506,64 @@
         &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
     &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
     &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/4-%e5%ae%9e%e9%aa%8c%e5%9b%9b%28%e7%a5%9e%e7%bb%8f%e7%bd%91%e7%bb%9c%29/wine_test.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;wine_test.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;41.7 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/11/02&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/4-%e5%ae%9e%e9%aa%8c%e5%9b%9b%28%e7%a5%9e%e7%bb%8f%e7%bd%91%e7%bb%9c%29/wine_test.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 wine_test.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/4-%e5%ae%9e%e9%aa%8c%e5%9b%9b%28%e7%a5%9e%e7%bb%8f%e7%bd%91%e7%bb%9c%29/wine_test.csv&#34; download aria-label=&#34;下载 wine_test.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/4-%e5%ae%9e%e9%aa%8c%e5%9b%9b%28%e7%a5%9e%e7%bb%8f%e7%bd%91%e7%bb%9c%29/wine_train.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;wine_train.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;160.1 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/11/02&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/4-%e5%ae%9e%e9%aa%8c%e5%9b%9b%28%e7%a5%9e%e7%bb%8f%e7%bd%91%e7%bb%9c%29/wine_train.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 wine_train.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/4-%e5%ae%9e%e9%aa%8c%e5%9b%9b%28%e7%a5%9e%e7%bb%8f%e7%bd%91%e7%bb%9c%29/wine_train.csv&#34; download aria-label=&#34;下载 wine_train.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
     &lt;path d=&#34;M8.25 15.5h7.5M8.25 18.25h5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linecap=&#34;round&#34;/&gt;
   &lt;/svg&gt;&lt;/span&gt;
         &lt;span class=&#34;course-filetree-name-text&#34;&gt;
@@ -12898,6 +13633,122 @@
           &lt;/svg&gt;
         &lt;/a&gt;
         &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/5-%e5%ae%9e%e9%aa%8c%e4%ba%94%28%e6%94%af%e6%8c%81%e5%90%91%e9%87%8f%e6%9c%ba%29/assignment5.ipynb&#34; download aria-label=&#34;下载 assignment5.ipynb&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/5-%e5%ae%9e%e9%aa%8c%e4%ba%94%28%e6%94%af%e6%8c%81%e5%90%91%e9%87%8f%e6%9c%ba%29/dataset1.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;dataset1.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;1.1 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/11/16&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/5-%e5%ae%9e%e9%aa%8c%e4%ba%94%28%e6%94%af%e6%8c%81%e5%90%91%e9%87%8f%e6%9c%ba%29/dataset1.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 dataset1.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/5-%e5%ae%9e%e9%aa%8c%e4%ba%94%28%e6%94%af%e6%8c%81%e5%90%91%e9%87%8f%e6%9c%ba%29/dataset1.csv&#34; download aria-label=&#34;下载 dataset1.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/5-%e5%ae%9e%e9%aa%8c%e4%ba%94%28%e6%94%af%e6%8c%81%e5%90%91%e9%87%8f%e6%9c%ba%29/dataset2.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;dataset2.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;1.1 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/11/16&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/5-%e5%ae%9e%e9%aa%8c%e4%ba%94%28%e6%94%af%e6%8c%81%e5%90%91%e9%87%8f%e6%9c%ba%29/dataset2.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 dataset2.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/5-%e5%ae%9e%e9%aa%8c%e4%ba%94%28%e6%94%af%e6%8c%81%e5%90%91%e9%87%8f%e6%9c%ba%29/dataset2.csv&#34; download aria-label=&#34;下载 dataset2.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/5-%e5%ae%9e%e9%aa%8c%e4%ba%94%28%e6%94%af%e6%8c%81%e5%90%91%e9%87%8f%e6%9c%ba%29/Raisin_test.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Raisin_test.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;15.2 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/11/16&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/5-%e5%ae%9e%e9%aa%8c%e4%ba%94%28%e6%94%af%e6%8c%81%e5%90%91%e9%87%8f%e6%9c%ba%29/Raisin_test.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 Raisin_test.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/5-%e5%ae%9e%e9%aa%8c%e4%ba%94%28%e6%94%af%e6%8c%81%e5%90%91%e9%87%8f%e6%9c%ba%29/Raisin_test.csv&#34; download aria-label=&#34;下载 Raisin_test.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/5-%e5%ae%9e%e9%aa%8c%e4%ba%94%28%e6%94%af%e6%8c%81%e5%90%91%e9%87%8f%e6%9c%ba%29/Raisin_train.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Raisin_train.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;60.9 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/11/16&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/5-%e5%ae%9e%e9%aa%8c%e4%ba%94%28%e6%94%af%e6%8c%81%e5%90%91%e9%87%8f%e6%9c%ba%29/Raisin_train.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 Raisin_train.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/5-%e5%ae%9e%e9%aa%8c%e4%ba%94%28%e6%94%af%e6%8c%81%e5%90%91%e9%87%8f%e6%9c%ba%29/Raisin_train.csv&#34; download aria-label=&#34;下载 Raisin_train.csv&#34;&gt;
           &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
             &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
             &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
@@ -12991,6 +13842,64 @@
         &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
     &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
     &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/6-%e5%ae%9e%e9%aa%8c%e5%85%ad%28%e5%86%b3%e7%ad%96%e6%a0%91%ef%bc%89/test_titanic.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;test_titanic.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2.2 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/12/07&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/6-%e5%ae%9e%e9%aa%8c%e5%85%ad%28%e5%86%b3%e7%ad%96%e6%a0%91%ef%bc%89/test_titanic.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 test_titanic.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/6-%e5%ae%9e%e9%aa%8c%e5%85%ad%28%e5%86%b3%e7%ad%96%e6%a0%91%ef%bc%89/test_titanic.csv&#34; download aria-label=&#34;下载 test_titanic.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/6-%e5%ae%9e%e9%aa%8c%e5%85%ad%28%e5%86%b3%e7%ad%96%e6%a0%91%ef%bc%89/train_titanic.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;train_titanic.csv&lt;/a&gt;
+          &lt;span&gt;CSV&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;10.9 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/12/07&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/6-%e5%ae%9e%e9%aa%8c%e5%85%ad%28%e5%86%b3%e7%ad%96%e6%a0%91%ef%bc%89/train_titanic.csv&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 train_titanic.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/2025%e5%b9%b4%e7%a7%8b%e5%ad%a3%e5%ad%a6%e6%9c%9f/%e8%af%be%e7%a8%8b%e5%ae%9e%e9%aa%8c-%e6%9e%97%e6%a5%97%e6%a3%8b/6-%e5%ae%9e%e9%aa%8c%e5%85%ad%28%e5%86%b3%e7%ad%96%e6%a0%91%ef%bc%89/train_titanic.csv&#34; download aria-label=&#34;下载 train_titanic.csv&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 3;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 54px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;path d=&#34;M7 3.75h6.25L18.25 8v12.25A1.75 1.75 0 0 1 16.5 22h-9A1.75 1.75 0 0 1 5.75 20.25v-14.75A1.75 1.75 0 0 1 7.5 3.75Z&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
+    &lt;path d=&#34;M13 3.75V8h5.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linejoin=&#34;round&#34;/&gt;
     &lt;path d=&#34;M8.25 15.5h7.5M8.25 18.25h5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linecap=&#34;round&#34;/&gt;
   &lt;/svg&gt;&lt;/span&gt;
         &lt;span class=&#34;course-filetree-name-text&#34;&gt;
@@ -13029,14 +13938,14 @@
     
     <item>
       <title>认知科学基础</title>
-      <link>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80/</link>
+      <link>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80/</guid>
+      <guid>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80/</guid>
       <description>
         
         
-        &lt;h1&gt;认知科学基础&lt;/h1&gt;&lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%a4%8d%e4%b9%a0%e7%ad%96%e7%95%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;课程信息&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;课程信息&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e8%af%be%e7%a8%8b%e4%bf%a1%e6%81%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;授课老师&lt;/strong&gt;：王涛&lt;/li&gt;
@@ -13632,14 +14541,14 @@
     
     <item>
       <title>马克思主义基本原理</title>
-      <link>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/</link>
+      <link>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openise.pages.dev/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/</guid>
+      <guid>http://localhost:1313/doc/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/10-%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/</guid>
       <description>
         
         
-        &lt;h1&gt;马克思主义基本原理&lt;/h1&gt;&lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;复习策略&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;复习策略&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%a4%8d%e4%b9%a0%e7%ad%96%e7%95%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;课程信息&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;课程信息&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e8%af%be%e7%a8%8b%e4%bf%a1%e6%81%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;学分&lt;/strong&gt;：3学分（性价比高）&lt;/li&gt;
@@ -14542,6 +15451,36 @@
           &lt;/svg&gt;
         &lt;/a&gt;
         &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%a9%ac%e5%85%8b%e6%80%9d%e4%b8%bb%e4%b9%89%e5%9f%ba%e6%9c%ac%e5%8e%9f%e7%90%86/%e7%9c%9f%e9%a2%98/25-0112.docx&#34; download aria-label=&#34;下载 25-0112.docx&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+            &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M5 19h14&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;div class=&#34;course-filetree-row&#34; style=&#34;--depth: 1;&#34;&gt;
+      &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 18px;&#34;&gt;
+        &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+    &lt;rect x=&#34;4.75&#34; y=&#34;5.25&#34; width=&#34;14.5&#34; height=&#34;13.5&#34; rx=&#34;2&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34;/&gt;
+    &lt;circle cx=&#34;9&#34; cy=&#34;10&#34; r=&#34;1.5&#34; fill=&#34;currentColor&#34;/&gt;
+    &lt;path d=&#34;m7 16 3.2-3.2a1 1 0 0 1 1.4 0L13 14l1.7-1.7a1 1 0 0 1 1.41.01L18 14.25&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.7&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+  &lt;/svg&gt;&lt;/span&gt;
+        &lt;span class=&#34;course-filetree-name-text&#34;&gt;
+          &lt;a href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%a9%ac%e5%85%8b%e6%80%9d%e4%b8%bb%e4%b9%89%e5%9f%ba%e6%9c%ac%e5%8e%9f%e7%90%86/%e7%9c%9f%e9%a2%98/ae1659f214731c26039745d15ffa92e4.jpg&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;ae1659f214731c26039745d15ffa92e4.jpg&lt;/a&gt;
+          &lt;span&gt;JPG&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;421.0 KB&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-meta&#34;&gt;2025/12/21&lt;/div&gt;
+      &lt;div class=&#34;course-filetree-actions&#34;&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%a9%ac%e5%85%8b%e6%80%9d%e4%b8%bb%e4%b9%89%e5%9f%ba%e6%9c%ac%e5%8e%9f%e7%90%86/%e7%9c%9f%e9%a2%98/ae1659f214731c26039745d15ffa92e4.jpg&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34; aria-label=&#34;打开 ae1659f214731c26039745d15ffa92e4.jpg&#34;&gt;
+          &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
+            &lt;path d=&#34;M14 5h5v5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M10 14 19 5&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+            &lt;path d=&#34;M19 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;
+          &lt;/svg&gt;
+        &lt;/a&gt;
+        &lt;a class=&#34;course-filetree-action&#34; href=&#34;https://raw.githubusercontent.com/changyicheng1234/sysu-ise-course-materials/main/%e6%99%ba%e8%83%bd%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af/10-%e5%a4%a7%e4%ba%8c%e4%b8%8a/%e9%a9%ac%e5%85%8b%e6%80%9d%e4%b8%bb%e4%b9%89%e5%9f%ba%e6%9c%ac%e5%8e%9f%e7%90%86/%e7%9c%9f%e9%a2%98/ae1659f214731c26039745d15ffa92e4.jpg&#34; download aria-label=&#34;下载 ae1659f214731c26039745d15ffa92e4.jpg&#34;&gt;
           &lt;svg width=&#34;15&#34; height=&#34;15&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
             &lt;path d=&#34;M12 4v10&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34;/&gt;
             &lt;path d=&#34;m8 10 4 4 4-4&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.8&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;/&gt;

@@ -17,7 +17,7 @@ menu:
    # - name: Blog
    #   pageRef: /blog
    #   weight: 2
-    - name: 关于
+    - name: 贡献方式
       pageRef: /about
       weight: 3
     - name: Search

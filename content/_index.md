@@ -8,12 +8,12 @@ layout: hextra-home
 {{< /hextra/hero-badge >}}
 
 {{< hextra/hero-headline >}}
-中山大学智能工程学院
-本科生课程作业
+OpenISE
+课程共享开源计划
 {{< /hextra/hero-headline >}}
 
 {{< hextra/hero-subtitle >}}
-收录课程资料、作业经验、复习策略与贡献指南，
+收录课程资料、作业报告、复习策略与选课指南，
 面向院内同学长期维护，保持公开、可复用、非商业化共享。
 {{< /hextra/hero-subtitle >}}
 

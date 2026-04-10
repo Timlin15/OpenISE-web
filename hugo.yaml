@@ -14,9 +14,9 @@ menu:
     - name: 课程
       pageRef: /doc
       weight: 1
-   # - name: Blog
-   #   pageRef: /blog
-   #   weight: 2
+    - name: 博客
+      pageRef: /blog
+      weight: 2
     - name: 贡献方式
       pageRef: /about
       weight: 3

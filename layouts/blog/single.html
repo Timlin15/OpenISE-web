@@ -1,0 +1,70 @@
+{{ define "main" }}
+  {{ .Store.Set "enableFooterSwitches" true }}
+  <style>
+    .blog-single-page {
+      --blog-text-muted: #64748b;
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2.25rem 1.5rem 4rem;
+    }
+    html.dark .blog-single-page {
+      --blog-text-muted: rgba(148, 163, 184, 0.9);
+    }
+    .blog-single-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem 1.2rem;
+      margin-top: 1.55rem;
+      color: var(--blog-text-muted);
+      font-size: 0.92rem;
+    }
+    .blog-single-summary {
+      margin-top: 0.8rem;
+      color: var(--blog-text-muted);
+      line-height: 1.9;
+    }
+    .blog-single-meta a,
+    .blog-single-summary a {
+      color: inherit;
+      text-decoration: underline;
+      text-underline-offset: 0.14em;
+    }
+    .blog-single-content {
+      margin-top: 2.5rem;
+    }
+    .blog-single-page h1 {
+      margin-top: 0.55rem;
+      font-size: clamp(2rem, 3.8vw, 2.7rem);
+      line-height: 1.14;
+      letter-spacing: -0.04em;
+      font-weight: 800;
+    }
+    @media (max-width: 768px) {
+      .blog-single-page {
+        padding: 1.5rem 1rem 3rem;
+      }
+    }
+  </style>
+
+  <div class="blog-single-page">
+    {{ partial "breadcrumb.html" (dict "page" . "enable" true) }}
+    <article>
+      <header>
+        <h1>{{ .Title }}</h1>
+        <div class="blog-single-meta">
+          <span>作者：{{ .RenderString (dict "display" "inline") (.Params.author | default "OpenISE") }}</span>
+          <span>写于：{{ .Date.Format "2006年1月2日" }}</span>
+          <span>预计阅读：{{ .ReadingTime }} 分钟</span>
+        </div>
+        {{ with (.Params.description | default "") }}
+          <p class="blog-single-summary">{{ $.RenderString (dict "display" "inline") . }}</p>
+        {{ end }}
+      </header>
+      <div class="content blog-single-content">
+        {{ .Content }}
+      </div>
+      {{ partial "components/last-updated.html" . }}
+      {{ partial "components/comments.html" . }}
+    </article>
+  </div>
+{{ end }}

@@ -29,11 +29,11 @@
 
 
   <meta itemprop="name" content="OpenISE">
-  <meta itemprop="description" content="完全开源，去商业化 OpenISE 课程共享开源计划 收录课程资料、作业报告、复习策略与选课指南， 面向院内同学长期维护，保持公开、可复用、非商业化共享。">
-  <meta itemprop="wordCount" content="19">
+  <meta itemprop="description" content="完全开源，完全免费 OpenISE 课程共享开源计划 收录中山大学智能工程学院课程资料、作业报告、复习策略与选课指南， 面向院内同学长期维护，保持公开、可复用、非商业化共享。">
+  <meta itemprop="wordCount" content="20">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="OpenISE">
-  <meta name="twitter:description" content="完全开源，去商业化 OpenISE 课程共享开源计划 收录课程资料、作业报告、复习策略与选课指南， 面向院内同学长期维护，保持公开、可复用、非商业化共享。">
+  <meta name="twitter:description" content="完全开源，完全免费 OpenISE 课程共享开源计划 收录中山大学智能工程学院课程资料、作业报告、复习策略与选课指南， 面向院内同学长期维护，保持公开、可复用、非商业化共享。">
 <link href="/css/compiled/main.css" rel="stylesheet" />
     <link href="/css/variables.css" rel="stylesheet" />
     <link href="/css/custom.css" rel="stylesheet" />
@@ -232,6 +232,12 @@ document.addEventListener('DOMContentLoaded', function() {
   
   class="hx:text-sm hx:contrast-more:text-gray-700 hx:contrast-more:dark:text-gray-100 hx:relative hx:-ml-2 hx:hidden hx:whitespace-nowrap hx:p-2 hx:md:inline-flex hx:items-center hx:gap-1 hx:text-gray-600 hx:hover:text-gray-800 hx:dark:text-gray-400 hx:dark:hover:text-gray-200"
 ><span class="hx:text-center">课程</span>
+</a><a
+  title=""
+  href="/blog"
+  
+  class="hx:text-sm hx:contrast-more:text-gray-700 hx:contrast-more:dark:text-gray-100 hx:relative hx:-ml-2 hx:hidden hx:whitespace-nowrap hx:p-2 hx:md:inline-flex hx:items-center hx:gap-1 hx:text-gray-600 hx:hover:text-gray-800 hx:dark:text-gray-400 hx:dark:hover:text-gray-200"
+><span class="hx:text-center">博客</span>
 </a><a
   title=""
   href="/about"
@@ -1595,6 +1601,16 @@ document.addEventListener('DOMContentLoaded', function() {
       class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:grow hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none]
       hx:hextra-focus-visible-inset
         hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+      href="/blog/"
+      
+    >
+      <span class="hx:min-w-0 [word-break:break-word]">博客</span>
+    </a>
+  </div></li><li class=""><div class="hextra-sidebar-item hx:group hx:relative hx:flex hx:items-center" data-active="false">
+    <a
+      class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:grow hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none]
+      hx:hextra-focus-visible-inset
+        hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
       href="/about/"
       
     >
@@ -1714,6 +1730,47 @@ document.addEventListener('DOMContentLoaded', function() {
 .feature-grid {
   animation: fadeInUp 1s ease-out 0.3s both;
 }
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+.hero-actions a {
+  margin: 0 !important;
+  padding: 0.85rem 1.4rem !important;
+  font-size: 1rem !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  box-shadow: 0 10px 24px -18px rgba(15, 23, 42, 0.18);
+  text-shadow: none !important;
+}
+.hero-actions a:nth-child(1),
+.hero-actions a:nth-child(2) {
+  background: #006BE6 !important;
+  border-color: #006BE6 !important;
+  color: #ffffff !important;
+}
+.hero-actions a:nth-child(3) {
+  background: transparent !important;
+  border-color: rgba(15, 23, 42, 0.14) !important;
+  color: #334155 !important;
+  box-shadow: none !important;
+}
+:is(.dark) .hero-actions a {
+  box-shadow: none;
+}
+:is(.dark) .hero-actions a:nth-child(1),
+:is(.dark) .hero-actions a:nth-child(2) {
+  background: #006BE6 !important;
+  border-color: #006BE6 !important;
+  color: #ffffff !important;
+}
+:is(.dark) .hero-actions a:nth-child(3) {
+  background: transparent !important;
+  border-color: rgba(148, 163, 184, 0.22) !important;
+  color: #cbd5e1 !important;
+}
 </style>
 <img src="/images/sysu-logo.svg" alt="" class="hero-logo-bg" aria-hidden="true" />
 <div class="not-prose hero-section">
@@ -1723,7 +1780,7 @@ document.addEventListener('DOMContentLoaded', function() {
   class=" not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200"
   style="margin-bottom: 0.75rem;"
   >
-  完全开源，去商业化
+  完全开源，完全免费
 </a>
 
 <h1
@@ -1738,22 +1795,30 @@ document.addEventListener('DOMContentLoaded', function() {
   class="not-prose hx:text-xl hx:text-gray-600 hx:dark:text-gray-400 hx:sm:text-xl"
   
 >
-  收录课程资料、作业报告、复习策略与选课指南，<br/>
+  收录中山大学智能工程学院课程资料、作业报告、复习策略与选课指南，<br/>
 面向院内同学长期维护，保持公开、可复用、非商业化共享。
 </p>
 
-<p><a
+<div class="hero-actions">
+<a
   href="/doc"
   class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:hextra-focus-visible hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:transition-all hx:ease-in hx:duration-200"
-  style="margin-top: 1rem; margin-bottom: 1rem; margin-right: 0.75rem; padding: 0.85rem 1.4rem; font-size: 1rem;"
+  
   >文档入口</a>
+
+<a
+  href="/blog"
+  class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:hextra-focus-visible hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:transition-all hx:ease-in hx:duration-200"
+  
+  >博客入口</a>
 
 <a
   href="/about/#%e8%b4%a1%e7%8c%ae%e6%96%b9%e5%bc%8f"
   class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:hextra-focus-visible hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:transition-all hx:ease-in hx:duration-200"
-  style="margin-top: 1rem; margin-bottom: 1rem; padding: 0.85rem 1.4rem; font-size: 1rem;"
+  
   >贡献方式</a>
-</p>
+
+</div>
 </div>
 </div>
 <div class="not-prose feature-grid hx:mt-6 hx:grid hx:grid-cols-1 hx:md:grid-cols-2 hx:gap-4">

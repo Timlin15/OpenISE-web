@@ -1,0 +1,270 @@
+{{ define "main" }}
+  {{ .Store.Set "enableFooterSwitches" true }}
+  <style>
+    .blog-list-page {
+      --blog-border: rgba(15, 23, 42, 0.1);
+      --blog-border-strong: rgba(15, 23, 42, 0.14);
+      --blog-panel: rgba(255, 255, 255, 0.86);
+      --blog-panel-muted: rgba(248, 250, 252, 0.9);
+      --blog-text: #111827;
+      --blog-text-muted: #64748b;
+      --blog-shadow: 0 24px 60px -40px rgba(15, 23, 42, 0.35);
+      --blog-accent: #2563eb;
+      max-width: 960px;
+      margin: 0 auto;
+      min-height: calc(100svh - var(--navbar-height, 4rem) - 9rem);
+      padding: 2.5rem 1.5rem 4rem;
+      color: var(--blog-text);
+    }
+    html.dark .blog-list-page {
+      --blog-border: rgba(148, 163, 184, 0.14);
+      --blog-border-strong: rgba(148, 163, 184, 0.24);
+      --blog-panel: rgba(17, 17, 17, 0.82);
+      --blog-panel-muted: rgba(23, 23, 23, 0.92);
+      --blog-text: rgba(241, 245, 249, 0.96);
+      --blog-text-muted: rgba(148, 163, 184, 0.9);
+      --blog-shadow: 0 24px 60px -34px rgba(0, 0, 0, 0.5);
+      --blog-accent: #93c5fd;
+    }
+    .blog-list-hero {
+      margin-bottom: 2.4rem;
+      padding: 2.2rem 2.4rem;
+      border: 1px solid var(--blog-border);
+      border-radius: 28px;
+      background:
+        radial-gradient(circle at top right, rgba(37, 99, 235, 0.12), transparent 28%),
+        linear-gradient(180deg, var(--blog-panel), var(--blog-panel-muted));
+      box-shadow: var(--blog-shadow);
+    }
+    html.dark .blog-list-hero {
+      background:
+        radial-gradient(circle at top right, rgba(255, 255, 255, 0.05), transparent 28%),
+        linear-gradient(180deg, var(--blog-panel), var(--blog-panel-muted));
+    }
+    .blog-list-title {
+      margin: 0;
+      font-size: clamp(2rem, 3.6vw, 2.7rem);
+      line-height: 1.16;
+      font-weight: 800;
+      letter-spacing: -0.04em;
+    }
+    .blog-list-subtitle {
+      max-width: 42rem;
+      margin: 1.05rem 0 0;
+      color: var(--blog-text-muted);
+      font-size: 1rem;
+      line-height: 1.9;
+    }
+    .blog-list-subtitle a,
+    .blog-post-author a {
+      color: inherit;
+      text-decoration: underline;
+      text-underline-offset: 0.14em;
+    }
+    .blog-list-meta {
+      margin-top: 1.35rem;
+      color: var(--blog-text-muted);
+      font-size: 0.92rem;
+    }
+    .blog-list-hero-cta {
+      margin-top: 1.4rem;
+      padding-top: 1.25rem;
+      border-top: 1px solid var(--blog-border);
+    }
+    .blog-list-hero-cta > div {
+      display: flex;
+      width: 100%;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+    .blog-list-hero-cta p {
+      margin: 0;
+      color: var(--blog-text);
+      font-size: 0.98rem;
+      line-height: 1.8;
+    }
+    .blog-list-hero-cta a {
+      flex: none;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.7rem 1rem;
+      border-radius: 999px;
+      border: 1px solid #2563eb;
+      background: #2563eb;
+      color: #ffffff;
+      text-decoration: none;
+      font-size: 0.92rem;
+      font-weight: 600;
+      box-shadow: 0 12px 24px -18px rgba(37, 99, 235, 0.9);
+      transition: border-color 0.2s ease, background-color 0.2s ease, transform 0.2s ease;
+    }
+    .blog-list-hero-cta a:hover {
+      background: #1d4ed8;
+      border-color: #1d4ed8;
+      color: #ffffff;
+      transform: translateY(-1px);
+    }
+    .blog-post-list {
+      display: grid;
+      gap: 1.15rem;
+    }
+    .blog-post-card {
+      display: grid;
+      grid-template-columns: 150px minmax(0, 1fr) auto;
+      gap: 1rem;
+      align-items: center;
+      padding: 1.1rem 1.25rem;
+      border: 1px solid var(--blog-border);
+      border-radius: 22px;
+      background: linear-gradient(180deg, var(--blog-panel), var(--blog-panel-muted));
+      box-shadow: var(--blog-shadow);
+      transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+    .blog-post-card:hover {
+      transform: translateY(-2px);
+      border-color: var(--blog-border-strong);
+      box-shadow: 0 28px 60px -40px rgba(37, 99, 235, 0.24);
+    }
+    html.dark .blog-post-card:hover {
+      box-shadow: 0 26px 56px -36px rgba(0, 0, 0, 0.56);
+    }
+    .blog-post-date {
+      font-size: 0.9rem;
+      color: var(--blog-text-muted);
+      white-space: nowrap;
+    }
+    .blog-post-main {
+      min-width: 0;
+    }
+    .blog-post-title {
+      margin: 0;
+      font-size: 1.16rem;
+      font-weight: 700;
+      line-height: 1.45;
+      color: inherit;
+    }
+    .blog-post-title-link {
+      color: inherit;
+      text-decoration: none;
+    }
+    .blog-post-title-link:hover .blog-post-title {
+      text-decoration: underline;
+      text-underline-offset: 0.14em;
+    }
+    .blog-post-summary {
+      margin-top: 0.4rem;
+      color: var(--blog-text-muted);
+      font-size: 0.94rem;
+      line-height: 1.75;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .blog-post-author {
+      margin-top: 0.35rem;
+      color: var(--blog-text-muted);
+      font-size: 0.86rem;
+      word-break: break-word;
+    }
+    .blog-post-author p {
+      display: inline;
+      margin: 0;
+    }
+    .blog-post-author a {
+      color: inherit;
+      text-decoration: underline;
+      text-underline-offset: 0.14em;
+    }
+    .blog-post-arrow {
+      width: 2.25rem;
+      height: 2.25rem;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 999px;
+      border: 1px solid var(--blog-border);
+      color: var(--blog-text-muted);
+      flex: none;
+      text-decoration: none;
+    }
+    .blog-post-empty {
+      padding: 1.3rem 1.4rem;
+      border: 1px dashed var(--blog-border-strong);
+      border-radius: 20px;
+      color: var(--blog-text-muted);
+      background: var(--blog-panel-muted);
+    }
+    @media (max-width: 768px) {
+      .blog-list-page {
+        padding: 1.5rem 1rem 3rem;
+      }
+      .blog-list-hero {
+        padding: 1.7rem 1.2rem;
+        border-radius: 22px;
+      }
+      .blog-post-card {
+        grid-template-columns: 1fr auto;
+        grid-template-areas:
+          "date arrow"
+          "main main";
+      }
+      .blog-post-date {
+        grid-area: date;
+      }
+      .blog-post-main {
+        grid-area: main;
+      }
+      .blog-post-arrow {
+        grid-area: arrow;
+      }
+      .blog-post-summary {
+        white-space: normal;
+      }
+      .blog-list-hero-cta {
+      }
+      .blog-list-hero-cta > div {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+  </style>
+
+  <div class="blog-list-page">
+    <section class="blog-list-hero">
+      <h1 class="blog-list-title">{{ .Title }}</h1>
+      <p class="blog-list-subtitle">{{ .Params.description | default "这里放项目动态、课程经验、学习记录和一些值得写下来的想法。" }}</p>
+      <div class="blog-list-meta">共 {{ len .RegularPages }} 篇文章</div>
+      {{ if .Content }}
+        <div class="blog-list-hero-cta content">
+          {{ .Content }}
+        </div>
+      {{ end }}
+    </section>
+
+    <section class="blog-post-list">
+      {{ range .RegularPages.ByDate.Reverse }}
+        {{ $summary := .Params.description | default (.Summary | plainify) | default (.Plain | truncate 120) }}
+        {{ $author := .Params.author | default "OpenISE" }}
+        <article class="blog-post-card">
+          <div class="blog-post-date">{{ .Date.Format "2006年1月2日" }}</div>
+          <div class="blog-post-main">
+            <a class="blog-post-title-link" href="{{ .RelPermalink }}">
+              <h2 class="blog-post-title">{{ .Title }}</h2>
+            </a>
+            <div class="blog-post-summary">{{ $summary }}</div>
+            <div class="blog-post-author">作者：{{ $author | markdownify }}</div>
+          </div>
+          <a class="blog-post-arrow" href="{{ .RelPermalink }}" aria-label="查看 {{ .Title }}">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+              <path d="m9 6 6 6-6 6" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg>
+          </a>
+        </article>
+      {{ else }}
+        <div class="blog-post-empty">暂时还没有文章。</div>
+      {{ end }}
+    </section>
+  </div>
+{{ end }}

@@ -44,6 +44,47 @@ layout: hextra-home
 .feature-grid {
   animation: fadeInUp 1s ease-out 0.3s both;
 }
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+.hero-actions a {
+  margin: 0 !important;
+  padding: 0.85rem 1.4rem !important;
+  font-size: 1rem !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  box-shadow: 0 10px 24px -18px rgba(15, 23, 42, 0.18);
+  text-shadow: none !important;
+}
+.hero-actions a:nth-child(1),
+.hero-actions a:nth-child(2) {
+  background: #006BE6 !important;
+  border-color: #006BE6 !important;
+  color: #ffffff !important;
+}
+.hero-actions a:nth-child(3) {
+  background: transparent !important;
+  border-color: rgba(15, 23, 42, 0.14) !important;
+  color: #334155 !important;
+  box-shadow: none !important;
+}
+:is(.dark) .hero-actions a {
+  box-shadow: none;
+}
+:is(.dark) .hero-actions a:nth-child(1),
+:is(.dark) .hero-actions a:nth-child(2) {
+  background: #006BE6 !important;
+  border-color: #006BE6 !important;
+  color: #ffffff !important;
+}
+:is(.dark) .hero-actions a:nth-child(3) {
+  background: transparent !important;
+  border-color: rgba(148, 163, 184, 0.22) !important;
+  color: #cbd5e1 !important;
+}
 </style>
 
 <img src="/images/sysu-logo.svg" alt="" class="hero-logo-bg" aria-hidden="true" />
@@ -64,8 +105,11 @@ OpenISE
 面向院内同学长期维护，保持公开、可复用、非商业化共享。
 {{< /hextra/hero-subtitle >}}
 
-{{< hextra/hero-button text="文档入口" link="/doc" style="margin-top: 1rem; margin-bottom: 1rem; margin-right: 0.75rem; padding: 0.85rem 1.4rem; font-size: 1rem;" >}}
-{{< hextra/hero-button text="贡献方式" link="/about/#贡献方式" style="margin-top: 1rem; margin-bottom: 1rem; padding: 0.85rem 1.4rem; font-size: 1rem;" >}}
+<div class="hero-actions">
+{{< hextra/hero-button text="文档入口" link="/doc" style="" >}}
+{{< hextra/hero-button text="博客入口" link="/blog" style="" >}}
+{{< hextra/hero-button text="贡献方式" link="/about/#贡献方式" style="" >}}
+</div>
 </div>
 </div>
 

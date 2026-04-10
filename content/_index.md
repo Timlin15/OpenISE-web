@@ -49,10 +49,9 @@ layout: hextra-home
 <img src="/images/sysu-logo.svg" alt="" class="hero-logo-bg" aria-hidden="true" />
 
 <div class="not-prose hero-section">
-
 <div class="hero-content" style="max-width: 42rem;">
 {{< hextra/hero-badge style="margin-bottom: 0.75rem;" >}}
-完全开源，去商业化
+完全开源，完全免费
 {{< /hextra/hero-badge >}}
 
 {{< hextra/hero-headline >}}
@@ -61,7 +60,7 @@ OpenISE
 {{< /hextra/hero-headline >}}
 
 {{< hextra/hero-subtitle >}}
-收录课程资料、作业报告、复习策略与选课指南，<br/>
+收录中山大学智能工程学院课程资料、作业报告、复习策略与选课指南，<br/>
 面向院内同学长期维护，保持公开、可复用、非商业化共享。
 {{< /hextra/hero-subtitle >}}
 

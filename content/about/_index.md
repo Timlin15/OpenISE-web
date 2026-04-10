@@ -41,10 +41,11 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
 
 打开对应文件夹，点击绿色 Download 按钮旁的 upload，上传你的文件，或编辑文件。
 
-<div style="display: flex; gap: 10px;">
+<div style="display; gap: 10px;">
   <img src="https://typora-1344509263.cos.ap-guangzhou.myqcloud.com/markdown/image-20260410115814053.png" width="50%">
   <img src="https://typora-1344509263.cos.ap-guangzhou.myqcloud.com/markdown/image-20260410120506649.png" alt="image-20260410120506649" style="zoom:50%;" />
 </div>
+
 
 ##### 2.2. 上传文件到新文件夹
 

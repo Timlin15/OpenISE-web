@@ -22973,6 +22973,57 @@
       padding: 0.4rem;
     }
   }
+  .doc-friend-links {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+    margin: 24px 0;
+  }
+  .doc-friend-link {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+    padding: 16px 18px;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    border-radius: 16px;
+    background: linear-gradient(135deg, #ffffff 0%, #f8fbff 100%);
+    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
+    text-decoration: none !important;
+    color: #0f172a !important;
+    transition: background 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  }
+  .doc-friend-link:hover {
+    border-color: rgba(59, 130, 246, 0.18);
+    box-shadow: 0 14px 34px rgba(15, 23, 42, 0.1);
+  }
+  .doc-friend-link img {
+    width: 22px;
+    height: 22px;
+    border-radius: 6px;
+    flex: none;
+  }
+  .doc-friend-link-title {
+    flex: 1;
+    text-align: left;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+  html.dark .doc-friend-link {
+    border-color: rgba(148, 163, 184, 0.16);
+    background: linear-gradient(135deg, #111827 0%, #0f172a 100%);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
+    color: #e5eefb !important;
+  }
+  html.dark .doc-friend-link:hover {
+    border-color: rgba(96, 165, 250, 0.28);
+    box-shadow: 0 16px 36px rgba(0, 0, 0, 0.34);
+  }
+  @media (max-width: 768px) {
+    .doc-friend-links {
+      grid-template-columns: 1fr;
+    }
+  }
 </style>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -23003,8 +23054,34 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     })
     .catch(function() {});
+
+  var applyGiscusTheme = function() {
+    var iframe = document.querySelector('iframe.giscus-frame');
+    if (!iframe) return;
+    iframe.contentWindow.postMessage(
+      {
+        giscus: {
+          setConfig: {
+            theme: document.documentElement.classList.contains('dark') ? 'dark' : 'light'
+          }
+        }
+      },
+      'https://giscus.app'
+    );
+  };
+
+  var observer = new MutationObserver(applyGiscusTheme);
+  observer.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] });
+  window.addEventListener('message', function(event) {
+    if (event.origin === 'https://giscus.app') {
+      applyGiscusTheme();
+    }
+  });
 });
 </script>
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "3ccdcd24abd949058d0233c37b0cfe86"}'></script>
+
 </head>
 <body>
     <a href="#content" class="hx:sr-only hx:focus-visible:not-sr-only hx:focus-visible:fixed hx:focus-visible:z-50 hx:focus-visible:top-2 hx:focus-visible:left-2 hx:focus-visible:bg-primary-500 hx:focus-visible:text-white hx:focus-visible:px-4 hx:focus-visible:py-2 hx:focus-visible:rounded-md hx:focus-visible:text-sm hx:focus-visible:font-medium">Skip to content</a><div class="hextra-nav-container hx:sticky hx:top-0 hx:z-20 hx:w-full hx:bg-transparent hx:print:hidden">
@@ -26019,7 +26096,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <div style="text-align:right;">操作</div>
     </div>
 
-    <div class="course-filetree-body"><details class="course-filetree-folder" open>
+    <div class="course-filetree-body"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 0;">
         <div class="course-filetree-name" style="padding-left: 0px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -26040,7 +26117,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 1;">
         <div class="course-filetree-name" style="padding-left: 18px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -26061,7 +26138,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -26082,7 +26159,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -26159,7 +26236,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -26180,7 +26257,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -26201,7 +26278,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 6;">
         <div class="course-filetree-name" style="padding-left: 108px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -26492,7 +26569,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -26513,7 +26590,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 6;">
         <div class="course-filetree-name" style="padding-left: 108px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -26641,7 +26718,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 6;">
         <div class="course-filetree-name" style="padding-left: 108px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -26691,7 +26768,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </div></div>
     </details></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -26712,7 +26789,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -26733,7 +26810,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 6;">
         <div class="course-filetree-name" style="padding-left: 108px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -26917,7 +26994,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 6;">
         <div class="course-filetree-name" style="padding-left: 108px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -27102,7 +27179,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -27179,7 +27256,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </details></div>
     </details></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -27256,7 +27333,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -27357,7 +27434,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -27434,7 +27511,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -27535,7 +27612,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -27612,7 +27689,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -27633,7 +27710,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -27654,7 +27731,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -28269,7 +28346,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -28884,7 +28961,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -29527,7 +29604,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -29548,7 +29625,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -29650,7 +29727,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </div></div>
     </details></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -29750,7 +29827,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -29879,7 +29956,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -29928,7 +30005,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -30057,7 +30134,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -30134,7 +30211,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -30261,7 +30338,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -30338,7 +30415,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -30438,7 +30515,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -30487,7 +30564,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -30564,7 +30641,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -30585,7 +30662,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -30606,7 +30683,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -30627,7 +30704,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 6;">
         <div class="course-filetree-name" style="padding-left: 108px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -30811,7 +30888,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 6;">
         <div class="course-filetree-name" style="padding-left: 108px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -30995,7 +31072,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 6;">
         <div class="course-filetree-name" style="padding-left: 108px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -31237,7 +31314,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -31258,7 +31335,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -31361,7 +31438,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </details></div>
     </details></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 1;">
         <div class="course-filetree-name" style="padding-left: 18px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -31542,7 +31619,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 1;">
         <div class="course-filetree-name" style="padding-left: 18px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -31619,7 +31696,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -31667,7 +31744,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -31715,7 +31792,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -31946,7 +32023,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -32336,7 +32413,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -32357,7 +32434,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -32378,7 +32455,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -32562,7 +32639,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -32746,7 +32823,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -33069,7 +33146,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -33090,7 +33167,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -33191,7 +33268,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -33324,7 +33401,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 1;">
         <div class="course-filetree-name" style="padding-left: 18px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -33399,7 +33476,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -33420,7 +33497,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -33441,7 +33518,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -34003,7 +34080,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -34593,7 +34670,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -34614,7 +34691,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -34717,7 +34794,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </div></div>
     </details></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -34738,7 +34815,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -34759,7 +34836,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -34780,7 +34857,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -35342,7 +35419,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -35905,7 +35982,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -35926,7 +36003,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -36029,7 +36106,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -36050,7 +36127,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -36126,7 +36203,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </div></div>
     </details></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -36147,7 +36224,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -36168,7 +36245,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -36514,7 +36591,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -36861,7 +36938,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -36882,7 +36959,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -37012,7 +37089,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -37033,7 +37110,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -37054,7 +37131,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -37075,7 +37152,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -37637,7 +37714,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -38200,7 +38277,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -38221,7 +38298,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -38295,7 +38372,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -38427,7 +38504,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -38448,7 +38525,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -38469,7 +38546,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -38490,7 +38567,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -38782,7 +38859,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -39102,7 +39179,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -39123,7 +39200,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -39227,7 +39304,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -39248,7 +39325,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -39296,7 +39373,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -39317,7 +39394,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -39338,7 +39415,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -39631,7 +39708,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -39652,7 +39729,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -39730,7 +39807,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -39751,7 +39828,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -39772,7 +39849,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -39793,7 +39870,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -40410,7 +40487,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -40431,7 +40508,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -40481,7 +40558,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </div></div>
     </details></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -40530,7 +40607,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -40551,7 +40628,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -40572,7 +40649,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -40593,7 +40670,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -41210,7 +41287,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -41231,7 +41308,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -41281,7 +41358,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </div></div>
     </details></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -41330,7 +41407,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -41379,7 +41456,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -41400,7 +41477,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -42014,7 +42091,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -42602,7 +42679,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -43192,7 +43269,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -43213,7 +43290,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -43421,7 +43498,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -43471,7 +43548,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </div></div>
     </details></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -43492,7 +43569,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -43513,7 +43590,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -44127,7 +44204,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -44717,7 +44794,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -44738,7 +44815,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -44839,7 +44916,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -44942,7 +45019,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -45096,7 +45173,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -45222,7 +45299,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -45243,7 +45320,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -45264,7 +45341,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -45448,7 +45525,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -45632,7 +45709,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -45873,7 +45950,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -45894,7 +45971,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -46022,7 +46099,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -46070,7 +46147,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -46170,7 +46247,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -46219,7 +46296,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -46240,7 +46317,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -46261,7 +46338,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -46876,7 +46953,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -47491,7 +47568,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </a>
       </div>
     </div></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -48134,7 +48211,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 4;">
         <div class="course-filetree-name" style="padding-left: 72px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -48155,7 +48232,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </span>
         </div>
       </summary>
-      <div class="course-filetree-children"><details class="course-filetree-folder" >
+      <div class="course-filetree-children"><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 5;">
         <div class="course-filetree-name" style="padding-left: 90px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -48311,7 +48388,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </div></div>
     </details></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 3;">
         <div class="course-filetree-name" style="padding-left: 54px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -48412,7 +48489,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -48539,7 +48616,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div></div>
     </details></div>
-    </details><details class="course-filetree-folder" >
+    </details><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 1;">
         <div class="course-filetree-name" style="padding-left: 18px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -48728,7 +48805,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </svg>
         </a>
       </div>
-    </div><details class="course-filetree-folder" >
+    </div><details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: 2;">
         <div class="course-filetree-name" style="padding-left: 36px;">
           <span class="course-filetree-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none">
@@ -48879,6 +48956,33 @@ document.addEventListener('DOMContentLoaded', function() {
         title="网络与通信原理"
         class="hx:flex hx:max-w-[50%] hx:items-center hx:gap-1 hx:py-4 hx:text-base hx:font-medium hx:text-gray-600 hx:transition-colors [word-break:break-word] hx:hover:text-primary-600 hx:dark:text-gray-300 hx:md:text-lg hx:ltr:ml-auto hx:ltr:pl-4 hx:ltr:text-right hx:rtl:mr-auto hx:rtl:pr-4 hx:rtl:text-left"
       >网络与通信原理<svg class="hx:inline hx:h-5 hx:shrink-0 hx:rtl:-rotate-180" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg></a></div>
+  <div class="hx:mt-12" id="giscus-container"></div>
+  <script>
+    (function() {
+      var container = document.getElementById('giscus-container');
+      if (!container) return;
+
+      var script = document.createElement('script');
+      script.src = 'https://giscus.app/client.js';
+      script.async = true;
+      script.crossOrigin = 'anonymous';
+      script.setAttribute('data-repo', 'Timlin15/OpenISE-web');
+      script.setAttribute('data-repo-id', 'R_kgDOR77h8g');
+      script.setAttribute('data-category', 'Announcements');
+      script.setAttribute('data-category-id', 'DIC_kwDOR77h8s4C6g3O');
+      script.setAttribute('data-mapping', 'pathname');
+      script.setAttribute('data-strict', '1');
+      script.setAttribute('data-reactions-enabled', '1');
+      script.setAttribute('data-emit-metadata', '0');
+      script.setAttribute('data-input-position', 'top');
+      script.setAttribute('data-theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light');
+      script.setAttribute('data-lang', 'zh-CN');
+      script.setAttribute('data-loading', 'lazy');
+      container.appendChild(script);
+    })();
+  </script>
+
+
       </main>
     </article>
   </div>

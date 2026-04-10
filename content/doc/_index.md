@@ -62,30 +62,30 @@
 
 本项目受到[HITSZ课程攻略共享计划](https://hoa.moe/)的直接启发，同时提供一些可能有价值的网站，供同学们参考。
 
-<div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:24px 0;">
-  <a href="https://hoa.moe/" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;justify-content:flex-start;gap:12px;padding:16px 18px;border:1px solid rgba(15,23,42,0.08);border-radius:16px;background:linear-gradient(135deg,#ffffff 0%,#f8fbff 100%);box-shadow:0 10px 30px rgba(15,23,42,0.06);text-decoration:none;color:#0f172a;">
-    <img src="https://icons.duckduckgo.com/ip3/hoa.moe.ico" alt="HITSZ课程攻略共享计划 favicon" width="22" height="22" style="border-radius:6px;flex:none;" />
-    <span style="flex:1;text-align:left;font-weight:600;line-height:1.5;">HITSZ课程攻略共享计划</span>
+<div class="doc-friend-links">
+  <a href="https://hoa.moe/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+    <img src="https://icons.duckduckgo.com/ip3/hoa.moe.ico" alt="HITSZ课程攻略共享计划 favicon" />
+    <span class="doc-friend-link-title">HITSZ课程攻略共享计划</span>
   </a>
-  <a href="https://sysu-remajor.github.io/" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;justify-content:flex-start;gap:12px;padding:16px 18px;border:1px solid rgba(15,23,42,0.08);border-radius:16px;background:linear-gradient(135deg,#ffffff 0%,#f8fbff 100%);box-shadow:0 10px 30px rgba(15,23,42,0.06);text-decoration:none;color:#0f172a;">
-    <img src="https://icons.duckduckgo.com/ip3/sysu-remajor.github.io.ico" alt="SYSU 转专业手册 favicon" width="22" height="22" style="border-radius:6px;flex:none;" />
-    <span style="flex:1;text-align:left;font-weight:600;line-height:1.5;">SYSU 转专业手册</span>
+  <a href="https://sysu-remajor.github.io/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+    <img src="https://icons.duckduckgo.com/ip3/sysu-remajor.github.io.ico" alt="SYSU 转专业手册 favicon" />
+    <span class="doc-friend-link-title">SYSU 转专业手册</span>
   </a>
-  <a href="https://yigebande.github.io/SYSU-SAA-Survival-Manual/" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;justify-content:flex-start;gap:12px;padding:16px 18px;border:1px solid rgba(15,23,42,0.08);border-radius:16px;background:linear-gradient(135deg,#ffffff 0%,#f8fbff 100%);box-shadow:0 10px 30px rgba(15,23,42,0.06);text-decoration:none;color:#0f172a;">
-    <img src="https://icons.duckduckgo.com/ip3/yigebande.github.io.ico" alt="航院生存手册 favicon" width="22" height="22" style="border-radius:6px;flex:none;" />
-    <span style="flex:1;text-align:left;font-weight:600;line-height:1.5;">航院生存手册</span>
+  <a href="https://yigebande.github.io/SYSU-SAA-Survival-Manual/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+    <img src="https://icons.duckduckgo.com/ip3/yigebande.github.io.ico" alt="航院生存手册 favicon" />
+    <span class="doc-friend-link-title">航院生存手册</span>
   </a>
-  <a href="https://survivesjtu.gitbook.io/survivesjtumanual" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;justify-content:flex-start;gap:12px;padding:16px 18px;border:1px solid rgba(15,23,42,0.08);border-radius:16px;background:linear-gradient(135deg,#ffffff 0%,#f8fbff 100%);box-shadow:0 10px 30px rgba(15,23,42,0.06);text-decoration:none;color:#0f172a;">
-    <img src="https://icons.duckduckgo.com/ip3/survivesjtu.gitbook.io.ico" alt="上海交大生存手册 favicon" width="22" height="22" style="border-radius:6px;flex:none;" />
-    <span style="flex:1;text-align:left;font-weight:600;line-height:1.5;">上海交大生存手册</span>
+  <a href="https://survivesjtu.gitbook.io/survivesjtumanual" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+    <img src="https://icons.duckduckgo.com/ip3/survivesjtu.gitbook.io.ico" alt="上海交大生存手册 favicon" />
+    <span class="doc-friend-link-title">上海交大生存手册</span>
   </a>
-  <a href="https://csdiy.wiki/" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;justify-content:flex-start;gap:12px;padding:16px 18px;border:1px solid rgba(15,23,42,0.08);border-radius:16px;background:linear-gradient(135deg,#ffffff 0%,#f8fbff 100%);box-shadow:0 10px 30px rgba(15,23,42,0.06);text-decoration:none;color:#0f172a;">
-    <img src="https://icons.duckduckgo.com/ip3/csdiy.wiki.ico" alt="CS自学指南 favicon" width="22" height="22" style="border-radius:6px;flex:none;" />
-    <span style="flex:1;text-align:left;font-weight:600;line-height:1.5;">CS自学指南</span>
+  <a href="https://csdiy.wiki/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+    <img src="https://icons.duckduckgo.com/ip3/csdiy.wiki.ico" alt="CS自学指南 favicon" />
+    <span class="doc-friend-link-title">CS自学指南</span>
   </a>
-  <a href="https://manual.xn--xkrsa0ti6rf4cf98d.com/" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;justify-content:flex-start;gap:12px;padding:16px 18px;border:1px solid rgba(15,23,42,0.08);border-radius:16px;background:linear-gradient(135deg,#ffffff 0%,#f8fbff 100%);box-shadow:0 10px 30px rgba(15,23,42,0.06);text-decoration:none;color:#0f172a;">
-    <img src="https://icons.duckduckgo.com/ip3/manual.xn--xkrsa0ti6rf4cf98d.com.ico" alt="华南理工生存手册 favicon" width="22" height="22" style="border-radius:6px;flex:none;" />
-    <span style="flex:1;text-align:left;font-weight:600;line-height:1.5;">华南理工生存手册</span>
+  <a href="https://manual.xn--xkrsa0ti6rf4cf98d.com/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+    <img src="https://icons.duckduckgo.com/ip3/manual.xn--xkrsa0ti6rf4cf98d.com.ico" alt="华南理工生存手册 favicon" />
+    <span class="doc-friend-link-title">华南理工生存手册</span>
   </a>
 </div>
 

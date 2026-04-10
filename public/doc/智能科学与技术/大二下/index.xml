@@ -292,7 +292,7 @@
       &lt;div style=&#34;text-align:right;&#34;&gt;操作&lt;/div&gt;
     &lt;/div&gt;
 
-    &lt;div class=&#34;course-filetree-body&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; open&gt;
+    &lt;div class=&#34;course-filetree-body&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 0;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 0px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -313,7 +313,7 @@
           &lt;/span&gt;
         &lt;/div&gt;
       &lt;/summary&gt;
-      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 1;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 18px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -839,7 +839,7 @@
       &lt;div style=&#34;text-align:right;&#34;&gt;操作&lt;/div&gt;
     &lt;/div&gt;
 
-    &lt;div class=&#34;course-filetree-body&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; open&gt;
+    &lt;div class=&#34;course-filetree-body&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 0;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 0px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -860,7 +860,7 @@
           &lt;/span&gt;
         &lt;/div&gt;
       &lt;/summary&gt;
-      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 1;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 18px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -881,7 +881,7 @@
           &lt;/span&gt;
         &lt;/div&gt;
       &lt;/summary&gt;
-      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 2;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 36px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -932,7 +932,7 @@
       &lt;/div&gt;
     &lt;/div&gt;&lt;/div&gt;
     &lt;/details&gt;&lt;/div&gt;
-    &lt;/details&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+    &lt;/details&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 1;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 18px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -1008,7 +1008,7 @@
         &lt;/a&gt;
       &lt;/div&gt;
     &lt;/div&gt;&lt;/div&gt;
-    &lt;/details&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+    &lt;/details&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 1;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 18px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -1541,7 +1541,7 @@
       &lt;div style=&#34;text-align:right;&#34;&gt;操作&lt;/div&gt;
     &lt;/div&gt;
 
-    &lt;div class=&#34;course-filetree-body&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; open&gt;
+    &lt;div class=&#34;course-filetree-body&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 0;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 0px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -1562,7 +1562,7 @@
           &lt;/span&gt;
         &lt;/div&gt;
       &lt;/summary&gt;
-      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 1;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 18px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -1583,7 +1583,7 @@
           &lt;/span&gt;
         &lt;/div&gt;
       &lt;/summary&gt;
-      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 2;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 36px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -1661,7 +1661,7 @@
         &lt;/a&gt;
       &lt;/div&gt;
     &lt;/div&gt;&lt;/div&gt;
-    &lt;/details&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+    &lt;/details&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 2;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 36px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -1739,7 +1739,7 @@
         &lt;/a&gt;
       &lt;/div&gt;
     &lt;/div&gt;&lt;/div&gt;
-    &lt;/details&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+    &lt;/details&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 2;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 36px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -2120,7 +2120,7 @@
       &lt;div style=&#34;text-align:right;&#34;&gt;操作&lt;/div&gt;
     &lt;/div&gt;
 
-    &lt;div class=&#34;course-filetree-body&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; open&gt;
+    &lt;div class=&#34;course-filetree-body&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 0;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 0px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -2500,7 +2500,7 @@
       &lt;div style=&#34;text-align:right;&#34;&gt;操作&lt;/div&gt;
     &lt;/div&gt;
 
-    &lt;div class=&#34;course-filetree-body&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; open&gt;
+    &lt;div class=&#34;course-filetree-body&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 0;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 0px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -2521,7 +2521,7 @@
           &lt;/span&gt;
         &lt;/div&gt;
       &lt;/summary&gt;
-      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 1;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 18px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -3043,7 +3043,7 @@
           &lt;/svg&gt;
         &lt;/a&gt;
       &lt;/div&gt;
-    &lt;/div&gt;&lt;details class=&#34;course-filetree-folder&#34; open&gt;
+    &lt;/div&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 0;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 0px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -3197,7 +3197,7 @@
         &lt;/a&gt;
       &lt;/div&gt;
     &lt;/div&gt;&lt;/div&gt;
-    &lt;/details&gt;&lt;details class=&#34;course-filetree-folder&#34; open&gt;
+    &lt;/details&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 0;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 0px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -4044,7 +4044,7 @@
       &lt;div style=&#34;text-align:right;&#34;&gt;操作&lt;/div&gt;
     &lt;/div&gt;
 
-    &lt;div class=&#34;course-filetree-body&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; open&gt;
+    &lt;div class=&#34;course-filetree-body&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 0;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 0px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -4065,7 +4065,7 @@
           &lt;/span&gt;
         &lt;/div&gt;
       &lt;/summary&gt;
-      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 1;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 18px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -4526,7 +4526,7 @@
       &lt;div style=&#34;text-align:right;&#34;&gt;操作&lt;/div&gt;
     &lt;/div&gt;
 
-    &lt;div class=&#34;course-filetree-body&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; open&gt;
+    &lt;div class=&#34;course-filetree-body&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 0;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 0px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -4574,7 +4574,7 @@
           &lt;/svg&gt;
         &lt;/a&gt;
       &lt;/div&gt;
-    &lt;/div&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+    &lt;/div&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 1;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 18px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -4983,7 +4983,7 @@
       &lt;div style=&#34;text-align:right;&#34;&gt;操作&lt;/div&gt;
     &lt;/div&gt;
 
-    &lt;div class=&#34;course-filetree-body&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; open&gt;
+    &lt;div class=&#34;course-filetree-body&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 0;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 0px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -5004,7 +5004,7 @@
           &lt;/span&gt;
         &lt;/div&gt;
       &lt;/summary&gt;
-      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 1;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 18px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -5025,7 +5025,7 @@
           &lt;/span&gt;
         &lt;/div&gt;
       &lt;/summary&gt;
-      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+      &lt;div class=&#34;course-filetree-children&#34;&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 2;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 36px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;
@@ -5075,7 +5075,7 @@
         &lt;/a&gt;
       &lt;/div&gt;
     &lt;/div&gt;&lt;/div&gt;
-    &lt;/details&gt;&lt;details class=&#34;course-filetree-folder&#34; &gt;
+    &lt;/details&gt;&lt;details class=&#34;course-filetree-folder&#34;&gt;
       &lt;summary class=&#34;course-filetree-summary&#34; style=&#34;--depth: 2;&#34;&gt;
         &lt;div class=&#34;course-filetree-name&#34; style=&#34;padding-left: 36px;&#34;&gt;
           &lt;span class=&#34;course-filetree-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg width=&#34;18&#34; height=&#34;18&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;&gt;

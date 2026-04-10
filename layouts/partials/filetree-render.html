@@ -10,7 +10,7 @@
   {{- $entry := index $node $name -}}
   {{- $padding := mul $depth 18 -}}
   {{- if eq $entry._type "folder" -}}
-    <details class="course-filetree-folder" {{ if lt $depth 1 }}open{{ end }}>
+    <details class="course-filetree-folder">
       <summary class="course-filetree-summary" style="--depth: {{ $depth }};">
         <div class="course-filetree-name" style="padding-left: {{ $padding }}px;">
           <span class="course-filetree-icon" aria-hidden="true">{{ partial "filetree-icon.html" (dict "kind" "folder" "name" $name) }}</span>

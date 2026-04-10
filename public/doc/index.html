@@ -145,6 +145,57 @@
       padding: 0.4rem;
     }
   }
+  .doc-friend-links {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+    margin: 24px 0;
+  }
+  .doc-friend-link {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+    padding: 16px 18px;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    border-radius: 16px;
+    background: linear-gradient(135deg, #ffffff 0%, #f8fbff 100%);
+    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
+    text-decoration: none !important;
+    color: #0f172a !important;
+    transition: background 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  }
+  .doc-friend-link:hover {
+    border-color: rgba(59, 130, 246, 0.18);
+    box-shadow: 0 14px 34px rgba(15, 23, 42, 0.1);
+  }
+  .doc-friend-link img {
+    width: 22px;
+    height: 22px;
+    border-radius: 6px;
+    flex: none;
+  }
+  .doc-friend-link-title {
+    flex: 1;
+    text-align: left;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+  html.dark .doc-friend-link {
+    border-color: rgba(148, 163, 184, 0.16);
+    background: linear-gradient(135deg, #111827 0%, #0f172a 100%);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
+    color: #e5eefb !important;
+  }
+  html.dark .doc-friend-link:hover {
+    border-color: rgba(96, 165, 250, 0.28);
+    box-shadow: 0 16px 36px rgba(0, 0, 0, 0.34);
+  }
+  @media (max-width: 768px) {
+    .doc-friend-links {
+      grid-template-columns: 1fr;
+    }
+  }
 </style>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -175,8 +226,34 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     })
     .catch(function() {});
+
+  var applyGiscusTheme = function() {
+    var iframe = document.querySelector('iframe.giscus-frame');
+    if (!iframe) return;
+    iframe.contentWindow.postMessage(
+      {
+        giscus: {
+          setConfig: {
+            theme: document.documentElement.classList.contains('dark') ? 'dark' : 'light'
+          }
+        }
+      },
+      'https://giscus.app'
+    );
+  };
+
+  var observer = new MutationObserver(applyGiscusTheme);
+  observer.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] });
+  window.addEventListener('message', function(event) {
+    if (event.origin === 'https://giscus.app') {
+      applyGiscusTheme();
+    }
+  });
 });
 </script>
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "3ccdcd24abd949058d0233c37b0cfe86"}'></script>
+
 </head>
 <body>
     <a href="#content" class="hx:sr-only hx:focus-visible:not-sr-only hx:focus-visible:fixed hx:focus-visible:z-50 hx:focus-visible:top-2 hx:focus-visible:left-2 hx:focus-visible:bg-primary-500 hx:focus-visible:text-white hx:focus-visible:px-4 hx:focus-visible:py-2 hx:focus-visible:rounded-md hx:focus-visible:text-sm hx:focus-visible:font-medium">Skip to content</a><div class="hextra-nav-container hx:sticky hx:top-0 hx:z-20 hx:w-full hx:bg-transparent hx:print:hidden">
@@ -3042,30 +3119,30 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>⭐ 如果这个项目对你有帮助，欢迎去 Github点个 Star 和 Watch（关注）支持一下！ 你的 Star 是我们持续维护的最大动力，也能让更多同学发现这个项目。关注后有新资料更新时会第一时间收到通知~</p>
 <h2>友链<span class="hx:absolute hx:-mt-20" id="友链"></span>
     <a href="#%e5%8f%8b%e9%93%be" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>本项目受到<a href="https://hoa.moe/"target="_blank" rel="noopener">HITSZ课程攻略共享计划</a>的直接启发，同时提供一些可能有价值的网站，供同学们参考。</p>
-<div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:24px 0;">
-  <a href="https://hoa.moe/" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;justify-content:flex-start;gap:12px;padding:16px 18px;border:1px solid rgba(15,23,42,0.08);border-radius:16px;background:linear-gradient(135deg,#ffffff 0%,#f8fbff 100%);box-shadow:0 10px 30px rgba(15,23,42,0.06);text-decoration:none;color:#0f172a;">
-    <img src="https://icons.duckduckgo.com/ip3/hoa.moe.ico" alt="HITSZ课程攻略共享计划 favicon" width="22" height="22" style="border-radius:6px;flex:none;" />
-    <span style="flex:1;text-align:left;font-weight:600;line-height:1.5;">HITSZ课程攻略共享计划</span>
+<div class="doc-friend-links">
+  <a href="https://hoa.moe/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+    <img src="https://icons.duckduckgo.com/ip3/hoa.moe.ico" alt="HITSZ课程攻略共享计划 favicon" />
+    <span class="doc-friend-link-title">HITSZ课程攻略共享计划</span>
   </a>
-  <a href="https://sysu-remajor.github.io/" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;justify-content:flex-start;gap:12px;padding:16px 18px;border:1px solid rgba(15,23,42,0.08);border-radius:16px;background:linear-gradient(135deg,#ffffff 0%,#f8fbff 100%);box-shadow:0 10px 30px rgba(15,23,42,0.06);text-decoration:none;color:#0f172a;">
-    <img src="https://icons.duckduckgo.com/ip3/sysu-remajor.github.io.ico" alt="SYSU 转专业手册 favicon" width="22" height="22" style="border-radius:6px;flex:none;" />
-    <span style="flex:1;text-align:left;font-weight:600;line-height:1.5;">SYSU 转专业手册</span>
+  <a href="https://sysu-remajor.github.io/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+    <img src="https://icons.duckduckgo.com/ip3/sysu-remajor.github.io.ico" alt="SYSU 转专业手册 favicon" />
+    <span class="doc-friend-link-title">SYSU 转专业手册</span>
   </a>
-  <a href="https://yigebande.github.io/SYSU-SAA-Survival-Manual/" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;justify-content:flex-start;gap:12px;padding:16px 18px;border:1px solid rgba(15,23,42,0.08);border-radius:16px;background:linear-gradient(135deg,#ffffff 0%,#f8fbff 100%);box-shadow:0 10px 30px rgba(15,23,42,0.06);text-decoration:none;color:#0f172a;">
-    <img src="https://icons.duckduckgo.com/ip3/yigebande.github.io.ico" alt="航院生存手册 favicon" width="22" height="22" style="border-radius:6px;flex:none;" />
-    <span style="flex:1;text-align:left;font-weight:600;line-height:1.5;">航院生存手册</span>
+  <a href="https://yigebande.github.io/SYSU-SAA-Survival-Manual/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+    <img src="https://icons.duckduckgo.com/ip3/yigebande.github.io.ico" alt="航院生存手册 favicon" />
+    <span class="doc-friend-link-title">航院生存手册</span>
   </a>
-  <a href="https://survivesjtu.gitbook.io/survivesjtumanual" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;justify-content:flex-start;gap:12px;padding:16px 18px;border:1px solid rgba(15,23,42,0.08);border-radius:16px;background:linear-gradient(135deg,#ffffff 0%,#f8fbff 100%);box-shadow:0 10px 30px rgba(15,23,42,0.06);text-decoration:none;color:#0f172a;">
-    <img src="https://icons.duckduckgo.com/ip3/survivesjtu.gitbook.io.ico" alt="上海交大生存手册 favicon" width="22" height="22" style="border-radius:6px;flex:none;" />
-    <span style="flex:1;text-align:left;font-weight:600;line-height:1.5;">上海交大生存手册</span>
+  <a href="https://survivesjtu.gitbook.io/survivesjtumanual" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+    <img src="https://icons.duckduckgo.com/ip3/survivesjtu.gitbook.io.ico" alt="上海交大生存手册 favicon" />
+    <span class="doc-friend-link-title">上海交大生存手册</span>
   </a>
-  <a href="https://csdiy.wiki/" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;justify-content:flex-start;gap:12px;padding:16px 18px;border:1px solid rgba(15,23,42,0.08);border-radius:16px;background:linear-gradient(135deg,#ffffff 0%,#f8fbff 100%);box-shadow:0 10px 30px rgba(15,23,42,0.06);text-decoration:none;color:#0f172a;">
-    <img src="https://icons.duckduckgo.com/ip3/csdiy.wiki.ico" alt="CS自学指南 favicon" width="22" height="22" style="border-radius:6px;flex:none;" />
-    <span style="flex:1;text-align:left;font-weight:600;line-height:1.5;">CS自学指南</span>
+  <a href="https://csdiy.wiki/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+    <img src="https://icons.duckduckgo.com/ip3/csdiy.wiki.ico" alt="CS自学指南 favicon" />
+    <span class="doc-friend-link-title">CS自学指南</span>
   </a>
-  <a href="https://manual.xn--xkrsa0ti6rf4cf98d.com/" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;justify-content:flex-start;gap:12px;padding:16px 18px;border:1px solid rgba(15,23,42,0.08);border-radius:16px;background:linear-gradient(135deg,#ffffff 0%,#f8fbff 100%);box-shadow:0 10px 30px rgba(15,23,42,0.06);text-decoration:none;color:#0f172a;">
-    <img src="https://icons.duckduckgo.com/ip3/manual.xn--xkrsa0ti6rf4cf98d.com.ico" alt="华南理工生存手册 favicon" width="22" height="22" style="border-radius:6px;flex:none;" />
-    <span style="flex:1;text-align:left;font-weight:600;line-height:1.5;">华南理工生存手册</span>
+  <a href="https://manual.xn--xkrsa0ti6rf4cf98d.com/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+    <img src="https://icons.duckduckgo.com/ip3/manual.xn--xkrsa0ti6rf4cf98d.com.ico" alt="华南理工生存手册 favicon" />
+    <span class="doc-friend-link-title">华南理工生存手册</span>
   </a>
 </div>
 <h2>贡献者<span class="hx:absolute hx:-mt-20" id="贡献者"></span>
@@ -3102,6 +3179,33 @@ document.addEventListener('DOMContentLoaded', function() {
 
         </div>
         <div class="hx:mt-16"></div>
+  <div class="hx:mt-12" id="giscus-container"></div>
+  <script>
+    (function() {
+      var container = document.getElementById('giscus-container');
+      if (!container) return;
+
+      var script = document.createElement('script');
+      script.src = 'https://giscus.app/client.js';
+      script.async = true;
+      script.crossOrigin = 'anonymous';
+      script.setAttribute('data-repo', 'Timlin15/OpenISE-web');
+      script.setAttribute('data-repo-id', 'R_kgDOR77h8g');
+      script.setAttribute('data-category', 'Announcements');
+      script.setAttribute('data-category-id', 'DIC_kwDOR77h8s4C6g3O');
+      script.setAttribute('data-mapping', 'pathname');
+      script.setAttribute('data-strict', '1');
+      script.setAttribute('data-reactions-enabled', '1');
+      script.setAttribute('data-emit-metadata', '0');
+      script.setAttribute('data-input-position', 'top');
+      script.setAttribute('data-theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light');
+      script.setAttribute('data-lang', 'zh-CN');
+      script.setAttribute('data-loading', 'lazy');
+      container.appendChild(script);
+    })();
+  </script>
+
+
       </main>
     </article>
   </div>

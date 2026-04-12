@@ -4,7 +4,7 @@
 
 ## 文件架构
 
-左侧可见，本项目的文件架构为：
+左侧（移动端需要划至最底端）可见，本项目的文件架构为：
 
 - 大一公共课程
 - 往届课程
@@ -62,35 +62,119 @@
 
 本项目受到[HITSZ课程攻略共享计划](https://hoa.moe/)的直接启发，同时提供一些可能有价值的网站，供同学们参考。
 
-<div class="doc-friend-links">
-  <a href="https://hoa.moe/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
-    <img src="https://icons.duckduckgo.com/ip3/hoa.moe.ico" alt="HITSZ课程攻略共享计划 favicon" />
-    <span class="doc-friend-link-title">HITSZ课程攻略共享计划</span>
-  </a>
-  <a href="https://sysu-remajor.github.io/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
-    <img src="https://icons.duckduckgo.com/ip3/sysu-remajor.github.io.ico" alt="SYSU 转专业手册 favicon" />
-    <span class="doc-friend-link-title">SYSU 转专业手册</span>
-  </a>
-  <a href="https://yigebande.github.io/SYSU-SAA-Survival-Manual/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
-    <img src="https://icons.duckduckgo.com/ip3/yigebande.github.io.ico" alt="航院生存手册 favicon" />
-    <span class="doc-friend-link-title">航院生存手册</span>
-  </a>
-  <a href="https://survivesjtu.gitbook.io/survivesjtumanual" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
-    <img src="https://icons.duckduckgo.com/ip3/survivesjtu.gitbook.io.ico" alt="上海交大生存手册 favicon" />
-    <span class="doc-friend-link-title">上海交大生存手册</span>
-  </a>
-  <a href="https://csdiy.wiki/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
-    <img src="https://icons.duckduckgo.com/ip3/csdiy.wiki.ico" alt="CS自学指南 favicon" />
-    <span class="doc-friend-link-title">CS自学指南</span>
-  </a>
-  <a href="https://manual.xn--xkrsa0ti6rf4cf98d.com/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
-    <img src="https://icons.duckduckgo.com/ip3/manual.xn--xkrsa0ti6rf4cf98d.com.ico" alt="华南理工生存手册 favicon" />
-    <span class="doc-friend-link-title">华南理工生存手册</span>
-  </a>
-  <a href="https://csbaoyan.top/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
-    <img src="https://icons.duckduckgo.com/ip3/csbaoyan.top.ico" alt="CS保研导航 favicon" />
-    <span class="doc-friend-link-title">CS保研指南</span>
-  </a>
+<style>
+  :root {
+    --doc-friend-link-bg: #ffffff;
+    --doc-friend-link-border: #e5e7eb;
+    --doc-friend-link-shadow: 0 16px 36px rgba(15, 23, 42, 0.08);
+    --doc-friend-link-shadow-hover: 0 20px 44px rgba(15, 23, 42, 0.12);
+    --doc-friend-link-title: #111827;
+    --doc-friend-link-icon-bg: #f8fafc;
+  }
+
+  .dark {
+    --doc-friend-link-bg: #111827;
+    --doc-friend-link-border: #374151;
+    --doc-friend-link-shadow: 0 18px 42px rgba(2, 6, 23, 0.34);
+    --doc-friend-link-shadow-hover: 0 22px 50px rgba(2, 6, 23, 0.42);
+    --doc-friend-link-title: #f9fafb;
+    --doc-friend-link-icon-bg: #1f2937;
+  }
+
+  .doc-friend-links {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    gap: 1rem;
+    margin: 1.5rem 0 2rem;
+  }
+
+  .doc-friend-link {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.875rem;
+    min-height: 5rem;
+    width: 100%;
+    padding: 1rem 1.125rem;
+    border: 1px solid var(--doc-friend-link-border);
+    border-radius: 1rem;
+    background: var(--doc-friend-link-bg);
+    box-shadow: var(--doc-friend-link-shadow);
+    text-decoration: none;
+    transition:
+      transform 0.2s ease,
+      box-shadow 0.2s ease,
+      border-color 0.2s ease;
+  }
+
+  .doc-friend-link:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--doc-friend-link-shadow-hover);
+  }
+
+  .doc-friend-link img {
+    width: 1.5rem;
+    height: 1.5rem;
+    flex: 0 0 1.5rem;
+    padding: 0.25rem;
+    border-radius: 0.625rem;
+    background: var(--doc-friend-link-icon-bg);
+    object-fit: contain;
+  }
+
+  .doc-friend-link-title {
+    flex: 1 1 auto;
+    display: block;
+    color: var(--doc-friend-link-title);
+    font-weight: 600;
+    line-height: 1.5;
+    text-align: left;
+  }
+
+  @media (min-width: 640px) {
+    .doc-friend-links {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .doc-friend-links {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+</style>
+
+<div class="not-prose">
+  <div class="doc-friend-links">
+    <a href="https://hoa.moe/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+      <img src="https://icons.duckduckgo.com/ip3/hoa.moe.ico" alt="HITSZ课程攻略共享计划 favicon" />
+      <span class="doc-friend-link-title">HITSZ课程攻略共享计划</span>
+    </a>
+    <a href="https://sysu-remajor.github.io/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+      <img src="https://icons.duckduckgo.com/ip3/sysu-remajor.github.io.ico" alt="SYSU 转专业手册 favicon" />
+      <span class="doc-friend-link-title">SYSU 转专业手册</span>
+    </a>
+    <a href="https://yigebande.github.io/SYSU-SAA-Survival-Manual/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+      <img src="https://icons.duckduckgo.com/ip3/yigebande.github.io.ico" alt="航院生存手册 favicon" />
+      <span class="doc-friend-link-title">航院生存手册</span>
+    </a>
+    <a href="https://survivesjtu.gitbook.io/survivesjtumanual" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+      <img src="https://icons.duckduckgo.com/ip3/survivesjtu.gitbook.io.ico" alt="上海交大生存手册 favicon" />
+      <span class="doc-friend-link-title">上海交大生存手册</span>
+    </a>
+    <a href="https://csdiy.wiki/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+      <img src="https://icons.duckduckgo.com/ip3/csdiy.wiki.ico" alt="CS自学指南 favicon" />
+      <span class="doc-friend-link-title">CS自学指南</span>
+    </a>
+    <a href="https://manual.xn--xkrsa0ti6rf4cf98d.com/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+      <img src="https://icons.duckduckgo.com/ip3/manual.xn--xkrsa0ti6rf4cf98d.com.ico" alt="华南理工生存手册 favicon" />
+      <span class="doc-friend-link-title">华南理工生存手册</span>
+    </a>
+    <a href="https://csbaoyan.top/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+      <img src="https://icons.duckduckgo.com/ip3/csbaoyan.top.ico" alt="CS保研导航 favicon" />
+      <span class="doc-friend-link-title">CS保研导航</span>
+    </a>
+  </div>
 </div>
 
 ## 贡献者

@@ -8,31 +8,41 @@
 <link rel="icon" href="/favicon-32x32.png" type="image/png" sizes="32x32" />
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
 <link fetchpriority="low" href="/site.webmanifest" rel="manifest" />
-<title>博客 – OpenISE</title>
-  <meta name="description" content="收录全院同学与校友的亲历分享，涵盖学业规划、保研、考研、出国申请及成长经历。" /><link rel="canonical" href="http://localhost:1313/blog/" itemprop="url" />
+<title>让流动的东西稳定下来：一篇发刊词 – OpenISE</title>
+  <meta name="description" content="关于这个网站为什么存在，以及我们希望它成为什么样子。" /><link rel="canonical" href="http://localhost:1313/blog/%E5%8F%91%E5%88%8A%E8%AF%8D/" itemprop="url" />
 
-<meta property="og:title" content="博客">
+<meta property="og:title" content="让流动的东西稳定下来：一篇发刊词">
 <meta
   property="og:description"
   content="
-    收录全院同学与校友的亲历分享，涵盖学业规划、保研、考研、出国申请及成长经历。
+    关于这个网站为什么存在，以及我们希望它成为什么样子。
   ">
 <meta
   property="og:type"
   content="
-    website
+    article
   ">
-<meta property="og:url" content="http://localhost:1313/blog/">
+<meta property="og:url" content="http://localhost:1313/blog/%E5%8F%91%E5%88%8A%E8%AF%8D/"><meta property="article:section" content="blog">
+
+<meta
+  property="article:published_time"
+  content="2026-04-11T00:00:00+00:00">
 
 
-  <meta itemprop="name" content="博客">
-  <meta itemprop="description" content="收录全院同学与校友的亲历分享，涵盖学业规划、保研、考研、出国申请及成长经历。">
+<meta
+  property="article:modified_time"
+  content="2026-04-11T00:00:00+00:00">
+
+
+
+  <meta itemprop="name" content="让流动的东西稳定下来：一篇发刊词">
+  <meta itemprop="description" content="关于这个网站为什么存在，以及我们希望它成为什么样子。">
   <meta itemprop="datePublished" content="2026-04-11T00:00:00+00:00">
   <meta itemprop="dateModified" content="2026-04-11T00:00:00+00:00">
-  <meta itemprop="wordCount" content="2">
+  <meta itemprop="wordCount" content="9">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="博客">
-  <meta name="twitter:description" content="收录全院同学与校友的亲历分享，涵盖学业规划、保研、考研、出国申请及成长经历。">
+  <meta name="twitter:title" content="让流动的东西稳定下来：一篇发刊词">
+  <meta name="twitter:description" content="关于这个网站为什么存在，以及我们希望它成为什么样子。">
 <link href="/css/compiled/main.css" rel="stylesheet" />
     <link href="/css/variables.css" rel="stylesheet" />
     <link href="/css/custom.css" rel="stylesheet" />
@@ -118,292 +128,112 @@
 
   
   <style>
-    .blog-list-page {
-      --blog-border: rgba(15, 23, 42, 0.1);
-      --blog-border-strong: rgba(15, 23, 42, 0.14);
-      --blog-panel: rgba(255, 255, 255, 0.86);
-      --blog-panel-muted: rgba(248, 250, 252, 0.9);
-      --blog-text: #111827;
+    .blog-single-page {
       --blog-text-muted: #64748b;
-      --blog-shadow: 0 24px 60px -40px rgba(15, 23, 42, 0.35);
-      --blog-accent: #2563eb;
-      max-width: 960px;
+      max-width: 860px;
       margin: 0 auto;
-      min-height: calc(100svh - var(--navbar-height, 4rem) - 9rem);
-      padding: 2.5rem 1.5rem 4rem;
-      color: var(--blog-text);
+      padding: 2.25rem 1.5rem 4rem;
     }
-    html.dark .blog-list-page {
-      --blog-border: rgba(148, 163, 184, 0.14);
-      --blog-border-strong: rgba(148, 163, 184, 0.24);
-      --blog-panel: rgba(17, 17, 17, 0.82);
-      --blog-panel-muted: rgba(23, 23, 23, 0.92);
-      --blog-text: rgba(241, 245, 249, 0.96);
+    html.dark .blog-single-page {
       --blog-text-muted: rgba(148, 163, 184, 0.9);
-      --blog-shadow: 0 24px 60px -34px rgba(0, 0, 0, 0.5);
-      --blog-accent: #93c5fd;
     }
-    .blog-list-hero {
-      margin-bottom: 2.4rem;
-      padding: 2.2rem 2.4rem;
-      border: 1px solid var(--blog-border);
-      border-radius: 28px;
-      background:
-        radial-gradient(circle at top right, rgba(37, 99, 235, 0.12), transparent 28%),
-        linear-gradient(180deg, var(--blog-panel), var(--blog-panel-muted));
-      box-shadow: var(--blog-shadow);
-    }
-    html.dark .blog-list-hero {
-      background:
-        radial-gradient(circle at top right, rgba(255, 255, 255, 0.05), transparent 28%),
-        linear-gradient(180deg, var(--blog-panel), var(--blog-panel-muted));
-    }
-    .blog-list-title {
-      margin: 0;
-      font-size: clamp(2rem, 3.6vw, 2.7rem);
-      line-height: 1.16;
-      font-weight: 800;
-      letter-spacing: -0.04em;
-    }
-    .blog-list-subtitle {
-      max-width: 42rem;
-      margin: 1.05rem 0 0;
+    .blog-single-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem 1.2rem;
+      margin-top: 1.55rem;
       color: var(--blog-text-muted);
-      font-size: 1rem;
+      font-size: 0.92rem;
+    }
+    .blog-single-summary {
+      margin-top: 0.8rem;
+      color: var(--blog-text-muted);
       line-height: 1.9;
     }
-    .blog-list-subtitle a,
-    .blog-post-author a {
+    .blog-single-meta a,
+    .blog-single-summary a {
       color: inherit;
       text-decoration: underline;
       text-underline-offset: 0.14em;
     }
-    .blog-list-meta {
-      margin-top: 1.35rem;
-      color: var(--blog-text-muted);
-      font-size: 0.92rem;
+    .blog-single-content {
+      margin-top: 2.5rem;
     }
-    .blog-list-hero-cta {
-      margin-top: 1.4rem;
-      padding-top: 1.25rem;
-      border-top: 1px solid var(--blog-border);
-    }
-    .blog-list-hero-cta > div {
-      display: flex;
-      width: 100%;
-      align-items: center;
-      justify-content: space-between;
-      gap: 1rem;
-    }
-    .blog-list-hero-cta p {
-      margin: 0;
-      color: var(--blog-text);
-      font-size: 0.98rem;
-      line-height: 1.8;
-    }
-    .blog-list-hero-cta a {
-      flex: none;
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      padding: 0.7rem 1rem;
-      border-radius: 999px;
-      border: 1px solid #2563eb;
-      background: #2563eb;
-      color: #ffffff;
-      text-decoration: none;
-      font-size: 0.92rem;
-      font-weight: 600;
-      box-shadow: 0 12px 24px -18px rgba(37, 99, 235, 0.9);
-      transition: border-color 0.2s ease, background-color 0.2s ease, transform 0.2s ease;
-    }
-    .blog-list-hero-cta a:hover {
-      background: #1d4ed8;
-      border-color: #1d4ed8;
-      color: #ffffff;
-      transform: translateY(-1px);
-    }
-    .blog-post-list {
-      display: grid;
-      gap: 1.15rem;
-    }
-    .blog-post-card {
-      display: grid;
-      grid-template-columns: 150px minmax(0, 1fr) auto;
-      gap: 1rem;
-      align-items: center;
-      padding: 1.1rem 1.25rem;
-      border: 1px solid var(--blog-border);
-      border-radius: 22px;
-      background: linear-gradient(180deg, var(--blog-panel), var(--blog-panel-muted));
-      box-shadow: var(--blog-shadow);
-      transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
-    }
-    .blog-post-card:hover {
-      transform: translateY(-2px);
-      border-color: var(--blog-border-strong);
-      box-shadow: 0 28px 60px -40px rgba(37, 99, 235, 0.24);
-    }
-    html.dark .blog-post-card:hover {
-      box-shadow: 0 26px 56px -36px rgba(0, 0, 0, 0.56);
-    }
-    .blog-post-date {
-      font-size: 0.9rem;
-      color: var(--blog-text-muted);
-      white-space: nowrap;
-    }
-    .blog-post-main {
-      min-width: 0;
-    }
-    .blog-post-title {
-      margin: 0;
-      font-size: 1.16rem;
-      font-weight: 700;
-      line-height: 1.45;
-      color: inherit;
-    }
-    .blog-post-title-link {
-      display: block;
-      color: inherit;
-      text-decoration: none;
-    }
-    .blog-post-title-link:hover .blog-post-title {
-      text-decoration: underline;
-      text-underline-offset: 0.14em;
-    }
-    .blog-post-summary {
-      margin-top: 0.4rem;
-      color: var(--blog-text-muted);
-      font-size: 0.94rem;
-      line-height: 1.75;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      white-space: nowrap;
-    }
-    .blog-post-author {
-      margin-top: 0.35rem;
-      color: var(--blog-text-muted);
-      font-size: 0.86rem;
-      word-break: break-word;
-    }
-    .blog-post-author p {
-      display: inline;
-      margin: 0;
-    }
-    .blog-post-author a {
-      color: inherit;
-      text-decoration: underline;
-      text-underline-offset: 0.14em;
-    }
-    .blog-post-arrow {
-      width: 2.25rem;
-      height: 2.25rem;
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      border-radius: 999px;
-      border: 1px solid var(--blog-border);
-      color: var(--blog-text-muted);
-      flex: none;
-      text-decoration: none;
-    }
-    .blog-post-empty {
-      padding: 1.3rem 1.4rem;
-      border: 1px dashed var(--blog-border-strong);
-      border-radius: 20px;
-      color: var(--blog-text-muted);
-      background: var(--blog-panel-muted);
+    .blog-single-page h1 {
+      margin-top: 0.55rem;
+      font-size: clamp(2rem, 3.8vw, 2.7rem);
+      line-height: 1.14;
+      letter-spacing: -0.04em;
+      font-weight: 800;
     }
     @media (max-width: 768px) {
-      .blog-list-page {
+      .blog-single-page {
         padding: 1.5rem 1rem 3rem;
-      }
-      .blog-list-hero {
-        padding: 1.7rem 1.2rem;
-        border-radius: 22px;
-      }
-      .blog-post-card {
-        grid-template-columns: 1fr auto;
-        grid-template-areas:
-          "date arrow"
-          "main main";
-      }
-      .blog-post-date {
-        grid-area: date;
-      }
-      .blog-post-main {
-        grid-area: main;
-      }
-      .blog-post-arrow {
-        grid-area: arrow;
-      }
-      .blog-post-summary {
-        white-space: normal;
-      }
-      .blog-list-hero-cta {
-      }
-      .blog-list-hero-cta > div {
-        flex-direction: column;
-        align-items: flex-start;
       }
     }
   </style>
 
-  <div class="blog-list-page">
-    <section class="blog-list-hero">
-      <h1 class="blog-list-title">博客</h1>
-      <p class="blog-list-subtitle">收录全院同学与校友的亲历分享，涵盖学业规划、保研、考研、出国申请及成长经历。</p>
-      <div class="blog-list-meta">共 2 篇文章</div>
-      
-        <div class="blog-list-hero-cta content">
-          <div>
-  <p>我们非常欢迎同学校友们投稿。</p>
-  <a href="/about/#博客贡献方式">贡献</a>
-</div>
+  <div class="blog-single-page">
+    <div class="hx:mt-1.5 hx:flex hx:items-center hx:gap-1 hx:overflow-hidden hx:text-sm hx:text-gray-500 hx:dark:text-gray-400 hx:contrast-more:text-current">
+        <div class="hx:whitespace-nowrap hx:transition-colors hx:min-w-[24px] hx:overflow-hidden hx:text-ellipsis hx:hover:text-gray-900 hx:dark:hover:text-gray-100">
+          <a href="/blog/" class="hx:inline-block hx:rounded-sm hx:hextra-focus-visible-inset">博客</a>
+        </div><svg class="hx:w-3.5 hx:shrink-0 hx:rtl:-rotate-180" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg><div class="hx:whitespace-nowrap hx:transition-colors hx:font-medium hx:text-gray-700 hx:contrast-more:font-bold hx:contrast-more:text-current hx:dark:text-gray-100 hx:contrast-more:dark:text-current">让流动的东西稳定下来：一篇发刊词</div>
+  </div>
 
+    <article>
+      <header>
+        <h1>让流动的东西稳定下来：一篇发刊词</h1>
+        <div class="blog-single-meta">
+          <span>作者：<a href="https://github.com/Timlin15"target="_blank" rel="noopener">知言</a></span>
+          <span>写于：2026年4月11日</span>
+          <span>预计阅读：1 分钟</span>
         </div>
-      
-    </section>
+        
+          <p class="blog-single-summary">关于这个网站为什么存在，以及我们希望它成为什么样子。</p>
+        
+      </header>
+      <div class="content blog-single-content">
+        <p>我一直期望能有一个类似的项目，无论是想获取真题却只能在 BBS 上找到叫卖的贩子时，还是选课时面对陌生的课程名称不知道其内容的时候，以及大一大二迷茫的时候，都能提供一点帮助、一点希望。况且，我最喜欢计算机这门学科的原因，是其无与伦比的开源程度，基本上无论什么领域的知识，都能在网上获取到优质免费的资源。我因为前辈们的开源内容受益匪浅，也想着可以用什么方式践行开源精神。</p>
+<p>好吧，既然没有，那就自己造一个吧。</p>
+<p>怀着这样的心情，我和常学长一拍即合，在最近这一周搭建起了这个网站。课程资料已经基本就位，选课建议仍需完善。我也希望所有有想法有能力的同学能加入贡献。因为我深知文字的力量，它能让流动的东西稳定。课程在变，老师在变，技术栈在变，上一届的资料到这一届可能就失效了，但是只要把同学们口耳相传的经验固定下来，把网络上相互贩卖的资料开放出来，把每个人的成长经历沉淀下来，这些不变的东西往往能迸发出千钧的重量，这对于个人乃至学院的影响是深远的。同时，我设置了评论系统，这是希望同学们能在交流互动中能提出课程的改进建议，给智工院的老师们改革课程提供宝贵的信息。</p>
+<p>所以我希望对于可能点进来这个网页，这个文章的人：</p>
+<ul>
+<li>对于需要课程资料、选课建议的同学：尽情取用，这个网站就是为了你们设计的，能解决你们的问题就是它存在的意义。如果可以，更欢迎你们广而告之，让这个项目能影响到、帮助到更多的人。</li>
+<li>对于有资料可以贡献，有经验可以分享的同学：欢迎你们<a href="%5cabout">贡献</a>，课程资料、内容介绍、选课建议，大到职业规划、升学/就业经验，小到中深附近的觅食指南，都欢迎贡献。贡献的难度远比你想象得小，实在不行，也可以通过发邮件，或者在评论区评论的方式给这个项目添砖加瓦。</li>
+</ul>
+<p>我不知道这个项目可以走多远，但是哪怕只有一位同学能从中获取一次资料而没被二道贩子宰，能在选课前少一点迷茫，或者从<a href="/doc/#%e5%8f%8b%e9%93%be">友链</a>、博客中能获取到有价值的经验。只要这个项目能让流动的、易逝的东西稳定下来，我就已经满足了。</p>
 
-    <section class="blog-post-list">
+      </div>
+      <div class="hx:mt-16"></div>
       
-        
-        
-        <article class="blog-post-card">
-          <div class="blog-post-date">2026年4月11日</div>
-          <div class="blog-post-main">
-            <a class="blog-post-title-link" href="/blog/%E5%8F%91%E5%88%8A%E8%AF%8D/">
-              <h2 class="blog-post-title">让流动的东西稳定下来：一篇发刊词</h2>
-              <div class="blog-post-summary">关于这个网站为什么存在，以及我们希望它成为什么样子。</div>
-            </a>
-            <div class="blog-post-author">作者：<a href="https://github.com/Timlin15"target="_blank" rel="noopener">知言</a></div>
-          </div>
-          <a class="blog-post-arrow" href="/blog/%E5%8F%91%E5%88%8A%E8%AF%8D/" aria-label="查看 让流动的东西稳定下来：一篇发刊词">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
-              <path d="m9 6 6 6-6 6" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"></path>
-            </svg>
-          </a>
-        </article>
-      
-        
-        
-        <article class="blog-post-card">
-          <div class="blog-post-date">2026年4月11日</div>
-          <div class="blog-post-main">
-            <a class="blog-post-title-link" href="/blog/%E4%B8%80%E4%BB%BD%E7%A4%BC%E7%89%A9/">
-              <h2 class="blog-post-title">OpenISE · 发起说明 · 送给学弟学妹们的礼物</h2>
-              <div class="blog-post-summary">记录智能工程学院课程资料共享项目的发起背景、初衷与发展过程。</div>
-            </a>
-            <div class="blog-post-author">作者：<a href="https://github.com/changyicheng1234"target="_blank" rel="noopener">常毅成</a></div>
-          </div>
-          <a class="blog-post-arrow" href="/blog/%E4%B8%80%E4%BB%BD%E7%A4%BC%E7%89%A9/" aria-label="查看 OpenISE · 发起说明 · 送给学弟学妹们的礼物">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
-              <path d="m9 6 6 6-6 6" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"></path>
-            </svg>
-          </a>
-        </article>
-      
-    </section>
+  <div class="hx:mt-12" id="giscus-container"></div>
+  <script>
+    (function() {
+      var container = document.getElementById('giscus-container');
+      if (!container) return;
+
+      var script = document.createElement('script');
+      script.src = 'https://giscus.app/client.js';
+      script.async = true;
+      script.crossOrigin = 'anonymous';
+      script.setAttribute('data-repo', 'Timlin15/OpenISE-web');
+      script.setAttribute('data-repo-id', 'R_kgDOR77h8g');
+      script.setAttribute('data-category', 'Announcements');
+      script.setAttribute('data-category-id', 'DIC_kwDOR77h8s4C6g3O');
+      script.setAttribute('data-mapping', 'pathname');
+      script.setAttribute('data-strict', '1');
+      script.setAttribute('data-reactions-enabled', '1');
+      script.setAttribute('data-emit-metadata', '0');
+      script.setAttribute('data-input-position', 'top');
+      script.setAttribute('data-theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light');
+      script.setAttribute('data-lang', 'zh-CN');
+      script.setAttribute('data-loading', 'lazy');
+      container.appendChild(script);
+    })();
+  </script>
+
+
+    </article>
   </div>
 
       <footer class="hextra-footer hx:bg-gray-100 hx:pb-[env(safe-area-inset-bottom)] hx:dark:bg-neutral-900 hx:print:bg-transparent"><div class="hx:mx-auto hx:flex hx:gap-2 hx:py-2 hx:px-4 hextra-max-footer-width"><div class="hx:flex hx:justify-items-start hx:group" data-theme="light">

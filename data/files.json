@@ -7243,91 +7243,6 @@
             }
           }
         },
-        "实验课": {
-          "_type": "folder",
-          "_children": {
-            "实验1": {
-              "_type": "folder",
-              "_children": {
-                "22321002": {
-                  "_type": "folder",
-                  "_children": {
-                    "task1.add.xml": {
-                      "_type": "file",
-                      "name": "task1.add.xml",
-                      "size": 1186,
-                      "sizeHuman": "1.2 KB",
-                      "mtime": "2026/04/14",
-                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/实验1/22321002/task1.add.xml",
-                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/实验1/22321002/task1.add.xml",
-                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/实验1/22321002/task1.add.xml"
-                    },
-                    "task1.net.xml": {
-                      "_type": "file",
-                      "name": "task1.net.xml",
-                      "size": 75397,
-                      "sizeHuman": "73.6 KB",
-                      "mtime": "2026/04/14",
-                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/实验1/22321002/task1.net.xml",
-                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/实验1/22321002/task1.net.xml",
-                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/实验1/22321002/task1.net.xml"
-                    },
-                    "task1.rou.xml": {
-                      "_type": "file",
-                      "name": "task1.rou.xml",
-                      "size": 3746,
-                      "sizeHuman": "3.7 KB",
-                      "mtime": "2026/04/14",
-                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/实验1/22321002/task1.rou.xml",
-                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/实验1/22321002/task1.rou.xml",
-                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/实验1/22321002/task1.rou.xml"
-                    },
-                    "task1.sumocfg": {
-                      "_type": "file",
-                      "name": "task1.sumocfg",
-                      "size": 531,
-                      "sizeHuman": "531 B",
-                      "mtime": "2026/04/14",
-                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/实验1/22321002/task1.sumocfg",
-                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/实验1/22321002/task1.sumocfg",
-                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/实验1/22321002/task1.sumocfg"
-                    },
-                    "viewsettings.xml": {
-                      "_type": "file",
-                      "name": "viewsettings.xml",
-                      "size": 29263,
-                      "sizeHuman": "28.6 KB",
-                      "mtime": "2026/04/14",
-                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/实验1/22321002/viewsettings.xml",
-                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/实验1/22321002/viewsettings.xml",
-                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/实验1/22321002/viewsettings.xml"
-                    }
-                  }
-                }
-              }
-            },
-            "交通管理实验课成果展示.pptx": {
-              "_type": "file",
-              "name": "交通管理实验课成果展示.pptx",
-              "size": 13705670,
-              "sizeHuman": "13.1 MB",
-              "mtime": "2026/04/14",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/交通管理实验课成果展示.pptx",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/交通管理实验课成果展示.pptx",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/交通管理实验课成果展示.pptx"
-            },
-            "汇报.pdf": {
-              "_type": "file",
-              "name": "汇报.pdf",
-              "size": 2372911,
-              "sizeHuman": "2.3 MB",
-              "mtime": "2026/04/14",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/汇报.pdf",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/汇报.pdf",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大三上/交通管理与控制/22级-蔡思远/实验课/汇报.pdf"
-            }
-          }
-        },
         "小组汇报": {
           "_type": "folder",
           "_children": {
@@ -7382,51 +7297,6 @@
               "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通设计/22级-蔡思远/作业/蔡思远林杰李秉骏交通设计第一次作业.doc",
               "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通设计/22级-蔡思远/作业/蔡思远林杰李秉骏交通设计第一次作业.doc",
               "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大三上/交通设计/22级-蔡思远/作业/蔡思远林杰李秉骏交通设计第一次作业.doc"
-            }
-          }
-        },
-        "实验课": {
-          "_type": "folder",
-          "_children": {
-            "22321002蔡思远交通设计实验课第一次作业.dwg": {
-              "_type": "file",
-              "name": "22321002蔡思远交通设计实验课第一次作业.dwg",
-              "size": 152555,
-              "sizeHuman": "149.0 KB",
-              "mtime": "2026/04/14",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通设计/22级-蔡思远/实验课/22321002蔡思远交通设计实验课第一次作业.dwg",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通设计/22级-蔡思远/实验课/22321002蔡思远交通设计实验课第一次作业.dwg",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大三上/交通设计/22级-蔡思远/实验课/22321002蔡思远交通设计实验课第一次作业.dwg"
-            },
-            "22321002蔡思远交通设计实验课第三次作业.dwg": {
-              "_type": "file",
-              "name": "22321002蔡思远交通设计实验课第三次作业.dwg",
-              "size": 137678,
-              "sizeHuman": "134.5 KB",
-              "mtime": "2026/04/14",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通设计/22级-蔡思远/实验课/22321002蔡思远交通设计实验课第三次作业.dwg",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通设计/22级-蔡思远/实验课/22321002蔡思远交通设计实验课第三次作业.dwg",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大三上/交通设计/22级-蔡思远/实验课/22321002蔡思远交通设计实验课第三次作业.dwg"
-            },
-            "22321002蔡思远交通设计实验课第二次作业.dwg": {
-              "_type": "file",
-              "name": "22321002蔡思远交通设计实验课第二次作业.dwg",
-              "size": 365547,
-              "sizeHuman": "357.0 KB",
-              "mtime": "2026/04/14",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通设计/22级-蔡思远/实验课/22321002蔡思远交通设计实验课第二次作业.dwg",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通设计/22级-蔡思远/实验课/22321002蔡思远交通设计实验课第二次作业.dwg",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大三上/交通设计/22级-蔡思远/实验课/22321002蔡思远交通设计实验课第二次作业.dwg"
-            },
-            "22321002蔡思远交通设计实验课第四次作业.dwg": {
-              "_type": "file",
-              "name": "22321002蔡思远交通设计实验课第四次作业.dwg",
-              "size": 438736,
-              "sizeHuman": "428.5 KB",
-              "mtime": "2026/04/14",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通设计/22级-蔡思远/实验课/22321002蔡思远交通设计实验课第四次作业.dwg",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大三上/交通设计/22级-蔡思远/实验课/22321002蔡思远交通设计实验课第四次作业.dwg",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大三上/交通设计/22级-蔡思远/实验课/22321002蔡思远交通设计实验课第四次作业.dwg"
             }
           }
         },
@@ -8746,36 +8616,6 @@
                       "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/交通大数据技术/22级-蔡思远/作业/第二次作业/蔡思远22321002第二次作业/homework2_3.py"
                     }
                   }
-                },
-                "homework2.py": {
-                  "_type": "file",
-                  "name": "homework2.py",
-                  "size": 3127,
-                  "sizeHuman": "3.1 KB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/交通大数据技术/22级-蔡思远/作业/第二次作业/homework2.py",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/交通大数据技术/22级-蔡思远/作业/第二次作业/homework2.py",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/交通大数据技术/22级-蔡思远/作业/第二次作业/homework2.py"
-                },
-                "homework2_2.py": {
-                  "_type": "file",
-                  "name": "homework2_2.py",
-                  "size": 1235,
-                  "sizeHuman": "1.2 KB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/交通大数据技术/22级-蔡思远/作业/第二次作业/homework2_2.py",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/交通大数据技术/22级-蔡思远/作业/第二次作业/homework2_2.py",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/交通大数据技术/22级-蔡思远/作业/第二次作业/homework2_2.py"
-                },
-                "homework2_4.py": {
-                  "_type": "file",
-                  "name": "homework2_4.py",
-                  "size": 2458,
-                  "sizeHuman": "2.4 KB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/交通大数据技术/22级-蔡思远/作业/第二次作业/homework2_4.py",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/交通大数据技术/22级-蔡思远/作业/第二次作业/homework2_4.py",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/交通大数据技术/22级-蔡思远/作业/第二次作业/homework2_4.py"
                 }
               }
             },
@@ -8833,41 +8673,6 @@
     "22级-蔡思远": {
       "_type": "folder",
       "_children": {
-        "实验课及作业": {
-          "_type": "folder",
-          "_children": {
-            "find_GD.tbx": {
-              "_type": "file",
-              "name": "find_GD.tbx",
-              "size": 186368,
-              "sizeHuman": "182.0 KB",
-              "mtime": "2026/04/14",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/地理信息系统/22级-蔡思远/实验课及作业/find_GD.tbx",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/地理信息系统/22级-蔡思远/实验课及作业/find_GD.tbx",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/地理信息系统/22级-蔡思远/实验课及作业/find_GD.tbx"
-            },
-            "实验报告.docx": {
-              "_type": "file",
-              "name": "实验报告.docx",
-              "size": 668914,
-              "sizeHuman": "653.2 KB",
-              "mtime": "2026/04/14",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/地理信息系统/22级-蔡思远/实验课及作业/实验报告.docx",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/地理信息系统/22级-蔡思远/实验课及作业/实验报告.docx",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/地理信息系统/22级-蔡思远/实验课及作业/实验报告.docx"
-            },
-            "课程实验教程4实验报告.docx": {
-              "_type": "file",
-              "name": "课程实验教程4实验报告.docx",
-              "size": 1156157,
-              "sizeHuman": "1.1 MB",
-              "mtime": "2026/04/14",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/地理信息系统/22级-蔡思远/实验课及作业/课程实验教程4实验报告.docx",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/地理信息系统/22级-蔡思远/实验课及作业/课程实验教程4实验报告.docx",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/地理信息系统/22级-蔡思远/实验课及作业/课程实验教程4实验报告.docx"
-            }
-          }
-        },
         "地理信息系统期末复习1.docx": {
           "_type": "file",
           "name": "地理信息系统期末复习1.docx",
@@ -9090,16 +8895,6 @@
               "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/机器学习-交通/22级-蔡思远/作业/22321002蔡思远机器学习第四次作业.pdf",
               "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/机器学习-交通/22级-蔡思远/作业/22321002蔡思远机器学习第四次作业.pdf"
             },
-            "homework1.pdf": {
-              "_type": "file",
-              "name": "homework1.pdf",
-              "size": 1047103,
-              "sizeHuman": "1022.6 KB",
-              "mtime": "2026/04/14",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/机器学习-交通/22级-蔡思远/作业/homework1.pdf",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/机器学习-交通/22级-蔡思远/作业/homework1.pdf",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/机器学习-交通/22级-蔡思远/作业/homework1.pdf"
-            },
             "homework_1.py": {
               "_type": "file",
               "name": "homework_1.py",
@@ -9109,16 +8904,6 @@
               "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/机器学习-交通/22级-蔡思远/作业/homework_1.py",
               "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/机器学习-交通/22级-蔡思远/作业/homework_1.py",
               "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/机器学习-交通/22级-蔡思远/作业/homework_1.py"
-            },
-            "扩散模型_UNet_报告.docx": {
-              "_type": "file",
-              "name": "扩散模型_UNet_报告.docx",
-              "size": 6305550,
-              "sizeHuman": "6.0 MB",
-              "mtime": "2026/04/14",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/机器学习-交通/22级-蔡思远/作业/扩散模型_UNet_报告.docx",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/机器学习-交通/22级-蔡思远/作业/扩散模型_UNet_报告.docx",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/机器学习-交通/22级-蔡思远/作业/扩散模型_UNet_报告.docx"
             },
             "机器学习期末大作业-蔡思远22321002-林杰22324021.docx": {
               "_type": "file",
@@ -9289,71 +9074,6 @@
             "建模大作业": {
               "_type": "folder",
               "_children": {
-                "参考报告": {
-                  "_type": "folder",
-                  "_children": {
-                    "深圳校区安保.pdf": {
-                      "_type": "file",
-                      "name": "深圳校区安保.pdf",
-                      "size": 4510384,
-                      "sizeHuman": "4.3 MB",
-                      "mtime": "2026/04/14",
-                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/深圳校区安保.pdf",
-                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/深圳校区安保.pdf",
-                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/深圳校区安保.pdf"
-                    },
-                    "第3小组-排课系统-最终版报告.pdf": {
-                      "_type": "file",
-                      "name": "第3小组-排课系统-最终版报告.pdf",
-                      "size": 825800,
-                      "sizeHuman": "806.4 KB",
-                      "mtime": "2026/04/14",
-                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/第3小组-排课系统-最终版报告.pdf",
-                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/第3小组-排课系统-最终版报告.pdf",
-                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/第3小组-排课系统-最终版报告.pdf"
-                    },
-                    "第4小组-基于乘客满意度的地铁排班时间优化模型-最终版报告.pdf": {
-                      "_type": "file",
-                      "name": "第4小组-基于乘客满意度的地铁排班时间优化模型-最终版报告.pdf",
-                      "size": 10743966,
-                      "sizeHuman": "10.2 MB",
-                      "mtime": "2026/04/14",
-                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/第4小组-基于乘客满意度的地铁排班时间优化模型-最终版报告.pdf",
-                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/第4小组-基于乘客满意度的地铁排班时间优化模型-最终版报告.pdf",
-                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/第4小组-基于乘客满意度的地铁排班时间优化模型-最终版报告.pdf"
-                    },
-                    "第5小组-短期健身塑形方案推荐-最终版报告.pdf": {
-                      "_type": "file",
-                      "name": "第5小组-短期健身塑形方案推荐-最终版报告.pdf",
-                      "size": 2229048,
-                      "sizeHuman": "2.1 MB",
-                      "mtime": "2026/04/14",
-                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/第5小组-短期健身塑形方案推荐-最终版报告.pdf",
-                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/第5小组-短期健身塑形方案推荐-最终版报告.pdf",
-                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/第5小组-短期健身塑形方案推荐-最终版报告.pdf"
-                    },
-                    "运筹学投资报告.pdf": {
-                      "_type": "file",
-                      "name": "运筹学投资报告.pdf",
-                      "size": 1221824,
-                      "sizeHuman": "1.2 MB",
-                      "mtime": "2026/04/14",
-                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/运筹学投资报告.pdf",
-                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/运筹学投资报告.pdf",
-                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/运筹学投资报告.pdf"
-                    },
-                    "运筹学报告_广州美食地图.pdf": {
-                      "_type": "file",
-                      "name": "运筹学报告_广州美食地图.pdf",
-                      "size": 1624708,
-                      "sizeHuman": "1.5 MB",
-                      "mtime": "2026/04/14",
-                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/运筹学报告_广州美食地图.pdf",
-                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/运筹学报告_广州美食地图.pdf",
-                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/参考报告/运筹学报告_广州美食地图.pdf"
-                    }
-                  }
-                },
                 "蔡思远小组运筹学大作业": {
                   "_type": "folder",
                   "_children": {
@@ -9378,206 +9098,6 @@
                       "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/蔡思远小组运筹学大作业/运筹学大作业演示ppt.pptx"
                     }
                   }
-                },
-                "op_model5.numbers": {
-                  "_type": "file",
-                  "name": "op_model5.numbers",
-                  "size": 275607,
-                  "sizeHuman": "269.1 KB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/op_model5.numbers",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/op_model5.numbers",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/op_model5.numbers"
-                },
-                "op_train.py": {
-                  "_type": "file",
-                  "name": "op_train.py",
-                  "size": 33,
-                  "sizeHuman": "33 B",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/op_train.py",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/op_train.py",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/op_train.py"
-                },
-                "operation_model": {
-                  "_type": "file",
-                  "name": "operation_model",
-                  "size": 37582,
-                  "sizeHuman": "36.7 KB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model"
-                },
-                "operation_model.py": {
-                  "_type": "file",
-                  "name": "operation_model.py",
-                  "size": 2069,
-                  "sizeHuman": "2.0 KB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model.py",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model.py",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model.py"
-                },
-                "operation_model10": {
-                  "_type": "file",
-                  "name": "operation_model10",
-                  "size": 29140,
-                  "sizeHuman": "28.5 KB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model10",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model10",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model10"
-                },
-                "operation_model2": {
-                  "_type": "file",
-                  "name": "operation_model2",
-                  "size": 37582,
-                  "sizeHuman": "36.7 KB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model2",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model2",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model2"
-                },
-                "operation_model2.py": {
-                  "_type": "file",
-                  "name": "operation_model2.py",
-                  "size": 3032,
-                  "sizeHuman": "3.0 KB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model2.py",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model2.py",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model2.py"
-                },
-                "operation_model3": {
-                  "_type": "file",
-                  "name": "operation_model3",
-                  "size": 37582,
-                  "sizeHuman": "36.7 KB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model3",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model3",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model3"
-                },
-                "operation_model4": {
-                  "_type": "file",
-                  "name": "operation_model4",
-                  "size": 37582,
-                  "sizeHuman": "36.7 KB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model4",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model4",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model4"
-                },
-                "operation_model5": {
-                  "_type": "file",
-                  "name": "operation_model5",
-                  "size": 27828,
-                  "sizeHuman": "27.2 KB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model5",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model5",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model5"
-                },
-                "operation_model6": {
-                  "_type": "file",
-                  "name": "operation_model6",
-                  "size": 27828,
-                  "sizeHuman": "27.2 KB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model6",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model6",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model6"
-                },
-                "operation_model7": {
-                  "_type": "file",
-                  "name": "operation_model7",
-                  "size": 29140,
-                  "sizeHuman": "28.5 KB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model7",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model7",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model7"
-                },
-                "operation_model8": {
-                  "_type": "file",
-                  "name": "operation_model8",
-                  "size": 29140,
-                  "sizeHuman": "28.5 KB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model8",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model8",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model8"
-                },
-                "operation_model9": {
-                  "_type": "file",
-                  "name": "operation_model9",
-                  "size": 29140,
-                  "sizeHuman": "28.5 KB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model9",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model9",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/operation_model9"
-                },
-                "test.py": {
-                  "_type": "file",
-                  "name": "test.py",
-                  "size": 190,
-                  "sizeHuman": "190 B",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/test.py",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/test.py",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/test.py"
-                },
-                "哔哩哔哩视频网站 UP 主商业推广优化方案最终报告.pdf": {
-                  "_type": "file",
-                  "name": "哔哩哔哩视频网站 UP 主商业推广优化方案最终报告.pdf",
-                  "size": 2276218,
-                  "sizeHuman": "2.2 MB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/哔哩哔哩视频网站 UP 主商业推广优化方案最终报告.pdf",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/哔哩哔哩视频网站 UP 主商业推广优化方案最终报告.pdf",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/哔哩哔哩视频网站 UP 主商业推广优化方案最终报告.pdf"
-                },
-                "最终报告演示ppt-哔哩哔哩推广方案.pptx": {
-                  "_type": "file",
-                  "name": "最终报告演示ppt-哔哩哔哩推广方案.pptx",
-                  "size": 29679874,
-                  "sizeHuman": "28.3 MB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/最终报告演示ppt-哔哩哔哩推广方案.pptx",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/最终报告演示ppt-哔哩哔哩推广方案.pptx",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/最终报告演示ppt-哔哩哔哩推广方案.pptx"
-                },
-                "运筹学大作业开题报告.docx": {
-                  "_type": "file",
-                  "name": "运筹学大作业开题报告.docx",
-                  "size": 1453205,
-                  "sizeHuman": "1.4 MB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/运筹学大作业开题报告.docx",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/运筹学大作业开题报告.docx",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/运筹学大作业开题报告.docx"
-                },
-                "运筹学大作业最终报告-哔哩哔哩推广方案.docx": {
-                  "_type": "file",
-                  "name": "运筹学大作业最终报告-哔哩哔哩推广方案.docx",
-                  "size": 3778786,
-                  "sizeHuman": "3.6 MB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/运筹学大作业最终报告-哔哩哔哩推广方案.docx",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/运筹学大作业最终报告-哔哩哔哩推广方案.docx",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/运筹学大作业最终报告-哔哩哔哩推广方案.docx"
-                },
-                "运筹学大作业演示ppt.pptx": {
-                  "_type": "file",
-                  "name": "运筹学大作业演示ppt.pptx",
-                  "size": 25521163,
-                  "sizeHuman": "24.3 MB",
-                  "mtime": "2026/04/14",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/运筹学大作业演示ppt.pptx",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/运筹学大作业演示ppt.pptx",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智慧交通（交通工程）/大二下/运筹学-交通/22级-蔡思远/作业/建模大作业/运筹学大作业演示ppt.pptx"
                 }
               }
             },

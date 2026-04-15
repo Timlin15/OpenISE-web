@@ -19648,6 +19648,40 @@
       }
     }
   },
+  "智能科学与技术/大四上/现代控制理论": {
+    "2021年秋季学期": {
+      "_type": "folder",
+      "_children": {
+        "资料-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "刘豹第五章改.pdf": {
+              "_type": "file",
+              "name": "刘豹第五章改.pdf",
+              "size": 4824819,
+              "sizeHuman": "4.6 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大四上/现代控制理论/2021年秋季学期/资料-方桂安/刘豹第五章改.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大四上/现代控制理论/2021年秋季学期/资料-方桂安/刘豹第五章改.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大四上/现代控制理论/2021年秋季学期/资料-方桂安/刘豹第五章改.pdf"
+            }
+          }
+        }
+      }
+    }
+  },
+  "智能科学与技术/大四上/生产实习": {
+    "本科生实习报告书（模版）.doc": {
+      "_type": "file",
+      "name": "本科生实习报告书（模版）.doc",
+      "size": 33280,
+      "sizeHuman": "32.5 KB",
+      "mtime": "2026/04/15",
+      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大四上/生产实习/本科生实习报告书（模版）.doc",
+      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大四上/生产实习/本科生实习报告书（模版）.doc",
+      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大四上/生产实习/本科生实习报告书（模版）.doc"
+    }
+  },
   "智能科学与技术/大四上/科技论文写作": {
     "01-研究论文-常毅成.pdf": {
       "_type": "file",

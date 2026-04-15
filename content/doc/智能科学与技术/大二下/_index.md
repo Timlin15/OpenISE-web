@@ -5,11 +5,9 @@ weight: 22
 ---
 
 {{< cards >}}
-  {{< card link="人工智能综合实验" title="人工智能综合实验" >}}
   {{< card link="传感器原理与应用" title="传感器原理与应用" >}}
   {{< card link="图像处理" title="图像处理" >}}
   {{< card link="操作系统" title="操作系统" >}}
-  {{< card link="数字逻辑设计" title="数字逻辑设计" >}}
   {{< card link="数据库原理" title="数据库" >}}
   {{< card link="智能机器人技术" title="智能机器人技术" >}}
   {{< card link="最优化" title="最优化" >}}

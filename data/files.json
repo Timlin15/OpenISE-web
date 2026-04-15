@@ -11801,6 +11801,530 @@
       }
     }
   },
+  "智能科学与技术/大三上/多智能体集群控制": {
+    "2022年秋季学期": {
+      "_type": "folder",
+      "_children": {
+        "实验与大作业-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "code": {
+              "_type": "folder",
+              "_children": {
+                "SI_DFM_2D_SYSU": {
+                  "_type": "folder",
+                  "_children": {
+                    "Desired_S_distance.m": {
+                      "_type": "file",
+                      "name": "Desired_S_distance.m",
+                      "size": 1744,
+                      "sizeHuman": "1.7 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/Desired_S_distance.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/Desired_S_distance.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/Desired_S_distance.m"
+                    },
+                    "Desired_U_distance.m": {
+                      "_type": "file",
+                      "name": "Desired_U_distance.m",
+                      "size": 1399,
+                      "sizeHuman": "1.4 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/Desired_U_distance.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/Desired_U_distance.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/Desired_U_distance.m"
+                    },
+                    "Desired_Y_distance.m": {
+                      "_type": "file",
+                      "name": "Desired_Y_distance.m",
+                      "size": 1736,
+                      "sizeHuman": "1.7 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/Desired_Y_distance.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/Desired_Y_distance.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/Desired_Y_distance.m"
+                    },
+                    "Desired_velocity.m": {
+                      "_type": "file",
+                      "name": "Desired_velocity.m",
+                      "size": 325,
+                      "sizeHuman": "325 B",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/Desired_velocity.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/Desired_velocity.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/Desired_velocity.m"
+                    },
+                    "SI_dynamic_fomation_manv_fig_plot.m": {
+                      "_type": "file",
+                      "name": "SI_dynamic_fomation_manv_fig_plot.m",
+                      "size": 9880,
+                      "sizeHuman": "9.6 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/SI_dynamic_fomation_manv_fig_plot.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/SI_dynamic_fomation_manv_fig_plot.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/SI_dynamic_fomation_manv_fig_plot.m"
+                    },
+                    "SI_dynamic_fomation_manv_func.m": {
+                      "_type": "file",
+                      "name": "SI_dynamic_fomation_manv_func.m",
+                      "size": 1733,
+                      "sizeHuman": "1.7 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/SI_dynamic_fomation_manv_func.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/SI_dynamic_fomation_manv_func.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/SI_dynamic_fomation_manv_func.m"
+                    },
+                    "SI_dynamic_fomation_manv_main.m": {
+                      "_type": "file",
+                      "name": "SI_dynamic_fomation_manv_main.m",
+                      "size": 9822,
+                      "sizeHuman": "9.6 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/SI_dynamic_fomation_manv_main.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/SI_dynamic_fomation_manv_main.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_DFM_2D_SYSU/SI_dynamic_fomation_manv_main.m"
+                    }
+                  }
+                },
+                "readonly": {
+                  "_type": "folder",
+                  "_children": {
+                    "6formation_results.mat": {
+                      "_type": "file",
+                      "name": "6formation_results.mat",
+                      "size": 31930,
+                      "sizeHuman": "31.2 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/readonly/6formation_results.mat",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/readonly/6formation_results.mat",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/readonly/6formation_results.mat"
+                    },
+                    "JudgeStudentsPoint.m": {
+                      "_type": "file",
+                      "name": "JudgeStudentsPoint.m",
+                      "size": 1288,
+                      "sizeHuman": "1.3 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/readonly/JudgeStudentsPoint.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/readonly/JudgeStudentsPoint.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/readonly/JudgeStudentsPoint.m"
+                    },
+                    "quadEOM_readonly.m": {
+                      "_type": "file",
+                      "name": "quadEOM_readonly.m",
+                      "size": 2690,
+                      "sizeHuman": "2.6 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/readonly/quadEOM_readonly.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/readonly/quadEOM_readonly.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/readonly/quadEOM_readonly.m"
+                    },
+                    "quadModel_readonly.m": {
+                      "_type": "file",
+                      "name": "quadModel_readonly.m",
+                      "size": 1387,
+                      "sizeHuman": "1.4 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/readonly/quadModel_readonly.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/readonly/quadModel_readonly.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/readonly/quadModel_readonly.m"
+                    }
+                  }
+                },
+                "utils": {
+                  "_type": "folder",
+                  "_children": {
+                    "QuatToRot.m": {
+                      "_type": "file",
+                      "name": "QuatToRot.m",
+                      "size": 254,
+                      "sizeHuman": "254 B",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/QuatToRot.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/QuatToRot.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/QuatToRot.m"
+                    },
+                    "RPYtoRot_ZXY.m": {
+                      "_type": "file",
+                      "name": "RPYtoRot_ZXY.m",
+                      "size": 828,
+                      "sizeHuman": "828 B",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/RPYtoRot_ZXY.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/RPYtoRot_ZXY.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/RPYtoRot_ZXY.m"
+                    },
+                    "R_to_quaternion.m": {
+                      "_type": "file",
+                      "name": "R_to_quaternion.m",
+                      "size": 1326,
+                      "sizeHuman": "1.3 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/R_to_quaternion.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/R_to_quaternion.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/R_to_quaternion.m"
+                    },
+                    "R_to_ypr.m": {
+                      "_type": "file",
+                      "name": "R_to_ypr.m",
+                      "size": 723,
+                      "sizeHuman": "723 B",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/R_to_ypr.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/R_to_ypr.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/R_to_ypr.m"
+                    },
+                    "RotToQuat.m": {
+                      "_type": "file",
+                      "name": "RotToQuat.m",
+                      "size": 1053,
+                      "sizeHuman": "1.0 KB",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/RotToQuat.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/RotToQuat.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/RotToQuat.m"
+                    },
+                    "RotToRPY_ZXY.m": {
+                      "_type": "file",
+                      "name": "RotToRPY_ZXY.m",
+                      "size": 580,
+                      "sizeHuman": "580 B",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/RotToRPY_ZXY.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/RotToRPY_ZXY.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/RotToRPY_ZXY.m"
+                    },
+                    "quaternion_to_R.m": {
+                      "_type": "file",
+                      "name": "quaternion_to_R.m",
+                      "size": 944,
+                      "sizeHuman": "944 B",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/quaternion_to_R.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/quaternion_to_R.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/quaternion_to_R.m"
+                    },
+                    "ypr_to_R.m": {
+                      "_type": "file",
+                      "name": "ypr_to_R.m",
+                      "size": 926,
+                      "sizeHuman": "926 B",
+                      "mtime": "2026/04/15",
+                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/ypr_to_R.m",
+                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/ypr_to_R.m",
+                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/utils/ypr_to_R.m"
+                    }
+                  }
+                },
+                "SI_dynamic_fomation_manv_results.mat": {
+                  "_type": "file",
+                  "name": "SI_dynamic_fomation_manv_results.mat",
+                  "size": 22822,
+                  "sizeHuman": "22.3 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_dynamic_fomation_manv_results.mat",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_dynamic_fomation_manv_results.mat",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/SI_dynamic_fomation_manv_results.mat"
+                },
+                "controller.m": {
+                  "_type": "file",
+                  "name": "controller.m",
+                  "size": 2520,
+                  "sizeHuman": "2.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller.m",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller.m",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller.m"
+                },
+                "controller1.m": {
+                  "_type": "file",
+                  "name": "controller1.m",
+                  "size": 2664,
+                  "sizeHuman": "2.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller1.m",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller1.m",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller1.m"
+                },
+                "controller2.m": {
+                  "_type": "file",
+                  "name": "controller2.m",
+                  "size": 2664,
+                  "sizeHuman": "2.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller2.m",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller2.m",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller2.m"
+                },
+                "controller3.m": {
+                  "_type": "file",
+                  "name": "controller3.m",
+                  "size": 2664,
+                  "sizeHuman": "2.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller3.m",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller3.m",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller3.m"
+                },
+                "controller4.m": {
+                  "_type": "file",
+                  "name": "controller4.m",
+                  "size": 2664,
+                  "sizeHuman": "2.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller4.m",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller4.m",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller4.m"
+                },
+                "controller5.m": {
+                  "_type": "file",
+                  "name": "controller5.m",
+                  "size": 2664,
+                  "sizeHuman": "2.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller5.m",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller5.m",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller5.m"
+                },
+                "controller6.m": {
+                  "_type": "file",
+                  "name": "controller6.m",
+                  "size": 2663,
+                  "sizeHuman": "2.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller6.m",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller6.m",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/controller6.m"
+                },
+                "run6formation.m": {
+                  "_type": "file",
+                  "name": "run6formation.m",
+                  "size": 85648,
+                  "sizeHuman": "83.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/run6formation.m",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/run6formation.m",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/run6formation.m"
+                },
+                "test_trajectory.m": {
+                  "_type": "file",
+                  "name": "test_trajectory.m",
+                  "size": 2045,
+                  "sizeHuman": "2.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/test_trajectory.m",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/test_trajectory.m",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/code/test_trajectory.m"
+                }
+              }
+            },
+            "Formation control of multi-agent systems a graph rigidity approach (Cai, Xiaoyu Feemster, Matthew Queiroz etc.) (z-lib.org).pdf": {
+              "_type": "file",
+              "name": "Formation control of multi-agent systems a graph rigidity approach (Cai, Xiaoyu Feemster, Matthew Queiroz etc.) (z-lib.org).pdf",
+              "size": 11504672,
+              "sizeHuman": "11.0 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/Formation control of multi-agent systems a graph rigidity approach (Cai, Xiaoyu Feemster, Matthew Queiroz etc.) (z-lib.org).pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/Formation control of multi-agent systems a graph rigidity approach (Cai, Xiaoyu Feemster, Matthew Queiroz etc.) (z-lib.org).pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/Formation control of multi-agent systems a graph rigidity approach (Cai, Xiaoyu Feemster, Matthew Queiroz etc.) (z-lib.org).pdf"
+            },
+            "project instruction.docx": {
+              "_type": "file",
+              "name": "project instruction.docx",
+              "size": 553263,
+              "sizeHuman": "540.3 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/project instruction.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/project instruction.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/project instruction.docx"
+            },
+            "作业报告.docx": {
+              "_type": "file",
+              "name": "作业报告.docx",
+              "size": 16330467,
+              "sizeHuman": "15.6 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/作业报告.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/作业报告.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/多智能体集群控制/2022年秋季学期/实验与大作业-方桂安/作业报告.docx"
+            }
+          }
+        }
+      }
+    }
+  },
+  "智能科学与技术/大三上/操作系统": {
+    "2022年秋季学期": {
+      "_type": "folder",
+      "_children": {
+        "真题与复习-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "代码示例": {
+              "_type": "folder",
+              "_children": {
+                "LRU.cpp": {
+                  "_type": "file",
+                  "name": "LRU.cpp",
+                  "size": 1594,
+                  "sizeHuman": "1.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/LRU.cpp",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/LRU.cpp",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/LRU.cpp"
+                },
+                "deadlock_work.cpp": {
+                  "_type": "file",
+                  "name": "deadlock_work.cpp",
+                  "size": 1728,
+                  "sizeHuman": "1.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/deadlock_work.cpp",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/deadlock_work.cpp",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/deadlock_work.cpp"
+                },
+                "dynamic_mem.c": {
+                  "_type": "file",
+                  "name": "dynamic_mem.c",
+                  "size": 7310,
+                  "sizeHuman": "7.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/dynamic_mem.c",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/dynamic_mem.c",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/dynamic_mem.c"
+                },
+                "file_sys_work.cpp": {
+                  "_type": "file",
+                  "name": "file_sys_work.cpp",
+                  "size": 17136,
+                  "sizeHuman": "16.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/file_sys_work.cpp",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/file_sys_work.cpp",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/file_sys_work.cpp"
+                },
+                "pthread.cpp": {
+                  "_type": "file",
+                  "name": "pthread.cpp",
+                  "size": 671,
+                  "sizeHuman": "671 B",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/pthread.cpp",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/pthread.cpp",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/pthread.cpp"
+                },
+                "实验2 - 仿真存储系统.py": {
+                  "_type": "file",
+                  "name": "实验2 - 仿真存储系统.py",
+                  "size": 7191,
+                  "sizeHuman": "7.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/实验2 - 仿真存储系统.py",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/实验2 - 仿真存储系统.py",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/实验2 - 仿真存储系统.py"
+                },
+                "实验四-2_sync_work.c": {
+                  "_type": "file",
+                  "name": "实验四-2_sync_work.c",
+                  "size": 1488,
+                  "sizeHuman": "1.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/实验四-2_sync_work.c",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/实验四-2_sync_work.c",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/实验四-2_sync_work.c"
+                },
+                "实验四-2_sync_work_v2.c": {
+                  "_type": "file",
+                  "name": "实验四-2_sync_work_v2.c",
+                  "size": 1509,
+                  "sizeHuman": "1.5 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/实验四-2_sync_work_v2.c",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/实验四-2_sync_work_v2.c",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/代码示例/实验四-2_sync_work_v2.c"
+                }
+              }
+            },
+            "试卷": {
+              "_type": "folder",
+              "_children": {
+                "2011春季操作系统 A卷.doc": {
+                  "_type": "file",
+                  "name": "2011春季操作系统 A卷.doc",
+                  "size": 78848,
+                  "sizeHuman": "77.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/试卷/2011春季操作系统 A卷.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/试卷/2011春季操作系统 A卷.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/试卷/2011春季操作系统 A卷.doc"
+                },
+                "2011春季操作系统（参考答案） A卷.doc": {
+                  "_type": "file",
+                  "name": "2011春季操作系统（参考答案） A卷.doc",
+                  "size": 168960,
+                  "sizeHuman": "165.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/试卷/2011春季操作系统（参考答案） A卷.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/试卷/2011春季操作系统（参考答案） A卷.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/试卷/2011春季操作系统（参考答案） A卷.doc"
+                },
+                "2013操作系统考试试卷A及答案.doc": {
+                  "_type": "file",
+                  "name": "2013操作系统考试试卷A及答案.doc",
+                  "size": 76800,
+                  "sizeHuman": "75.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/试卷/2013操作系统考试试卷A及答案.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/试卷/2013操作系统考试试卷A及答案.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/试卷/2013操作系统考试试卷A及答案.doc"
+                },
+                "2014操作系统考试试卷A（终版）.doc": {
+                  "_type": "file",
+                  "name": "2014操作系统考试试卷A（终版）.doc",
+                  "size": 70543,
+                  "sizeHuman": "68.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/试卷/2014操作系统考试试卷A（终版）.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/试卷/2014操作系统考试试卷A（终版）.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/试卷/2014操作系统考试试卷A（终版）.doc"
+                },
+                "2015操作系统考试试卷A及答案.doc": {
+                  "_type": "file",
+                  "name": "2015操作系统考试试卷A及答案.doc",
+                  "size": 142336,
+                  "sizeHuman": "139.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/试卷/2015操作系统考试试卷A及答案.doc",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/试卷/2015操作系统考试试卷A及答案.doc",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/试卷/2015操作系统考试试卷A及答案.doc"
+                }
+              }
+            },
+            "《操作系统》实验报告模板.docx": {
+              "_type": "file",
+              "name": "《操作系统》实验报告模板.docx",
+              "size": 60048,
+              "sizeHuman": "58.6 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/《操作系统》实验报告模板.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/《操作系统》实验报告模板.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/《操作系统》实验报告模板.docx"
+            },
+            "操作系统-2022-秋-期末大作业-共四大题.docx": {
+              "_type": "file",
+              "name": "操作系统-2022-秋-期末大作业-共四大题.docx",
+              "size": 17897,
+              "sizeHuman": "17.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/操作系统-2022-秋-期末大作业-共四大题.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/操作系统-2022-秋-期末大作业-共四大题.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/操作系统/2022年秋季学期/真题与复习-方桂安/操作系统-2022-秋-期末大作业-共四大题.docx"
+            }
+          }
+        }
+      }
+    }
+  },
   "智能科学与技术/大三上/智能机器人综合实验": {
     "path_planner": {
       "_type": "folder",
@@ -12664,7 +13188,679 @@
       }
     }
   },
+  "智能科学与技术/大三上/自动驾驶技术基础": {
+    "2022年秋季学期": {
+      "_type": "folder",
+      "_children": {
+        "实验与大作业-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "2Rrobot": {
+              "_type": "folder",
+              "_children": {
+                "2R.pdf": {
+                  "_type": "file",
+                  "name": "2R.pdf",
+                  "size": 2116394,
+                  "sizeHuman": "2.0 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/2Rrobot/2R.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/2Rrobot/2R.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/2Rrobot/2R.pdf"
+                },
+                "5次多项式参数.mat": {
+                  "_type": "file",
+                  "name": "5次多项式参数.mat",
+                  "size": 942,
+                  "sizeHuman": "942 B",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/2Rrobot/5次多项式参数.mat",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/2Rrobot/5次多项式参数.mat",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/2Rrobot/5次多项式参数.mat"
+                },
+                "main.m": {
+                  "_type": "file",
+                  "name": "main.m",
+                  "size": 4163,
+                  "sizeHuman": "4.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/2Rrobot/main.m",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/2Rrobot/main.m",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/2Rrobot/main.m"
+                },
+                "my_2_links.m": {
+                  "_type": "file",
+                  "name": "my_2_links.m",
+                  "size": 2030,
+                  "sizeHuman": "2.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/2Rrobot/my_2_links.m",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/2Rrobot/my_2_links.m",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/2Rrobot/my_2_links.m"
+                }
+              }
+            },
+            "Astar_path_planning": {
+              "_type": "folder",
+              "_children": {
+                "matlab版本作业": {
+                  "_type": "folder",
+                  "_children": {
+                    "code": {
+                      "_type": "folder",
+                      "_children": {
+                        "A_star": {
+                          "_type": "folder",
+                          "_children": {
+                            "distance.m": {
+                              "_type": "file",
+                              "name": "distance.m",
+                              "size": 251,
+                              "sizeHuman": "251 B",
+                              "mtime": "2026/04/15",
+                              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star/distance.m",
+                              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star/distance.m",
+                              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star/distance.m"
+                            },
+                            "expand_array.m": {
+                              "_type": "file",
+                              "name": "expand_array.m",
+                              "size": 1938,
+                              "sizeHuman": "1.9 KB",
+                              "mtime": "2026/04/15",
+                              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star/expand_array.m",
+                              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star/expand_array.m",
+                              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star/expand_array.m"
+                            },
+                            "insert_open.m": {
+                              "_type": "file",
+                              "name": "insert_open.m",
+                              "size": 578,
+                              "sizeHuman": "578 B",
+                              "mtime": "2026/04/15",
+                              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star/insert_open.m",
+                              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star/insert_open.m",
+                              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star/insert_open.m"
+                            },
+                            "min_fn.m": {
+                              "_type": "file",
+                              "name": "min_fn.m",
+                              "size": 1034,
+                              "sizeHuman": "1.0 KB",
+                              "mtime": "2026/04/15",
+                              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star/min_fn.m",
+                              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star/min_fn.m",
+                              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star/min_fn.m"
+                            },
+                            "node_index.m": {
+                              "_type": "file",
+                              "name": "node_index.m",
+                              "size": 358,
+                              "sizeHuman": "358 B",
+                              "mtime": "2026/04/15",
+                              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star/node_index.m",
+                              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star/node_index.m",
+                              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star/node_index.m"
+                            }
+                          }
+                        },
+                        "A_star_search.m": {
+                          "_type": "file",
+                          "name": "A_star_search.m",
+                          "size": 5384,
+                          "sizeHuman": "5.3 KB",
+                          "mtime": "2026/04/15",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star_search.m",
+                          "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star_search.m",
+                          "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/A_star_search.m"
+                        },
+                        "main.m": {
+                          "_type": "file",
+                          "name": "main.m",
+                          "size": 512,
+                          "sizeHuman": "512 B",
+                          "mtime": "2026/04/15",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/main.m",
+                          "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/main.m",
+                          "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/main.m"
+                        },
+                        "obstacle_map.m": {
+                          "_type": "file",
+                          "name": "obstacle_map.m",
+                          "size": 605,
+                          "sizeHuman": "605 B",
+                          "mtime": "2026/04/15",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/obstacle_map.m",
+                          "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/obstacle_map.m",
+                          "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/obstacle_map.m"
+                        },
+                        "visualize_map.m": {
+                          "_type": "file",
+                          "name": "visualize_map.m",
+                          "size": 738,
+                          "sizeHuman": "738 B",
+                          "mtime": "2026/04/15",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/visualize_map.m",
+                          "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/visualize_map.m",
+                          "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/matlab版本作业/code/visualize_map.m"
+                        }
+                      }
+                    }
+                  }
+                },
+                "ros版本作业": {
+                  "_type": "folder",
+                  "_children": {
+                    "src": {
+                      "_type": "folder",
+                      "_children": {
+                        "grid_path_searcher": {
+                          "_type": "folder",
+                          "_children": {
+                            "include": {
+                              "_type": "folder",
+                              "_children": {
+                                "Astar_searcher.h": {
+                                  "_type": "file",
+                                  "name": "Astar_searcher.h",
+                                  "size": 1719,
+                                  "sizeHuman": "1.7 KB",
+                                  "mtime": "2026/04/15",
+                                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/include/Astar_searcher.h",
+                                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/include/Astar_searcher.h",
+                                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/include/Astar_searcher.h"
+                                },
+                                "backward.hpp": {
+                                  "_type": "file",
+                                  "name": "backward.hpp",
+                                  "size": 51962,
+                                  "sizeHuman": "50.7 KB",
+                                  "mtime": "2026/04/15",
+                                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/include/backward.hpp",
+                                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/include/backward.hpp",
+                                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/include/backward.hpp"
+                                },
+                                "node.h": {
+                                  "_type": "file",
+                                  "name": "node.h",
+                                  "size": 771,
+                                  "sizeHuman": "771 B",
+                                  "mtime": "2026/04/15",
+                                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/include/node.h",
+                                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/include/node.h",
+                                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/include/node.h"
+                                }
+                              }
+                            },
+                            "launch": {
+                              "_type": "folder",
+                              "_children": {
+                                "rviz_config": {
+                                  "_type": "folder",
+                                  "_children": {
+                                    "demo.rviz": {
+                                      "_type": "file",
+                                      "name": "demo.rviz",
+                                      "size": 7351,
+                                      "sizeHuman": "7.2 KB",
+                                      "mtime": "2026/04/15",
+                                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/launch/rviz_config/demo.rviz",
+                                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/launch/rviz_config/demo.rviz",
+                                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/launch/rviz_config/demo.rviz"
+                                    }
+                                  }
+                                },
+                                "demo.launch": {
+                                  "_type": "file",
+                                  "name": "demo.launch",
+                                  "size": 2401,
+                                  "sizeHuman": "2.3 KB",
+                                  "mtime": "2026/04/15",
+                                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/launch/demo.launch",
+                                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/launch/demo.launch",
+                                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/launch/demo.launch"
+                                }
+                              }
+                            },
+                            "src": {
+                              "_type": "folder",
+                              "_children": {
+                                "Astar_searcher.cpp": {
+                                  "_type": "file",
+                                  "name": "Astar_searcher.cpp",
+                                  "size": 16727,
+                                  "sizeHuman": "16.3 KB",
+                                  "mtime": "2026/04/15",
+                                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/src/Astar_searcher.cpp",
+                                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/src/Astar_searcher.cpp",
+                                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/src/Astar_searcher.cpp"
+                                },
+                                "demo_node.cpp": {
+                                  "_type": "file",
+                                  "name": "demo_node.cpp",
+                                  "size": 7147,
+                                  "sizeHuman": "7.0 KB",
+                                  "mtime": "2026/04/15",
+                                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/src/demo_node.cpp",
+                                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/src/demo_node.cpp",
+                                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/src/demo_node.cpp"
+                                },
+                                "random_complex_generator.cpp": {
+                                  "_type": "file",
+                                  "name": "random_complex_generator.cpp",
+                                  "size": 7463,
+                                  "sizeHuman": "7.3 KB",
+                                  "mtime": "2026/04/15",
+                                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/src/random_complex_generator.cpp",
+                                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/src/random_complex_generator.cpp",
+                                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/src/random_complex_generator.cpp"
+                                }
+                              }
+                            },
+                            "CMakeLists.txt": {
+                              "_type": "file",
+                              "name": "CMakeLists.txt",
+                              "size": 873,
+                              "sizeHuman": "873 B",
+                              "mtime": "2026/04/15",
+                              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/CMakeLists.txt",
+                              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/CMakeLists.txt",
+                              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/CMakeLists.txt"
+                            },
+                            "package.xml": {
+                              "_type": "file",
+                              "name": "package.xml",
+                              "size": 730,
+                              "sizeHuman": "730 B",
+                              "mtime": "2026/04/15",
+                              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/package.xml",
+                              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/package.xml",
+                              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/grid_path_searcher/package.xml"
+                            }
+                          }
+                        },
+                        "rviz_plugins": {
+                          "_type": "folder",
+                          "_children": {
+                            "build": {
+                              "_type": "folder",
+                              "_children": {
+                                "CMakeFiles": {
+                                  "_type": "folder",
+                                  "_children": {
+                                    "2.8.12.2": {
+                                      "_type": "folder",
+                                      "_children": {
+                                        "CompilerIdC": {
+                                          "_type": "folder",
+                                          "_children": {
+                                            "CMakeCCompilerId.c": {
+                                              "_type": "file",
+                                              "name": "CMakeCCompilerId.c",
+                                              "size": 11935,
+                                              "sizeHuman": "11.7 KB",
+                                              "mtime": "2026/04/15",
+                                              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c",
+                                              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c",
+                                              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c"
+                                            },
+                                            "a.out": {
+                                              "_type": "file",
+                                              "name": "a.out",
+                                              "size": 8643,
+                                              "sizeHuman": "8.4 KB",
+                                              "mtime": "2026/04/15",
+                                              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CompilerIdC/a.out",
+                                              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CompilerIdC/a.out",
+                                              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CompilerIdC/a.out"
+                                            }
+                                          }
+                                        },
+                                        "CompilerIdCXX": {
+                                          "_type": "folder",
+                                          "_children": {
+                                            "CMakeCXXCompilerId.cpp": {
+                                              "_type": "file",
+                                              "name": "CMakeCXXCompilerId.cpp",
+                                              "size": 11845,
+                                              "sizeHuman": "11.6 KB",
+                                              "mtime": "2026/04/15",
+                                              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+                                              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+                                              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+                                            },
+                                            "a.out": {
+                                              "_type": "file",
+                                              "name": "a.out",
+                                              "size": 8652,
+                                              "sizeHuman": "8.4 KB",
+                                              "mtime": "2026/04/15",
+                                              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CompilerIdCXX/a.out",
+                                              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CompilerIdCXX/a.out",
+                                              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CompilerIdCXX/a.out"
+                                            }
+                                          }
+                                        },
+                                        "CMakeCCompiler.cmake": {
+                                          "_type": "file",
+                                          "name": "CMakeCCompiler.cmake",
+                                          "size": 1443,
+                                          "sizeHuman": "1.4 KB",
+                                          "mtime": "2026/04/15",
+                                          "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CMakeCCompiler.cmake",
+                                          "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CMakeCCompiler.cmake",
+                                          "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CMakeCCompiler.cmake"
+                                        },
+                                        "CMakeCXXCompiler.cmake": {
+                                          "_type": "file",
+                                          "name": "CMakeCXXCompiler.cmake",
+                                          "size": 1587,
+                                          "sizeHuman": "1.5 KB",
+                                          "mtime": "2026/04/15",
+                                          "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CMakeCXXCompiler.cmake",
+                                          "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CMakeCXXCompiler.cmake",
+                                          "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CMakeCXXCompiler.cmake"
+                                        },
+                                        "CMakeDetermineCompilerABI_C.bin": {
+                                          "_type": "file",
+                                          "name": "CMakeDetermineCompilerABI_C.bin",
+                                          "size": 8547,
+                                          "sizeHuman": "8.3 KB",
+                                          "mtime": "2026/04/15",
+                                          "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CMakeDetermineCompilerABI_C.bin",
+                                          "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CMakeDetermineCompilerABI_C.bin",
+                                          "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CMakeDetermineCompilerABI_C.bin"
+                                        },
+                                        "CMakeDetermineCompilerABI_CXX.bin": {
+                                          "_type": "file",
+                                          "name": "CMakeDetermineCompilerABI_CXX.bin",
+                                          "size": 8560,
+                                          "sizeHuman": "8.4 KB",
+                                          "mtime": "2026/04/15",
+                                          "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CMakeDetermineCompilerABI_CXX.bin",
+                                          "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CMakeDetermineCompilerABI_CXX.bin",
+                                          "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CMakeDetermineCompilerABI_CXX.bin"
+                                        },
+                                        "CMakeSystem.cmake": {
+                                          "_type": "file",
+                                          "name": "CMakeSystem.cmake",
+                                          "size": 471,
+                                          "sizeHuman": "471 B",
+                                          "mtime": "2026/04/15",
+                                          "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CMakeSystem.cmake",
+                                          "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CMakeSystem.cmake",
+                                          "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/2.8.12.2/CMakeSystem.cmake"
+                                        }
+                                      }
+                                    },
+                                    "CMakeDirectoryInformation.cmake": {
+                                      "_type": "file",
+                                      "name": "CMakeDirectoryInformation.cmake",
+                                      "size": 657,
+                                      "sizeHuman": "657 B",
+                                      "mtime": "2026/04/15",
+                                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/CMakeDirectoryInformation.cmake",
+                                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/CMakeDirectoryInformation.cmake",
+                                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/CMakeDirectoryInformation.cmake"
+                                    },
+                                    "CMakeRuleHashes.txt": {
+                                      "_type": "file",
+                                      "name": "CMakeRuleHashes.txt",
+                                      "size": 1436,
+                                      "sizeHuman": "1.4 KB",
+                                      "mtime": "2026/04/15",
+                                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/CMakeRuleHashes.txt",
+                                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/CMakeRuleHashes.txt",
+                                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/CMakeRuleHashes.txt"
+                                    },
+                                    "Makefile.cmake": {
+                                      "_type": "file",
+                                      "name": "Makefile.cmake",
+                                      "size": 10597,
+                                      "sizeHuman": "10.3 KB",
+                                      "mtime": "2026/04/15",
+                                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/Makefile.cmake",
+                                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/Makefile.cmake",
+                                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/Makefile.cmake"
+                                    },
+                                    "Makefile2": {
+                                      "_type": "file",
+                                      "name": "Makefile2",
+                                      "size": 33785,
+                                      "sizeHuman": "33.0 KB",
+                                      "mtime": "2026/04/15",
+                                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/Makefile2",
+                                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/Makefile2",
+                                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/Makefile2"
+                                    },
+                                    "TargetDirectories.txt": {
+                                      "_type": "file",
+                                      "name": "TargetDirectories.txt",
+                                      "size": 1686,
+                                      "sizeHuman": "1.6 KB",
+                                      "mtime": "2026/04/15",
+                                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/TargetDirectories.txt",
+                                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/TargetDirectories.txt",
+                                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/TargetDirectories.txt"
+                                    },
+                                    "cmake.check_cache": {
+                                      "_type": "file",
+                                      "name": "cmake.check_cache",
+                                      "size": 85,
+                                      "sizeHuman": "85 B",
+                                      "mtime": "2026/04/15",
+                                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/cmake.check_cache",
+                                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/cmake.check_cache",
+                                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/cmake.check_cache"
+                                    },
+                                    "progress.marks": {
+                                      "_type": "file",
+                                      "name": "progress.marks",
+                                      "size": 3,
+                                      "sizeHuman": "3 B",
+                                      "mtime": "2026/04/15",
+                                      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/progress.marks",
+                                      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/progress.marks",
+                                      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeFiles/progress.marks"
+                                    }
+                                  }
+                                },
+                                "CATKIN_IGNORE": {
+                                  "_type": "file",
+                                  "name": "CATKIN_IGNORE",
+                                  "size": 0,
+                                  "sizeHuman": "0 B",
+                                  "mtime": "2026/04/15",
+                                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CATKIN_IGNORE",
+                                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CATKIN_IGNORE",
+                                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CATKIN_IGNORE"
+                                },
+                                "CMakeCache.txt": {
+                                  "_type": "file",
+                                  "name": "CMakeCache.txt",
+                                  "size": 71950,
+                                  "sizeHuman": "70.3 KB",
+                                  "mtime": "2026/04/15",
+                                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeCache.txt",
+                                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeCache.txt",
+                                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/CMakeCache.txt"
+                                },
+                                "Makefile": {
+                                  "_type": "file",
+                                  "name": "Makefile",
+                                  "size": 24748,
+                                  "sizeHuman": "24.2 KB",
+                                  "mtime": "2026/04/15",
+                                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/Makefile",
+                                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/Makefile",
+                                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/Makefile"
+                                },
+                                "cmake_install.cmake": {
+                                  "_type": "file",
+                                  "name": "cmake_install.cmake",
+                                  "size": 7933,
+                                  "sizeHuman": "7.7 KB",
+                                  "mtime": "2026/04/15",
+                                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/cmake_install.cmake",
+                                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/cmake_install.cmake",
+                                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/build/cmake_install.cmake"
+                                }
+                              }
+                            },
+                            "CMakeLists.txt": {
+                              "_type": "file",
+                              "name": "CMakeLists.txt",
+                              "size": 3226,
+                              "sizeHuman": "3.2 KB",
+                              "mtime": "2026/04/15",
+                              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/CMakeLists.txt",
+                              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/CMakeLists.txt",
+                              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/CMakeLists.txt"
+                            },
+                            "Makefile": {
+                              "_type": "file",
+                              "name": "Makefile",
+                              "size": 41,
+                              "sizeHuman": "41 B",
+                              "mtime": "2026/04/15",
+                              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/Makefile",
+                              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/Makefile",
+                              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/Makefile"
+                            },
+                            "package.xml": {
+                              "_type": "file",
+                              "name": "package.xml",
+                              "size": 819,
+                              "sizeHuman": "819 B",
+                              "mtime": "2026/04/15",
+                              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/package.xml",
+                              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/package.xml",
+                              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/package.xml"
+                            },
+                            "plugin_description.xml": {
+                              "_type": "file",
+                              "name": "plugin_description.xml",
+                              "size": 927,
+                              "sizeHuman": "927 B",
+                              "mtime": "2026/04/15",
+                              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/plugin_description.xml",
+                              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/plugin_description.xml",
+                              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/rviz_plugins/plugin_description.xml"
+                            }
+                          }
+                        },
+                        "CMakeLists.txt": {
+                          "_type": "file",
+                          "name": "CMakeLists.txt",
+                          "size": 2179,
+                          "sizeHuman": "2.1 KB",
+                          "mtime": "2026/04/15",
+                          "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/CMakeLists.txt",
+                          "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/CMakeLists.txt",
+                          "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/ros版本作业/src/CMakeLists.txt"
+                        }
+                      }
+                    }
+                  }
+                },
+                "report.pdf": {
+                  "_type": "file",
+                  "name": "report.pdf",
+                  "size": 1275303,
+                  "sizeHuman": "1.2 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/report.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/report.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自动驾驶技术基础/2022年秋季学期/实验与大作业-方桂安/Astar_path_planning/report.pdf"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
   "智能科学与技术/大三上/自控实验": {
+    "2022年秋季学期": {
+      "_type": "folder",
+      "_children": {
+        "实验报告与资料-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "中山大学实验报告模板-自控原理实验.docx": {
+              "_type": "file",
+              "name": "中山大学实验报告模板-自控原理实验.docx",
+              "size": 182534,
+              "sizeHuman": "178.3 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/中山大学实验报告模板-自控原理实验.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/中山大学实验报告模板-自控原理实验.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/中山大学实验报告模板-自控原理实验.docx"
+            },
+            "自控实验13.pdf": {
+              "_type": "file",
+              "name": "自控实验13.pdf",
+              "size": 675436,
+              "sizeHuman": "659.6 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验13.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验13.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验13.pdf"
+            },
+            "自控实验14.pdf": {
+              "_type": "file",
+              "name": "自控实验14.pdf",
+              "size": 889707,
+              "sizeHuman": "868.9 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验14.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验14.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验14.pdf"
+            },
+            "自控实验15.pdf": {
+              "_type": "file",
+              "name": "自控实验15.pdf",
+              "size": 485886,
+              "sizeHuman": "474.5 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验15.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验15.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验15.pdf"
+            },
+            "自控实验16.pdf": {
+              "_type": "file",
+              "name": "自控实验16.pdf",
+              "size": 1122884,
+              "sizeHuman": "1.1 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验16.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验16.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验16.pdf"
+            },
+            "自控实验17.pdf": {
+              "_type": "file",
+              "name": "自控实验17.pdf",
+              "size": 1649838,
+              "sizeHuman": "1.6 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验17.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验17.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验17.pdf"
+            },
+            "自控实验18.pdf": {
+              "_type": "file",
+              "name": "自控实验18.pdf",
+              "size": 465967,
+              "sizeHuman": "455.0 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验18.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验18.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/自控实验/2022年秋季学期/实验报告与资料-方桂安/自控实验18.pdf"
+            }
+          }
+        }
+      }
+    },
     "实验报告pdf汇总": {
       "_type": "folder",
       "_children": {

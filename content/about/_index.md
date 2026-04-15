@@ -29,8 +29,10 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
 - 如果该课程目录下尚无 `README.md`，请自行创建，并参考其他课程的 `README.md` 格式进行组织。
 
 > **注意**：README.md开头必须是以`#`开头的一级标题，写上这门课程的名字。
+>
+> 资料按照**2024级**的课程安排排列，其课程安排可以在[Github 仓库](https://github.com/changyicheng1234/OpenISE/blob/main/%E5%9F%B9%E5%85%BB%E6%96%B9%E6%A1%88.csv)中查看
 
-都要求署上你的昵称以及 GitHub主页/邮箱。
+都最好署上你的昵称以及 GitHub主页/邮箱。
 
 ### GitHub Web 端上传方式
 

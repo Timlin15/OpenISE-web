@@ -172,12 +172,19 @@
     </a>
     <a href="https://csbaoyan.top/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
       <img src="https://icons.duckduckgo.com/ip3/csbaoyan.top.ico" alt="CS保研导航 favicon" />
-      <span class="doc-friend-link-title">CS保研导航</span>
+      <span class="doc-friend-link-title">CS保研指南</span>
+    </a>
+    <a href="https://missing-semester-cn.github.io/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+      <img src="https://icons.duckduckgo.com/ip3/missing-semester-cn.github.io.ico" alt="The Missing Semester 中文版 favicon" />
+      <span class="doc-friend-link-title">The Missing Semester</span>
     </a>
   </div>
 </div>
 
+
+
 ## 贡献者
+
 **内容贡献者**
 
 22级 常毅成 陈泓逸 蔡思远

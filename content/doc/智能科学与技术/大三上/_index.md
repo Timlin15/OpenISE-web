@@ -7,6 +7,7 @@ weight: 31
 {{< cards >}}
   {{< card link="分布式计算（含实验）" title="分布式计算（含实验）" >}}
   {{< card link="智能机器人综合实验" title="机器人实验" >}}
+  {{< card link="深度学习" title="深度学习" >}}
   {{< card link="现代控制理论" title="现代控制理论" >}}
   {{< card link="电机与拖动技术" title="传感器原理与应用" >}}
   {{< card link="移动机器人规划" title="移动机器人规划" >}}

@@ -13683,6 +13683,203 @@
       }
     }
   },
+  "智能科学与技术/大三上/深度学习": {
+    "2022年春季学期": {
+      "_type": "folder",
+      "_children": {
+        "实验-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "Objective_Detection": {
+              "_type": "folder",
+              "_children": {
+                "HackPKU 2022 赛道二 题目说明.pdf": {
+                  "_type": "file",
+                  "name": "HackPKU 2022 赛道二 题目说明.pdf",
+                  "size": 1291805,
+                  "sizeHuman": "1.2 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/HackPKU 2022 赛道二 题目说明.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/HackPKU 2022 赛道二 题目说明.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/HackPKU 2022 赛道二 题目说明.pdf"
+                },
+                "data_pre.py": {
+                  "_type": "file",
+                  "name": "data_pre.py",
+                  "size": 6087,
+                  "sizeHuman": "5.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/data_pre.py",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/data_pre.py",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/data_pre.py"
+                },
+                "pred_a.txt": {
+                  "_type": "file",
+                  "name": "pred_a.txt",
+                  "size": 1580081,
+                  "sizeHuman": "1.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_a.txt",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_a.txt",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_a.txt"
+                },
+                "pred_b.txt": {
+                  "_type": "file",
+                  "name": "pred_b.txt",
+                  "size": 873295,
+                  "sizeHuman": "852.8 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_b.txt",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_b.txt",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_b.txt"
+                },
+                "requirements.txt": {
+                  "_type": "file",
+                  "name": "requirements.txt",
+                  "size": 3933,
+                  "sizeHuman": "3.8 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/requirements.txt",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/requirements.txt",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/requirements.txt"
+                },
+                "result_get.py": {
+                  "_type": "file",
+                  "name": "result_get.py",
+                  "size": 2161,
+                  "sizeHuman": "2.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/result_get.py",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/result_get.py",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/result_get.py"
+                },
+                "train.ipynb": {
+                  "_type": "file",
+                  "name": "train.ipynb",
+                  "size": 69348,
+                  "sizeHuman": "67.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/train.ipynb",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/train.ipynb",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/train.ipynb"
+                }
+              }
+            },
+            "Plant_Pathology": {
+              "_type": "folder",
+              "_children": {
+                "Augmentation.ipynb": {
+                  "_type": "file",
+                  "name": "Augmentation.ipynb",
+                  "size": 28835973,
+                  "sizeHuman": "27.5 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/Augmentation.ipynb",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/Augmentation.ipynb",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/Augmentation.ipynb"
+                },
+                "requirements.txt": {
+                  "_type": "file",
+                  "name": "requirements.txt",
+                  "size": 14,
+                  "sizeHuman": "14 B",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/requirements.txt",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/requirements.txt",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/requirements.txt"
+                },
+                "test.py": {
+                  "_type": "file",
+                  "name": "test.py",
+                  "size": 18706,
+                  "sizeHuman": "18.3 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/test.py",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/test.py",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/test.py"
+                },
+                "toy.ipynb": {
+                  "_type": "file",
+                  "name": "toy.ipynb",
+                  "size": 200429,
+                  "sizeHuman": "195.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/toy.ipynb",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/toy.ipynb",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/toy.ipynb"
+                },
+                "train.ipynb": {
+                  "_type": "file",
+                  "name": "train.ipynb",
+                  "size": 41391,
+                  "sizeHuman": "40.4 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/train.ipynb",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/train.ipynb",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/train.ipynb"
+                },
+                "作业文档.pdf": {
+                  "_type": "file",
+                  "name": "作业文档.pdf",
+                  "size": 28238094,
+                  "sizeHuman": "26.9 MB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/作业文档.pdf",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/作业文档.pdf",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/作业文档.pdf"
+                }
+              }
+            },
+            "2021ise.ipynb": {
+              "_type": "file",
+              "name": "2021ise.ipynb",
+              "size": 103878,
+              "sizeHuman": "101.4 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/2021ise.ipynb",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/2021ise.ipynb",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/2021ise.ipynb"
+            },
+            "requirements.txt": {
+              "_type": "file",
+              "name": "requirements.txt",
+              "size": 1915,
+              "sizeHuman": "1.9 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/requirements.txt",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/requirements.txt",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/requirements.txt"
+            },
+            "解题报告.pdf": {
+              "_type": "file",
+              "name": "解题报告.pdf",
+              "size": 2612588,
+              "sizeHuman": "2.5 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/解题报告.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/解题报告.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/实验-方桂安/解题报告.pdf"
+            }
+          }
+        },
+        "真题与复习-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "CCF推荐期刊会议.pdf": {
+              "_type": "file",
+              "name": "CCF推荐期刊会议.pdf",
+              "size": 1051594,
+              "sizeHuman": "1.0 MB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/真题与复习-方桂安/CCF推荐期刊会议.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大三上/深度学习/2022年春季学期/真题与复习-方桂安/CCF推荐期刊会议.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大三上/深度学习/2022年春季学期/真题与复习-方桂安/CCF推荐期刊会议.pdf"
+            }
+          }
+        }
+      }
+    }
+  },
   "智能科学与技术/大三上/现代控制理论": {
     "2021年秋季学期": {
       "_type": "folder",
@@ -22623,6 +22820,16 @@
                   "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/1-实验一(python入门)/assignment1.ipynb",
                   "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/1-实验一(python入门)/assignment1.ipynb",
                   "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/1-实验一(python入门)/assignment1.ipynb"
+                },
+                "diabetes.csv": {
+                  "_type": "file",
+                  "name": "diabetes.csv",
+                  "size": 23097,
+                  "sizeHuman": "22.6 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/1-实验一(python入门)/diabetes.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/1-实验一(python入门)/diabetes.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/1-实验一(python入门)/diabetes.csv"
                 }
               }
             },
@@ -22638,6 +22845,46 @@
                   "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/assignment2.ipynb",
                   "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/assignment2.ipynb",
                   "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/assignment2.ipynb"
+                },
+                "test.csv": {
+                  "_type": "file",
+                  "name": "test.csv",
+                  "size": 952,
+                  "sizeHuman": "952 B",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/test.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/test.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/test.csv"
+                },
+                "test2.csv": {
+                  "_type": "file",
+                  "name": "test2.csv",
+                  "size": 1909,
+                  "sizeHuman": "1.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/test2.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/test2.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/test2.csv"
+                },
+                "train.csv": {
+                  "_type": "file",
+                  "name": "train.csv",
+                  "size": 3809,
+                  "sizeHuman": "3.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/train.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/train.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/train.csv"
+                },
+                "train2.csv": {
+                  "_type": "file",
+                  "name": "train2.csv",
+                  "size": 7620,
+                  "sizeHuman": "7.4 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/train2.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/train2.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/2-实验二(线性回归)/train2.csv"
                 }
               }
             },
@@ -22653,6 +22900,56 @@
                   "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/assignment3.ipynb",
                   "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/assignment3.ipynb",
                   "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/assignment3.ipynb"
+                },
+                "flower_test.csv": {
+                  "_type": "file",
+                  "name": "flower_test.csv",
+                  "size": 439,
+                  "sizeHuman": "439 B",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/flower_test.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/flower_test.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/flower_test.csv"
+                },
+                "flower_train.csv": {
+                  "_type": "file",
+                  "name": "flower_train.csv",
+                  "size": 1692,
+                  "sizeHuman": "1.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/flower_train.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/flower_train.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/flower_train.csv"
+                },
+                "introduction.csv": {
+                  "_type": "file",
+                  "name": "introduction.csv",
+                  "size": 137,
+                  "sizeHuman": "137 B",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/introduction.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/introduction.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/introduction.csv"
+                },
+                "test_titanic.csv": {
+                  "_type": "file",
+                  "name": "test_titanic.csv",
+                  "size": 6894,
+                  "sizeHuman": "6.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/test_titanic.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/test_titanic.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/test_titanic.csv"
+                },
+                "train_titanic.csv": {
+                  "_type": "file",
+                  "name": "train_titanic.csv",
+                  "size": 23266,
+                  "sizeHuman": "22.7 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/train_titanic.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/train_titanic.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/3-实验三(逻辑回归)/train_titanic.csv"
                 },
                 "实验报告.pdf": {
                   "_type": "file",
@@ -22679,6 +22976,26 @@
                   "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/4-实验四(神经网络)/assignment4.ipynb",
                   "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/4-实验四(神经网络)/assignment4.ipynb"
                 },
+                "wine_test.csv": {
+                  "_type": "file",
+                  "name": "wine_test.csv",
+                  "size": 42362,
+                  "sizeHuman": "41.4 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/4-实验四(神经网络)/wine_test.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/4-实验四(神经网络)/wine_test.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/4-实验四(神经网络)/wine_test.csv"
+                },
+                "wine_train.csv": {
+                  "_type": "file",
+                  "name": "wine_train.csv",
+                  "size": 162689,
+                  "sizeHuman": "158.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/4-实验四(神经网络)/wine_train.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/4-实验四(神经网络)/wine_train.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/4-实验四(神经网络)/wine_train.csv"
+                },
                 "实验报告.pdf": {
                   "_type": "file",
                   "name": "实验报告.pdf",
@@ -22694,6 +23011,26 @@
             "5-实验五(支持向量机)": {
               "_type": "folder",
               "_children": {
+                "Raisin_test.csv": {
+                  "_type": "file",
+                  "name": "Raisin_test.csv",
+                  "size": 15373,
+                  "sizeHuman": "15.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/Raisin_test.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/Raisin_test.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/Raisin_test.csv"
+                },
+                "Raisin_train.csv": {
+                  "_type": "file",
+                  "name": "Raisin_train.csv",
+                  "size": 61667,
+                  "sizeHuman": "60.2 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/Raisin_train.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/Raisin_train.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/Raisin_train.csv"
+                },
                 "assignment5.ipynb": {
                   "_type": "file",
                   "name": "assignment5.ipynb",
@@ -22703,6 +23040,26 @@
                   "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/assignment5.ipynb",
                   "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/assignment5.ipynb",
                   "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/assignment5.ipynb"
+                },
+                "dataset1.csv": {
+                  "_type": "file",
+                  "name": "dataset1.csv",
+                  "size": 1084,
+                  "sizeHuman": "1.1 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/dataset1.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/dataset1.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/dataset1.csv"
+                },
+                "dataset2.csv": {
+                  "_type": "file",
+                  "name": "dataset2.csv",
+                  "size": 1065,
+                  "sizeHuman": "1.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/dataset2.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/dataset2.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/5-实验五(支持向量机)/dataset2.csv"
                 },
                 "实验报告.pdf": {
                   "_type": "file",
@@ -22728,6 +23085,26 @@
                   "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/6-实验六(决策树）/assignment6.ipynb",
                   "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/6-实验六(决策树）/assignment6.ipynb",
                   "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/6-实验六(决策树）/assignment6.ipynb"
+                },
+                "test_titanic.csv": {
+                  "_type": "file",
+                  "name": "test_titanic.csv",
+                  "size": 2052,
+                  "sizeHuman": "2.0 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/6-实验六(决策树）/test_titanic.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/6-实验六(决策树）/test_titanic.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/6-实验六(决策树）/test_titanic.csv"
+                },
+                "train_titanic.csv": {
+                  "_type": "file",
+                  "name": "train_titanic.csv",
+                  "size": 10122,
+                  "sizeHuman": "9.9 KB",
+                  "mtime": "2026/04/15",
+                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/6-实验六(决策树）/train_titanic.csv",
+                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/6-实验六(决策树）/train_titanic.csv",
+                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/机器学习/2025年秋季学期/课程实验-林楗棋/6-实验六(决策树）/train_titanic.csv"
                 },
                 "实验报告.pdf": {
                   "_type": "file",
@@ -23174,6 +23551,36 @@
     }
   },
   "智能科学与技术/大二上/认知科学基础": {
+    "2022年春季学期": {
+      "_type": "folder",
+      "_children": {
+        "真题与复习-方桂安": {
+          "_type": "folder",
+          "_children": {
+            "期中课程设计要求.docx": {
+              "_type": "file",
+              "name": "期中课程设计要求.docx",
+              "size": 14796,
+              "sizeHuman": "14.4 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/认知科学基础/2022年春季学期/真题与复习-方桂安/期中课程设计要求.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/认知科学基础/2022年春季学期/真题与复习-方桂安/期中课程设计要求.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/认知科学基础/2022年春季学期/真题与复习-方桂安/期中课程设计要求.docx"
+            },
+            "课程设计要求.pdf": {
+              "_type": "file",
+              "name": "课程设计要求.pdf",
+              "size": 149220,
+              "sizeHuman": "145.7 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/认知科学基础/2022年春季学期/真题与复习-方桂安/课程设计要求.pdf",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二上/认知科学基础/2022年春季学期/真题与复习-方桂安/课程设计要求.pdf",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二上/认知科学基础/2022年春季学期/真题与复习-方桂安/课程设计要求.pdf"
+            }
+          }
+        }
+      }
+    },
     "2024年春季学期": {
       "_type": "folder",
       "_children": {
@@ -28218,6 +28625,86 @@
               "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/毛概重点.pdf",
               "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/毛概重点.pdf"
             },
+            "第一章  毛泽东思想及其历史地位.docx": {
+              "_type": "file",
+              "name": "第一章  毛泽东思想及其历史地位.docx",
+              "size": 19808,
+              "sizeHuman": "19.3 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第一章  毛泽东思想及其历史地位.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第一章  毛泽东思想及其历史地位.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第一章  毛泽东思想及其历史地位.docx"
+            },
+            "第七章  “三个代表”重要思想.docx": {
+              "_type": "file",
+              "name": "第七章  “三个代表”重要思想.docx",
+              "size": 22618,
+              "sizeHuman": "22.1 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第七章  “三个代表”重要思想.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第七章  “三个代表”重要思想.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第七章  “三个代表”重要思想.docx"
+            },
+            "第三章  社会主义改造理论.docx": {
+              "_type": "file",
+              "name": "第三章  社会主义改造理论.docx",
+              "size": 18289,
+              "sizeHuman": "17.9 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第三章  社会主义改造理论.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第三章  社会主义改造理论.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第三章  社会主义改造理论.docx"
+            },
+            "第二章  新民主主义革命理论.docx": {
+              "_type": "file",
+              "name": "第二章  新民主主义革命理论.docx",
+              "size": 22473,
+              "sizeHuman": "21.9 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第二章  新民主主义革命理论.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第二章  新民主主义革命理论.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第二章  新民主主义革命理论.docx"
+            },
+            "第五章  中国特色社会主义理论体系的形成和发展.docx": {
+              "_type": "file",
+              "name": "第五章  中国特色社会主义理论体系的形成和发展.docx",
+              "size": 15431,
+              "sizeHuman": "15.1 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第五章  中国特色社会主义理论体系的形成和发展.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第五章  中国特色社会主义理论体系的形成和发展.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第五章  中国特色社会主义理论体系的形成和发展.docx"
+            },
+            "第八章  科学发展观.docx": {
+              "_type": "file",
+              "name": "第八章  科学发展观.docx",
+              "size": 19711,
+              "sizeHuman": "19.2 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第八章  科学发展观.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第八章  科学发展观.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第八章  科学发展观.docx"
+            },
+            "第六章  邓小平理论.docx": {
+              "_type": "file",
+              "name": "第六章  邓小平理论.docx",
+              "size": 20175,
+              "sizeHuman": "19.7 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第六章  邓小平理论.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第六章  邓小平理论.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第六章  邓小平理论.docx"
+            },
+            "第四章  社会主义建设道路初步探索的理论成果.docx": {
+              "_type": "file",
+              "name": "第四章  社会主义建设道路初步探索的理论成果.docx",
+              "size": 17660,
+              "sizeHuman": "17.2 KB",
+              "mtime": "2026/04/15",
+              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第四章  社会主义建设道路初步探索的理论成果.docx",
+              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第四章  社会主义建设道路初步探索的理论成果.docx",
+              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/第四章  社会主义建设道路初步探索的理论成果.docx"
+            },
             "考试.pdf": {
               "_type": "file",
               "name": "考试.pdf",
@@ -28227,285 +28714,6 @@
               "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/考试.pdf",
               "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/考试.pdf",
               "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概/2022年春季学期/真题与复习-方桂安/考试.pdf"
-            }
-          }
-        }
-      }
-    }
-  },
-  "智能科学与技术/大二下/毛概期末复习": {
-    "第一章  毛泽东思想及其历史地位.docx": {
-      "_type": "file",
-      "name": "第一章  毛泽东思想及其历史地位.docx",
-      "size": 19808,
-      "sizeHuman": "19.3 KB",
-      "mtime": "2026/04/15",
-      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第一章  毛泽东思想及其历史地位.docx",
-      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第一章  毛泽东思想及其历史地位.docx",
-      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概期末复习/第一章  毛泽东思想及其历史地位.docx"
-    },
-    "第七章  “三个代表”重要思想.docx": {
-      "_type": "file",
-      "name": "第七章  “三个代表”重要思想.docx",
-      "size": 22618,
-      "sizeHuman": "22.1 KB",
-      "mtime": "2026/04/15",
-      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第七章  “三个代表”重要思想.docx",
-      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第七章  “三个代表”重要思想.docx",
-      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概期末复习/第七章  “三个代表”重要思想.docx"
-    },
-    "第三章  社会主义改造理论.docx": {
-      "_type": "file",
-      "name": "第三章  社会主义改造理论.docx",
-      "size": 18289,
-      "sizeHuman": "17.9 KB",
-      "mtime": "2026/04/15",
-      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第三章  社会主义改造理论.docx",
-      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第三章  社会主义改造理论.docx",
-      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概期末复习/第三章  社会主义改造理论.docx"
-    },
-    "第二章  新民主主义革命理论.docx": {
-      "_type": "file",
-      "name": "第二章  新民主主义革命理论.docx",
-      "size": 22473,
-      "sizeHuman": "21.9 KB",
-      "mtime": "2026/04/15",
-      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第二章  新民主主义革命理论.docx",
-      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第二章  新民主主义革命理论.docx",
-      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概期末复习/第二章  新民主主义革命理论.docx"
-    },
-    "第五章  中国特色社会主义理论体系的形成和发展.docx": {
-      "_type": "file",
-      "name": "第五章  中国特色社会主义理论体系的形成和发展.docx",
-      "size": 15431,
-      "sizeHuman": "15.1 KB",
-      "mtime": "2026/04/15",
-      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第五章  中国特色社会主义理论体系的形成和发展.docx",
-      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第五章  中国特色社会主义理论体系的形成和发展.docx",
-      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概期末复习/第五章  中国特色社会主义理论体系的形成和发展.docx"
-    },
-    "第八章  科学发展观.docx": {
-      "_type": "file",
-      "name": "第八章  科学发展观.docx",
-      "size": 19711,
-      "sizeHuman": "19.2 KB",
-      "mtime": "2026/04/15",
-      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第八章  科学发展观.docx",
-      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第八章  科学发展观.docx",
-      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概期末复习/第八章  科学发展观.docx"
-    },
-    "第六章  邓小平理论.docx": {
-      "_type": "file",
-      "name": "第六章  邓小平理论.docx",
-      "size": 20175,
-      "sizeHuman": "19.7 KB",
-      "mtime": "2026/04/15",
-      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第六章  邓小平理论.docx",
-      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第六章  邓小平理论.docx",
-      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概期末复习/第六章  邓小平理论.docx"
-    },
-    "第四章  社会主义建设道路初步探索的理论成果.docx": {
-      "_type": "file",
-      "name": "第四章  社会主义建设道路初步探索的理论成果.docx",
-      "size": 17660,
-      "sizeHuman": "17.2 KB",
-      "mtime": "2026/04/15",
-      "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第四章  社会主义建设道路初步探索的理论成果.docx",
-      "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/毛概期末复习/第四章  社会主义建设道路初步探索的理论成果.docx",
-      "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/毛概期末复习/第四章  社会主义建设道路初步探索的理论成果.docx"
-    }
-  },
-  "智能科学与技术/大二下/深度学习": {
-    "2022年春季学期": {
-      "_type": "folder",
-      "_children": {
-        "实验-方桂安": {
-          "_type": "folder",
-          "_children": {
-            "Objective_Detection": {
-              "_type": "folder",
-              "_children": {
-                "HackPKU 2022 赛道二 题目说明.pdf": {
-                  "_type": "file",
-                  "name": "HackPKU 2022 赛道二 题目说明.pdf",
-                  "size": 1291805,
-                  "sizeHuman": "1.2 MB",
-                  "mtime": "2026/04/15",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/HackPKU 2022 赛道二 题目说明.pdf",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/HackPKU 2022 赛道二 题目说明.pdf",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/HackPKU 2022 赛道二 题目说明.pdf"
-                },
-                "data_pre.py": {
-                  "_type": "file",
-                  "name": "data_pre.py",
-                  "size": 6087,
-                  "sizeHuman": "5.9 KB",
-                  "mtime": "2026/04/15",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/data_pre.py",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/data_pre.py",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/data_pre.py"
-                },
-                "pred_a.txt": {
-                  "_type": "file",
-                  "name": "pred_a.txt",
-                  "size": 1580081,
-                  "sizeHuman": "1.5 MB",
-                  "mtime": "2026/04/15",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_a.txt",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_a.txt",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_a.txt"
-                },
-                "pred_b.txt": {
-                  "_type": "file",
-                  "name": "pred_b.txt",
-                  "size": 873295,
-                  "sizeHuman": "852.8 KB",
-                  "mtime": "2026/04/15",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_b.txt",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_b.txt",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/pred_b.txt"
-                },
-                "requirements.txt": {
-                  "_type": "file",
-                  "name": "requirements.txt",
-                  "size": 3933,
-                  "sizeHuman": "3.8 KB",
-                  "mtime": "2026/04/15",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/requirements.txt",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/requirements.txt",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/requirements.txt"
-                },
-                "result_get.py": {
-                  "_type": "file",
-                  "name": "result_get.py",
-                  "size": 2161,
-                  "sizeHuman": "2.1 KB",
-                  "mtime": "2026/04/15",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/result_get.py",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/result_get.py",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/result_get.py"
-                },
-                "train.ipynb": {
-                  "_type": "file",
-                  "name": "train.ipynb",
-                  "size": 69348,
-                  "sizeHuman": "67.7 KB",
-                  "mtime": "2026/04/15",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/train.ipynb",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/train.ipynb",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Objective_Detection/train.ipynb"
-                }
-              }
-            },
-            "Plant_Pathology": {
-              "_type": "folder",
-              "_children": {
-                "Augmentation.ipynb": {
-                  "_type": "file",
-                  "name": "Augmentation.ipynb",
-                  "size": 28835973,
-                  "sizeHuman": "27.5 MB",
-                  "mtime": "2026/04/15",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/Augmentation.ipynb",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/Augmentation.ipynb",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/Augmentation.ipynb"
-                },
-                "requirements.txt": {
-                  "_type": "file",
-                  "name": "requirements.txt",
-                  "size": 14,
-                  "sizeHuman": "14 B",
-                  "mtime": "2026/04/15",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/requirements.txt",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/requirements.txt",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/requirements.txt"
-                },
-                "test.py": {
-                  "_type": "file",
-                  "name": "test.py",
-                  "size": 18706,
-                  "sizeHuman": "18.3 KB",
-                  "mtime": "2026/04/15",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/test.py",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/test.py",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/test.py"
-                },
-                "toy.ipynb": {
-                  "_type": "file",
-                  "name": "toy.ipynb",
-                  "size": 200429,
-                  "sizeHuman": "195.7 KB",
-                  "mtime": "2026/04/15",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/toy.ipynb",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/toy.ipynb",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/toy.ipynb"
-                },
-                "train.ipynb": {
-                  "_type": "file",
-                  "name": "train.ipynb",
-                  "size": 41391,
-                  "sizeHuman": "40.4 KB",
-                  "mtime": "2026/04/15",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/train.ipynb",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/train.ipynb",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/train.ipynb"
-                },
-                "作业文档.pdf": {
-                  "_type": "file",
-                  "name": "作业文档.pdf",
-                  "size": 28238094,
-                  "sizeHuman": "26.9 MB",
-                  "mtime": "2026/04/15",
-                  "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/作业文档.pdf",
-                  "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/作业文档.pdf",
-                  "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/Plant_Pathology/作业文档.pdf"
-                }
-              }
-            },
-            "2021ise.ipynb": {
-              "_type": "file",
-              "name": "2021ise.ipynb",
-              "size": 103878,
-              "sizeHuman": "101.4 KB",
-              "mtime": "2026/04/15",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/2021ise.ipynb",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/2021ise.ipynb",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/2021ise.ipynb"
-            },
-            "requirements.txt": {
-              "_type": "file",
-              "name": "requirements.txt",
-              "size": 1915,
-              "sizeHuman": "1.9 KB",
-              "mtime": "2026/04/15",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/requirements.txt",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/requirements.txt",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/requirements.txt"
-            },
-            "解题报告.pdf": {
-              "_type": "file",
-              "name": "解题报告.pdf",
-              "size": 2612588,
-              "sizeHuman": "2.5 MB",
-              "mtime": "2026/04/15",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/解题报告.pdf",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/解题报告.pdf",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/实验-方桂安/解题报告.pdf"
-            }
-          }
-        },
-        "真题与复习-方桂安": {
-          "_type": "folder",
-          "_children": {
-            "CCF推荐期刊会议.pdf": {
-              "_type": "file",
-              "name": "CCF推荐期刊会议.pdf",
-              "size": 1051594,
-              "sizeHuman": "1.0 MB",
-              "mtime": "2026/04/15",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/真题与复习-方桂安/CCF推荐期刊会议.pdf",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/深度学习/2022年春季学期/真题与复习-方桂安/CCF推荐期刊会议.pdf",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/深度学习/2022年春季学期/真题与复习-方桂安/CCF推荐期刊会议.pdf"
             }
           }
         }
@@ -29136,38 +29344,6 @@
               "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/计算机辅助设计/2022年春季学期/真题与复习-方桂安/【2021年第2学期】《计算机辅助设计》期中考试.pdf",
               "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/计算机辅助设计/2022年春季学期/真题与复习-方桂安/【2021年第2学期】《计算机辅助设计》期中考试.pdf",
               "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/计算机辅助设计/2022年春季学期/真题与复习-方桂安/【2021年第2学期】《计算机辅助设计》期中考试.pdf"
-            }
-          }
-        }
-      }
-    }
-  },
-  "智能科学与技术/大二下/认知科学基础": {
-    "2022年春季学期": {
-      "_type": "folder",
-      "_children": {
-        "真题与复习-方桂安": {
-          "_type": "folder",
-          "_children": {
-            "期中课程设计要求.docx": {
-              "_type": "file",
-              "name": "期中课程设计要求.docx",
-              "size": 14796,
-              "sizeHuman": "14.4 KB",
-              "mtime": "2026/04/15",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/认知科学基础/2022年春季学期/真题与复习-方桂安/期中课程设计要求.docx",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/认知科学基础/2022年春季学期/真题与复习-方桂安/期中课程设计要求.docx",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/认知科学基础/2022年春季学期/真题与复习-方桂安/期中课程设计要求.docx"
-            },
-            "课程设计要求.pdf": {
-              "_type": "file",
-              "name": "课程设计要求.pdf",
-              "size": 149220,
-              "sizeHuman": "145.7 KB",
-              "mtime": "2026/04/15",
-              "url": "https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/认知科学基础/2022年春季学期/真题与复习-方桂安/课程设计要求.pdf",
-              "mirrorUrl": "https://ghfast.top/https://raw.githubusercontent.com/changyicheng1234/OpenISE/main/智能科学与技术/大二下/认知科学基础/2022年春季学期/真题与复习-方桂安/课程设计要求.pdf",
-              "repoUrl": "https://github.com/changyicheng1234/OpenISE/blob/main/智能科学与技术/大二下/认知科学基础/2022年春季学期/真题与复习-方桂安/课程设计要求.pdf"
             }
           }
         }

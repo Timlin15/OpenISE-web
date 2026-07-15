@@ -3,3 +3,12 @@
     display: flex !important;
   }
 }
+
+/* Shields badges are inline labels, not standalone content images. */
+.content img[src*="img.shields.io/"] {
+  display: inline-block;
+  width: auto;
+  margin: 0 0.25rem 0 0;
+  border-radius: 0;
+  vertical-align: middle;
+}

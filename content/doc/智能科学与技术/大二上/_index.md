@@ -10,7 +10,7 @@ weight: 21
   {{< card link="工程数学" title="工程数学" >}}
   {{< card link="微机原理" title="微机原理" >}}
   {{< card link="数字逻辑设计" title="数字逻辑设计" >}}
-  {{< card link="数字逻辑设计实验" title="传感器原理与应用" >}}
+  {{< card link="数字逻辑设计实验" title="数字逻辑设计实验" >}}
   {{< card link="数据结构与算法" title="数据结构与算法" >}}
   {{< card link="机器学习" title="机器学习" >}}
   {{< card link="认知科学基础" title="认知科学基础" >}}

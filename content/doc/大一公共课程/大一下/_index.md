@@ -12,9 +12,9 @@ weight: 12
   {{< card link="概统" title="概率统计" >}}
   {{< card link="电工电子技术" title="电工电子技术" >}}
   {{< card link="电工电子技术实验" title="电工电子技术实验" >}}
-  {{< card link="电路" title="电路" >}}
+  {{< card link="电路" title="电路理论基础" >}}
   {{< card link="电路理论基础实验" title="电路理论基础实验" >}}
-  {{< card link="线代" title="线代" >}}
+  {{< card link="线代" title="线性代数" >}}
   {{< card link="英语" title="英语" >}}
   {{< card link="高数下" title="高数下" >}}
 {{< /cards >}}

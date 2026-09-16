@@ -154,9 +154,9 @@
       <img src="https://icons.duckduckgo.com/ip3/sysu-remajor.github.io.ico" alt="SYSU 转专业手册 favicon" />
       <span class="doc-friend-link-title">SYSU 转专业手册</span>
     </a>
-    <a href="https://yigebande.github.io/SYSU-SAA-Survival-Manual/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
-      <img src="https://icons.duckduckgo.com/ip3/yigebande.github.io.ico" alt="航院生存手册 favicon" />
-      <span class="doc-friend-link-title">航院生存手册</span>
+    <a href="https://www.sysu-ise-competition-hub.online/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
+      <img src="https://icons.duckduckgo.com/ip3/www.sysu-ise-competition-hub.online.ico" alt="竞赛指南 favicon" />
+      <span class="doc-friend-link-title">竞赛指南</span>
     </a>
     <a href="https://survivesjtu.gitbook.io/survivesjtumanual" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
       <img src="https://icons.duckduckgo.com/ip3/survivesjtu.gitbook.io.ico" alt="上海交大生存手册 favicon" />
@@ -165,10 +165,6 @@
     <a href="https://csdiy.wiki/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
       <img src="https://icons.duckduckgo.com/ip3/csdiy.wiki.ico" alt="CS自学指南 favicon" />
       <span class="doc-friend-link-title">CS自学指南</span>
-    </a>
-    <a href="https://manual.xn--xkrsa0ti6rf4cf98d.com/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
-      <img src="https://icons.duckduckgo.com/ip3/manual.xn--xkrsa0ti6rf4cf98d.com.ico" alt="华南理工生存手册 favicon" />
-      <span class="doc-friend-link-title">华南理工生存手册</span>
     </a>
     <a href="https://csbaoyan.top/" target="_blank" rel="noopener noreferrer" class="doc-friend-link">
       <img src="https://icons.duckduckgo.com/ip3/csbaoyan.top.ico" alt="CS保研导航 favicon" />
